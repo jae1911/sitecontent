@@ -1,6 +1,7 @@
 ---
 title: "Index"
 menus: ["main"]
+description: "The website of Jae Lo Presti."
 ---
 
 # Welcome to my website!

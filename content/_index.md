@@ -31,7 +31,8 @@ Matrix will likely get you the fastest response tho I read and respond to every 
 
 ## Latest of the blog
 
-Don't miss anything from the blog [by adding it to your RSS reader](/blog/index.xml).
+Don't miss anything from the blog [by adding it to your RSS reader](/blog/index.xml).  
+Feeds in [JSON](/blog/index.json) and [ATOM](/blog/index.atom) are also available!
 
 {{< postlist >}}
 

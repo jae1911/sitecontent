@@ -1,0 +1,56 @@
+---
+title: "Transphobes Begone"
+---
+
+# Transphobes begone
+
+Facts about transition (TLDR: it works). Never forget, TRANS RIGHTS ARE HUMAN RIGHTS. Also if you have been redirected here but is not a bigot, no worries, this is a collection of sources, just look a bit down on how to access all of those studies.
+
+Every point has an affirmation and is sourced and accompanied with a DOI.
+
+ - Medical transition works[^1]·[^2]·[^3]·[^4]·[^5]·[^6]·[^7]
+ - “80% of Individuals Reported significant improvements in dysphoria”[^8]
+ - “Wellbeing was similar to or better than same-age young adults from the general population”[^9]
+ - “Quality of life rises dramatically with 'gender affirming treatment'”[^10]·[^11]
+ - Medical transition works on the long term[^12]·[^13]·[^14]·[^15]·[^16]
+ - “Does not support an adverse impact of gender-affirming hormone therapy on cognitive performance”[^17]
+ - “Our results suggest that there are no detrimental effects of GNRHA on EF”[^18]
+ - [Social transition is] “shown to correlate with improved psychological functioning”[^19]
+ - [transition] “relives distress for trans adolescents” and “is reversible”[^20]
+ - “Poorer psychological well-being before treatment”[^21]
+ - “Behavioral and emotional problems and depressive symptoms decreased”[^22]
+ - Hormone blockers are now new “Since the mid 1900's…” and “the royal college of psychiatrists in 1998…”[^23]
+ - Hormone blockers aren't harmful to bone density[^24]·[^25]
+ - Social/Familial support helps and decreases the likelihood of a suicide from 50% to 4%[^26]·[^27]·[^28]·[^29]
+
+You can access all of those articles through [Sci-Hub](https://sci-hub.se/) for free (or you can DM the DOI to the [Sci-Hub bot on Telegram](https://t.me/scihubot)). If you need help understanding some words, expression or some studies, ask around, it is never shameful to ask for help in a subject you don't know about.
+
+[^1]: Turban, J. L., King, D., Carswell, J. M., & Keuroghlian, A. S. (2020). Pubertal Suppression for Transgender Youth and Risk of Suicidal Ideation. Pediatrics, e20191725. doi:10.1542/peds.2019-1725
+[^2]: Costa, R., Dunsford, M., Skagerberg, E., Holt, V., Carmichael, P., & Colizzi, M. (2015). Psychological Support, Puberty Suppression, and Psychosocial Functioning in Adolescents with Gender Dysphoria. The Journal of Sexual Medicine, 12(11), 2206–2214. doi:10.1111/jsm.13034
+[^3]: Giordano, S. (2008). Lives in a chiaroscuro. Should we suspend the puberty of children with gender identity disorder? Journal of Medical Ethics, 34(8), 580–584. doi:10.1136/jme.2007.021097
+[^4]: Gallagher, J. S., Missmer, S. A., Hornstein, M. D., Laufer, M. R., Gordon, C. M., & DiVasta, A. D. (2018). Long-Term Effects of Gonadotropin-Releasing Hormone Agonists and Add-Back in Adolescent Endometriosis. Journal of Pediatric and Adolescent Gynecology, 31(4), 376–381. doi:10.1016/j.jpag.2018.03.004
+[^5]: Neely, E. K., Lee, P. A., Bloch, C. A., Larsen, L., Yang, D., Mattia-Goldberg, C., & Chwalisz, K. (2010). Leuprolide Acetate 1-Month Depot for Central Precocious Puberty: Hormonal Suppression and Recovery. International Journal of Pediatric Endocrinology, 2010, 1–9. doi:10.1155/2010/398639
+[^6]: Heger, S., Müller, M., Ranke, M., Schwarz, H.-P., Waldhauser, F., Partsch, C.-J., & Sippell, W. G. (2006). Long-term GnRH agonist treatment for female central precocious puberty does not impair reproductive function. Molecular and Cellular Endocrinology, 254-255, 217–220. doi:10.1016/j.mce.2006.04.012
+[^7]: White Hughto, J. M., & Reisner, S. L. (2016). A Systematic Review of the Effects of Hormone Therapy on Psychological Functioning and Quality of Life in Transgender Individuals. Transgender Health, 1(1), 21–31. doi:10.1089/trgh.2015.0008
+[^8]: Mohammad Hassan Murad, Mohamed B Elamin, Magaly Zumaeta Garcia, Rebecca J Mullan, Ayman Murad, Patricia J Erwin, Victor M Montori, “Hormonal therapy and sex reassignment: a systematic review and meta-analysis of quality of life and psychosocial outcomes”, May 2009, doi:10.1111/j.1365-2265.2009.03625.x
+[^9]: Annelou L C de Vries, Jenifer K McGuire, Thomas D Steensma, Eva C F Wagenaar, Theo A H Doreleijers, Peggy T Cohen-Kettenis, “Young adult psychological outcome after puberty suppression and gender reassignment”, September 2014, doi:10.1542/peds.2013-2958
+[^10]: Nobili, A., Glazebrook, C., & Arcelus, J. (2018). Quality of life of treatment-seeking transgender adults: A systematic review and meta-analysis. Reviews in Endocrine and Metabolic Disorders. doi:10.1007/s11154-018-9459-y
+[^11]: Magiakou, M. A., Manousaki, D., Papadaki, M., Hadjidakis, D., Levidou, G., Vakaki, M., … Dacou-Voutetakis, C. (2010). The Efficacy and Safety of Gonadotropin-Releasing Hormone Analog Treatment in Childhood and Adolescence: A Single Center, Long-Term Follow-Up Study. The Journal of Clinical Endocrinology & Metabolism, 95(1), 109–117. doi:10.1210/jc.2009-0793
+[^12]: Weyers, S., Elaut, E., De Sutter, P., Gerris, J., T’Sjoen, G., Heylens, G., … Verstraelen, H. (2009). Long-term Assessment of the Physical, Mental, and Sexual Health among Transsexual Women. The Journal of Sexual Medicine, 6(3), 752–760. doi:10.1111/j.1743-6109.2008.01082
+[^13]: Ruppin, U., & Pfäfflin, F. (2015). Long-Term Follow-Up of Adults with Gender Identity Disorder. Archives of Sexual Behavior, 44(5), 1321–1329. doi:10.1007/s10508-014-0453-5
+[^14]: Johansson, A., Sundbom, E., Höjerback, T., & Bodlund, O. (2009). A Five-Year Follow-Up Study of Swedish Adults with Gender Identity Disorder. Archives of Sexual Behavior, 39(6), 1429–1437. doi:10.1007/s10508-009-9551-1
+[^15]: Dhejne, C., Öberg, K., Arver, S., & Landén, M. (2014). An Analysis of All Applications for Sex Reassignment Surgery in Sweden, 1960–2010: Prevalence, Incidence, and Regrets. Archives of Sexual Behavior, 43(8), 1535–1545. doi:10.1007/s10508-014-0300-8
+[^16]: COHEN-KETTENIS, P. T., & VAN GOOZEN, S. H. M. (1997). Sex Reassignment of Adolescent Transsexuals: A Follow-up Study. Journal of the American Academy of Child & Adolescent Psychiatry, 36(2), 263–271. doi:10.1097/00004583-199702000-00017
+[^17]: Karalexi, M. A., Georgakis, M. K., Dimitriou, N. G., Vichos, T., Katsimpris, A., Petridou, E. T., & Papadopoulos, F. C. (2020). Gender-affirming hormone treatment and cognitive function in transgender young adults: a systematic review and meta-analysis. Psychoneuroendocrinology, 119, 104721. doi:10.1016/j.psyneuen.2020.104721
+[^18]: Staphorsius, A. S., Kreukels, B. P. C., Cohen-Kettenis, P. T., Veltman, D. J., Burke, S. M., Schagen, S. E. E., … Bakker, J. (2015). Puberty suppression and executive functioning: An fMRI-study in adolescents with gender dysphoria. Psychoneuroendocrinology, 56, 190–199. doi:10.1016/j.psyneuen.2015.03.007
+[^19]: Connolly, M. D., Zervos, M. J., Barone, C. J., Johnson, C. C., & Joseph, C. L. M. (2016). The Mental Health of Transgender Youth: Advances in Understanding. Journal of Adolescent Health, 59(5), 489–495. doi:10.1016/j.jadohealth.2016.06.012
+[^20]: Hembree, W. C., Cohen-Kettenis, P. T., Gooren, L., Hannema, S. E., Meyer, W. J., Murad, M. H., … T’Sjoen, G. G. (2017). Endocrine Treatment of Gender-Dysphoric/Gender-Incongruent Persons: An Endocrine Society* Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism, 102(11), 3869–3903. doi:10.1210/jc.2017-01658
+[^21]: Van der Miesen, A. I. R., Steensma, T. D., de Vries, A. L. C., Bos, H., & Popma, A. (2020). Psychological Functioning in Transgender Adolescents Before and After Gender-Affirmative Care Compared With Cisgender General Population Peers. Journal of Adolescent Health. doi:10.1016/j.jadohealth.2019.12.018
+[^22]: De Vries, A. L. C., Steensma, T. D., Doreleijers, T. A. H., & Cohen‐Kettenis, P. T. (2011). Puberty Suppression in Adolescents With Gender Identity Disorder: A Prospective Follow‐Up Study. The Journal of Sexual Medicine, 8(8), 2276–2283. doi:10.1111/j.1743-6109.2010.01943.x
+[^23]: Giordano, S., & Holm, S. (2020). Is puberty delaying treatment “experimental treatment”? International Journal of Transgender Health, 1–9. doi:10.1080/26895269.2020.1747768
+[^24]: Fighera, T. M., Ziegelmann, P. K., Rasia da Silva, T., & Spritzer, P. M. (2019). Bone Mass Effects of Cross-Sex Hormone Therapy in Transgender People: Updated Systematic Review and Meta-Analysis. Journal of the Endocrine Society, 3(5), 943–964. doi:10.1210/js.2018-00413
+[^25]: Delgado-Ruiz, Swanson, & Romanos. (2019). Systematic Review of the Long-Term Effects of Transgender Hormone Therapy on Bone Markers and Bone Mineral Density and Their Potential Effects in Implant Therapy. Journal of Clinical Medicine, 8(6), 784. doi:10.3390/jcm8060784
+[^26]: Olson, K. R., Durwood, L., DeMeules, M., & McLaughlin, K. A. (2016). Mental Health of Transgender Children Who Are Supported in Their Identities. Pediatrics, 137(3), e20153223. doi:10.1542/peds.2015-3223
+[^27]: Trujillo, M. A., Perrin, P. B., Sutter, M., Tabaac, A., & Benotsch, E. G. (2016). The buffering role of social support on the associations among discrimination, mental health, and suicidality in a transgender sample. International Journal of Transgenderism, 18(1), 39–52. doi:10.1080/15532739.2016.1247405
+[^28]: Bauer, G. R., Scheim, A. I., Pyne, J., Travers, R., & Hammond, R. (2015). Intervenable factors associated with suicide risk in transgender persons: a respondent driven sampling study in Ontario, Canada. BMC Public Health, 15(1). doi:10.1186/s12889-015-1867-2
+[^29]: Başar, K., Öz, G., & Karakaya, J. (2016). Perceived Discrimination, Social Support, and Quality of Life in Gender Dysphoria. The Journal of Sexual Medicine, 13(7), 1133–1141. doi:10.1016/j.jsxm.2016.04.071

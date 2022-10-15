@@ -1,5 +1,6 @@
 ---
 title: "Index"
+menus: ["main"]
 ---
 
 # Welcome to my website!

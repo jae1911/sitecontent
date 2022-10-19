@@ -1,6 +1,7 @@
 ---
 title: "Stickers"
 menus: ["main"]
+description: "All of my stickers on my machines."
 ---
 
 # Stickers
@@ -49,8 +50,59 @@ The Enby Lobster from Fransgenre.
 ![Sticker of a trans salamander](https://bm.jae.su/ShareX/2022/10/Element_3Qr1V98Z65.png)
 The Trans Salamander from Fransgenre.
 
+![Sticker of plurality](https://bm.jae.su/ShareX/2022/10/ApplicationFrameHost_1cPvAc6fLq.png)
+Symbol of Plurality.
+
 ![Sticker of a person in a hoodie with the text "HelSec"](https://bm.jae.su/ShareX/2022/10/Element_DMIPOMHdF8.png)
 ![Sticker of a ANSI art saying "HelSec"](https://bm.jae.su/ShareX/2022/10/Element_cml0jN6u7v.png)
 ![Sticker saying "Virtual Meetup Helsec"](https://bm.jae.su/ShareX/2022/10/Element_9DHHAmhCsX.png)
 ![Sticker saying "The fisherman isn't always your friend"](https://bm.jae.su/ShareX/2022/10/Element_WwyLeYuc4h.png)
 Stickers gotten from HelSec as a member.
+
+## Laptop 2 - Dell XPS
+
+This laptop is my daily driver and runs ArchLinux. Really good laptop.
+
+![Picture of Dell XPS Laptop with stickers all over](https://bm.jae.su/ShareX/2022/10/IMG_20221019_203918.jpg)
+
+As for the stickers:
+
+![Sticker of a blue fox](https://bm.jae.su/ShareX/2022/10/ApplicationFrameHost_2FpsyeUD3v.png)
+Still the same Foxo sticker.
+
+![Sticker of Plurality](https://bm.jae.su/ShareX/2022/10/ApplicationFrameHost_qRFQ93grTo.png)
+Symbol of Plurality.
+
+![White sticker with text saying "TeDomum.net, make yourself at home"](https://bm.jae.su/ShareX/2022/10/ApplicationFrameHost_o8otPR0oza.png)
+Sticker of TeDomum.
+
+![Sticker depicting a Synth with written "Synth Inside"](https://bm.jae.su/ShareX/2022/10/ApplicationFrameHost_5m4S0q1QfX.png)
+Synth propaganda sticker bought at EF2022 by a friend (again big thanks to him!).
+
+![Sticker saying "- HEAD Genève"](https://bm.jae.su/ShareX/2022/10/ApplicationFrameHost_de9mbuwoaX.png)
+The school my sister is studying at.
+
+![Sticker saying "FSFE"](https://bm.jae.su/ShareX/2022/10/ApplicationFrameHost_U9u4GgHSmr.png)
+Sticker that was sent by the Free Software Foundation Europe quite a while ago.
+
+![Sticker of a Trans triceratops](https://bm.jae.su/ShareX/2022/10/ApplicationFrameHost_PeuVV4PqrP.png)
+The Fransgenre Transeratop.
+
+![Sticker of a binary portrait](https://bm.jae.su/ShareX/2022/10/ApplicationFrameHost_yls1iNknZg.png)
+![Sticker saying "W4CFI"](https://bm.jae.su/ShareX/2022/10/ApplicationFrameHost_G8KnmMbWv3.png)
+Various stickers from Women4Cyber Finland.
+
+![Sticker saying "Mattermost"](https://bm.jae.su/ShareX/2022/10/ApplicationFrameHost_eV9tX5Hsqa.png)
+Mattermost sticker gotten from a HelSec event.
+
+![Sticker saying "Attention, Javascript"](https://bm.jae.su/ShareX/2022/10/ApplicationFrameHost_FgG7QFiCHx.png)
+![Sticker saying "INFOXSEC #1 FUZZING"](https://bm.jae.su/ShareX/2022/10/ApplicationFrameHost_z9cl8nu3cM.png)
+SilverSkin stickers gotten from a HelSec event. I particularly like the Infoxsec one.
+
+![Futurice Tammerforce logo](https://bm.jae.su/ShareX/2022/10/ApplicationFrameHost_K26mqDJCQ0.png)
+![Futurice Alumni logo](https://bm.jae.su/ShareX/2022/10/ApplicationFrameHost_FOxTRZX8zB.png)
+![Futurice Operation Snowflake 2020 logo](https://bm.jae.su/ShareX/2022/10/ApplicationFrameHost_ef884OQm9T.png)
+![Futurice Operation Snowflake 2022 logo](https://bm.jae.su/ShareX/2022/10/ApplicationFrameHost_rUjOjBuwjZ.png)
+![Sticker saying "Some day, all of this will fall apart"](https://bm.jae.su/ShareX/2022/10/ApplicationFrameHost_EimODYXu1G.png)
+![Futurice Spice Program logo](https://bm.jae.su/ShareX/2022/10/ApplicationFrameHost_nklbsJpsMK.png)
+Futurice stickers (which is my current workplace).

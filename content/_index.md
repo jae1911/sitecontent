@@ -24,7 +24,7 @@ All the content in this website is under the CC BY-SA 4.0 Jae Lo Presti license 
 
 My contact options are:
 
- - [@me:jae.fi](matrix:u/me:jae.fi) - Matrix ([#home:jae.fi](matrix:roomid/RrYMsLnLJiFQnQtnJf:jae.fi?action=join&via=jae.fi&via=matrix.org&via=pikaviestin.fi&via=the-apothecary.club); Matrix room) 
+ - [@me:jae.fi](matrix:u/me:jae.fi) - Matrix ([#home:jae.fi](/redir/matrix/home/jae.fi), [join via Element](/redir/matrix/home/jae.fi/element); Matrix room) 
  - [jae@j4.lc](mailto:jae@j4.lc) - email
  - [@me@soc.jae.fi](https://f.jae.pm) - Fediverse (ActivityPub)
 

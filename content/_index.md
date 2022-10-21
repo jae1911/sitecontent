@@ -16,6 +16,8 @@ I also happen to write a bunch of software that you can find on [my Gitea instan
 
 {{< wakaCounter >}}
 
+{{< weatherWidget >}}
+
 <img src="/files/img/jae/nobg.gif" alt="Jae the Synth posing with her gun" class="rightgif">
 
 All the content in this website is under the CC BY-SA 4.0 Jae Lo Presti license (unless stated otherwise).

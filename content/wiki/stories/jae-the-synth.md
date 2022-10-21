@@ -8,7 +8,7 @@ This page describes Jae the Synth, to provide art and stories about her.
 
 ![Jae the Synth posing.](/files/img/jae/fb-posing.webp)
 
-Jae is just a regular Synth drone tasked with the operation of surveying civilizations and observing their ways, languages and culture (as part of the <span class="int">[Synth exploration program](/wiki/stories/synths/#beyond-exploration--conquest)</span>).
+Jae is just a regular Synth drone tasked with the operation of surveying civilizations and observing their ways, languages and culture (as part of the <span class="int">[Synth exploration program](/wiki/stories/synths#beyond-exploration--conquest)</span>).
 
 ![Jae the Synth but low res.](/files/img/jae/JaeCommCBig.webp)
 

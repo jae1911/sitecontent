@@ -65,8 +65,6 @@ This "first" will act as a direct hand of the Imperium, some sort of ambassador.
 
 ## Organics in Synth society
 
-{{< construction >}}
-
 As seen previously, Synths have a keen interest in understanding the universe around them but this curiosity is also present in organic lifeforms as some of them at some point sent exploration ships towards the Imperium.
 
 Though hardly, some organics tried living the way of life of Synths with various results. One such humanoid creature went so far they forgot to sleep and had to be put in forced stasis to avoid more damage to be done to their organism.

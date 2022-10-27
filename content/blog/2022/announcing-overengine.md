@@ -85,7 +85,7 @@ It's fun.
 
 ---
 
-Of course, the software is Open-Source and under the MIT license, you can [check out the repo here](https://git.jae.fi/jae/overengine).  
+Of course, the software is Open-Source and under the MIT license, you can [check out the repo here](https://sr.ht/~jae/Overengine/).  
 Also, check out the new feeds added by the software and don't forget to subscribe to those with your favourite reader/software/bot to not miss anything of the blog:
 
  - [JSON](/blog/index.json) `/blog/index.json`

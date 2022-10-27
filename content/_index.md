@@ -12,7 +12,7 @@ Hey there, I'm Jae Lo Presti, I was born in the mountains of Savoy but I'm curre
 
 I mainly do code and sysadmin but i also like to meddle in networking as I operate <span class="in">[AS211696](/pages/as211696)</span>, and, on my free time, I operate a bunch of public services.
 
-I also happen to write a bunch of software that you can find on [my Gitea instance](https://g.jae.pm).
+I also happen to write a bunch of software that you can find on [SourceHut](/redir/srht).
 
 {{< wakaCounter >}}
 

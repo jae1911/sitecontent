@@ -20,7 +20,7 @@ Caddy is used here because of its ease of use and maintenance (auto-renews and r
 
 First, setup your root to your server and also the `matrix` subdomain.  
 The zone should look like this (replace the IPs by yours or use the web panel of your domain; dummy addresses from my own network are shown):
-```dns
+```
 @ 300 IN A 88.218.40.1
 @ 300 IN AAAA 2001:67c:2724:e000:b::1
 matrix 300 IN A 88.218.40.1
@@ -75,7 +75,7 @@ enable_registration: false
 ## Reverse proxy configuration
 
 Then, let's create the reverse proxy configuration (in `caddy/Caddyfile`):
-```caddyfile
+```
 https://my.tld {
     root * /web/website
     file_server

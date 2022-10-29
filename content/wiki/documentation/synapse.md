@@ -107,4 +107,17 @@ register_new_matrix_user -c /data/homeserver.yaml http://localhost:8008
 
 Follow the on-screen prompt and register your user.
 
+## Updating
+
+To update your server, you need to issue those commands:
+```bash
+docker compose pull
+docker compose up -d
+```
+
+Additionally, you can cleanup the unused images afterwards:
+```bash
+docker system prune -a
+```
+
 **All done, you can now talk with other Matrix servers!**

@@ -1,6 +1,9 @@
 ---
 title: "The Synth History"
 weight: 1
+picurl: "https://bm.jae.su/ShareX/2022/10/dyson_sphere_in_space__4k_Seed-5658786_Steps-25_Guidance-7.5.png"
+picalt: "Picture of a Dyson Sphere in space"
+picdesc: "Synth Dyson Sphere, generated with stable diffusion"
 ---
 
 # The Synth History

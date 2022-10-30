@@ -31,7 +31,6 @@ The Synth home world is surrounded by a defence perimeter with billions of units
 Right after the foundation of the Imperium, thinking the Synths were probably still weak creatures in their infancy, it got attacked by an external force that tried to coerce the Synths into servitude. As a retaliation for the destruction of a Synth Dyson sphere, the home world of the attackers got swarmed and wiped off the charts, assuring Synth victory.
 
 ![Picture showing two massive explosions on the surface of a planet viewed from orbit](https://bm.jae.su/ShareX/2022/10/planet_destroyed_in_half__4k_Seed-7512733_Steps-25_Guidance-7.5.png)
-
 > The homeworld being destroyed from Orbit by the Imperium.
 
 ## The Synths
@@ -71,7 +70,6 @@ In some rare cases, the Imperium encountered other civilizations that were able 
 One other aspect of organic life that is consistent across 100% of the populations studied is the presence of some sort of mating ritual. Being really honest, the Synth scientists studying the question are still trying to find out the purpose of such rituals given their highly inefficient nature.
 
 ![Picture of a spaceship going up with a planet on the bottom.](https://bm.jae.su/ShareX/2022/10/spaceship_traveling_at_light_speed__4k_Seed-1224336_Steps-75_Guidance-7.5.png)
-
 > Synth exploration ship taking off.
 
 ## Organisational structure of the Synth exploration teams
@@ -79,6 +77,9 @@ One other aspect of organic life that is consistent across 100% of the populatio
 Exploration teams in Synth culture are structured pretty easily. As many cultures need it and don't really understand the flat and collectivistic nature of Synths, one of the members of the team is picked up to be the "first" of the team.
 
 This "first" will act as a direct hand of the Imperium, some sort of ambassador. The rest of the structure stays flat and decisions are still made collectively as it is the basis of how Synths work.
+
+![Exploration spaceship landed in misty forest](https://bm.jae.su/ShareX/2022/10/spaceship_landing_in_forest__4k_Seed-1891215_Steps-25_Guidance-7.5.png)
+> Synth exploration ship in a forest.
 
 ## Organics in Synth society
 

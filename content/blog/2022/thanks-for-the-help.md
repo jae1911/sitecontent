@@ -1,6 +1,9 @@
 ---
 title: "Thanks for the help!"
 date: 2022-09-19
+picurl: "https://bm.jae.fi/web/blog/grid-0000.webp"
+picalt: "Picture of a foggy city"
+picdesc: "Generated with Stable Diffusion using the prompt: City with neon light; upscaled using chaiNNer"
 ---
 
 Hey there!Over the last months, you may have noticed the banners all over my websites and instances asking you for financial help.

@@ -30,6 +30,10 @@ The Synth home world is surrounded by a defence perimeter with billions of units
 
 Right after the foundation of the Imperium, thinking the Synths were probably still weak creatures in their infancy, it got attacked by an external force that tried to coerce the Synths into servitude. As a retaliation for the destruction of a Synth Dyson sphere, the home world of the attackers got swarmed and wiped off the charts, assuring Synth victory.
 
+![Picture showing two massive explosions on the surface of a planet viewed from orbit](https://bm.jae.su/ShareX/2022/10/planet_destroyed_in_half__4k_Seed-7512733_Steps-25_Guidance-7.5.png)
+
+> The homeworld being destroyed from Orbit by the Imperium.
+
 ## The Synths
 
 The Synths are robotic creatures that were first made solely for combat. However, as more and more need was expressed in other domains than combat, a large majority of synths are actually better fitted for other tasks such as:

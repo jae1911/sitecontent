@@ -2,6 +2,9 @@
 title: "My name has finally been changed"
 date: 2022-09-30T10:46:26+03:00
 draft: false
+picurl: "https://bm.jae.fi/web/blog/grid-0013.webp"
+picalt: "Picture of a small city located withint mountains"
+picdesc: "Generated with Stable Diffusion using the prompt: City in the heart of mountains; upscaled using chaiNNer"
 ---
 
 Hey there.  

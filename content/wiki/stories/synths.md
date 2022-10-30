@@ -66,6 +66,10 @@ In some rare cases, the Imperium encountered other civilizations that were able 
 
 One other aspect of organic life that is consistent across 100% of the populations studied is the presence of some sort of mating ritual. Being really honest, the Synth scientists studying the question are still trying to find out the purpose of such rituals given their highly inefficient nature.
 
+![Picture of a spaceship going up with a planet on the bottom.](https://bm.jae.su/ShareX/2022/10/spaceship_traveling_at_light_speed__4k_Seed-1224336_Steps-75_Guidance-7.5.png)
+
+> Synth exploration ship taking off.
+
 ## Organisational structure of the Synth exploration teams
 
 Exploration teams in Synth culture are structured pretty easily. As many cultures need it and don't really understand the flat and collectivistic nature of Synths, one of the members of the team is picked up to be the "first" of the team.

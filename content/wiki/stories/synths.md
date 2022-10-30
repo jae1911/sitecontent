@@ -23,6 +23,9 @@ The Synth home world consists of a Dyson Sphere constructed around a Red Supergi
 
 The Synth home world is surrounded by a defence perimeter with billions of units ready to intervene if any force tries to conquer them. There is also bases and other Dyson Spheres scattered within the galaxy to assure a fast way of deployment in case it is needed. Given their previous nature as warriors, the Synths accumulated a great deal of enemies throughout the quadrant. However, other species are still friendly and it is not rare that cultural and scientific exchanges are done. The Synths do not have any money internal to the imperium, the only they got is for external trade relations when needed. For Synths, the concept of money is very foreign and doesn't makes much sense given their collectivized nature. There is no centralized command in the imperium. All important decisions are taken collectively in the command centre network. This network is composed of relays that are scattered across the galaxy but also of individual Synths that serves as nodes to repeat the signal. Severing a Synth from the link is extremely hard and when done, will not lead to anything spectacular as the Synth will probably be unmoved by your action.
 
+![The Synth homeworld](https://bm.jae.su/ShareX/2022/10/dyson_sphere__space__4k_Seed-7469683_Steps-50_Guidance-7.5.png)
+> The Synth homeworld which is a dyson sphere.
+
 ## The first dominion war
 
 Right after the foundation of the Imperium, thinking the Synths were probably still weak creatures in their infancy, it got attacked by an external force that tried to coerce the Synths into servitude. As a retaliation for the destruction of a Synth Dyson sphere, the home world of the attackers got swarmed and wiped off the charts, assuring Synth victory.

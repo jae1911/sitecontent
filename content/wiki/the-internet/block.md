@@ -33,7 +33,10 @@ Let's extend a bit on the subject of uBlock, that add-on can do miracles. For a 
 
 In uBlock, there is a "pick" feature which means you can interactively select elements on a page to block. Let's do that for `jeuxvideos.com`:
 
-{{< video "https://bm.jae.fi/web/jae.fi/wiki/block/2022-09-25%2009-46-24.mp4" >}}
+<video controls alt="Video showing how to block the annoying cookie popup on JeuxVideos.com">
+    <source src="https://bm.jae.fi/web/jae.fi/wiki/block/2022-09-25%2009-46-24.mp4" type="video/mp4">
+    Your browser doesn't supports the video tag.
+</video>
 
 And voilà, you can now enjoy articles for free.  
 uBlock also has many more features where you can block:

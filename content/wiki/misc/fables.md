@@ -11,7 +11,7 @@ Those are just random fables I found around or know.
 The Fox and the Grapes, Aesop
 
 > A fox one found his way into a very fine garden.  
-> I supposed he had missed the his road, for the favourite walk of the fox is into the poultry-yard, that he may pick up a chicken or two for his dinner.  
+> I supposed he had missed his road, for the favourite walk of the fox is into the poultry-yard, that he may pick up a chicken or two for his dinner.  
 > Here there were a great many fine flowers; but the fox did not care for that.  
 > Men are very fond of flowers, and so are bees and other insects; but birds and beasts think nothing about them; you never saw either smell at a rose.  
 > There was also a great deal of fine fruit; and, as the fox was found of grapes, I dare say he was delighted to see the apples and pears and nectarines and peaches.  

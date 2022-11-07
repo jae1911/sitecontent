@@ -31,3 +31,27 @@ The Fox and the Grapes, Aesop
 > He determined then to carry off his disappoinment with a spirit.  
 > "What a fool have I been!" said he.  
 > "I can see now plain enough that the grapes are sour, and not fit to be eaten."
+
+## The Crow and the Fox
+
+The Crow and the Fox, Jean de la Fontaine, 1668
+
+> Master Crow, perched on a tree,  
+> Was holding a cheese within his beak.  
+> Master Fox, enticed by the smell,
+> Held this discourse:  
+> Hello dear Mister Crow.  
+> You are good and you seem nice!  
+> Without lying, I think your warbling  
+> Is as nice as your plumage,  
+> You are the Phoenix of those woods.  
+> To those words, the Crow was full of joy:  
+> And to show his nice voice,  
+> Opened his beak wide open, letting his prey escape.  
+> The Fox immediately grabbed it and said:  
+> My dear sir,  
+> Please learn that any flatterer  
+> Lives at the expenses of the ones that listens to them.  
+> This lesson is probably worth a cheese.  
+> The crow, ashamed and confused  
+> Swore, but a bit too late, that we shall never caught again.

@@ -1,6 +1,6 @@
 ---
 title: "Stories & lore"
-menu: ["wiki"]
+menus: ["wiki"]
 ---
 
 # Stories & Lore

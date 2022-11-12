@@ -15,3 +15,5 @@ Context: I recently decided to try out a small experiment which is to grow bell 
 2022/08/05: more seeds have started sprouting all over the pot, the project as a whole is looking good at the moment.
 
 2022/08/06: I started noticing the initial seed is a bit more advanced than the others, seeming to split in two. Continuing to water everything as usual.
+
+2022/11/12: Experience is finished, the peppers sadly died due to lack of attention. Thanks ADHD.

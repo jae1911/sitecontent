@@ -7,7 +7,7 @@ title: "Using Spaces in Element"
 In September 2021, the [Matrix](https://matrix.org) client [Element](https://element.io) finally released the "Spaces" update which added said Spaces into Element.  
 If you used previously the instant messenger Discord, a Space is like a Discord guild: an aggregation of channels.  
 With recent updates, you can even gatekeep your rooms so joining them require membership to a certain Space.  
-Today, we're gonna see how Spaces work as there has been a lot of confusion around them.  
+This page shows how Spaces work as there has been a lot of confusion around them.  
 This tutorial assumes you are using Element on the latest version available as of 2022/12/06 (`1.11.15`).
 
 ---

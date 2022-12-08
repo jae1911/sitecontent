@@ -2,7 +2,7 @@
 title: "The Journey"
 date: 2022-11-10T20:00:00+03:00
 draft: false
-picurl: "https://sharex.jae.fi/ShareX/2022/11/Boat_on_the_ocean_with_a_setting_sun_Seed-620530_Steps-45_Guidance-12.png"
+picurl: "https://sharex.777.tf/ShareX/2022/11/Boat_on_the_ocean_with_a_setting_sun_Seed-620530_Steps-45_Guidance-12.png"
 picalt: "Image of a boat on the ocean with a setting sun in the background."
 picdesc: "Boat on the ocean with a setting sun by Stable Diffusion"
 ---
@@ -13,9 +13,9 @@ It was hosted on a free hosting service called Wifeo which had the perk of not h
 The website itself was very simple, a regular HTML document with an attempt at adding a background that resulted in having a looped one given I didn't knew very well CSS at the time.  
 The background was of a CPC computer which I liked at the time.
 
-[![Picture of a CPC microcomputer connected to a monitor.](https://sharex.jae.fi/ShareX/2022/11/index.jpeg)](https://sharex.jae.fi/ShareX/2022/11/index.jpeg)
+[![Picture of a CPC microcomputer connected to a monitor.](https://sharex.777.tf/ShareX/2022/11/index.jpeg)](https://sharex.777.tf/ShareX/2022/11/index.jpeg)
 
-[![Screenshot of the website being super simple with a repeating background.](https://sharex.jae.fi/ShareX/2022/11/firefox_Ay3V76ZwJw.png)](https://sharex.jae.fi/ShareX/2022/11/firefox_Ay3V76ZwJw.png)
+[![Screenshot of the website being super simple with a repeating background.](https://sharex.777.tf/ShareX/2022/11/firefox_Ay3V76ZwJw.png)](https://sharex.777.tf/ShareX/2022/11/firefox_Ay3V76ZwJw.png)
 
 The website contained multiple pages like:
  - One with embeds of YouTube videos I liked
@@ -41,13 +41,13 @@ But until then, I was also relying on the free subdomain they would give me whic
 So I started using Freenom, with a `.cf` domain which is a free domain. This lasted aproximately two years until I got a student discount which allowed me to register a `.me` for a year for free.  
 It's after all of this that I made this one, which was super simple.
 
-[![Screenshot of my old website being a black text on green background with various links.](https://sharex.jae.fi/ShareX/2022/11/firefox_6u3LiVWUQv.png)](https://sharex.jae.fi/ShareX/2022/11/firefox_6u3LiVWUQv.png)
+[![Screenshot of my old website being a black text on green background with various links.](https://sharex.777.tf/ShareX/2022/11/firefox_6u3LiVWUQv.png)](https://sharex.777.tf/ShareX/2022/11/firefox_6u3LiVWUQv.png)
 
 For now, all my websites were simple single-pages where I was just redirecting to other places.  
 This changed when I got what would become my main domain for the time, `jae.moe` (now redirecting to this website).  
 That website was running on GoHugo and generated with the GitLab CI from TeDomum.
 
-[![Screenshot of my old website which is white text on black background with a big drawing of Jae the Synth on top of the page.](https://sharex.jae.fi/ShareX/2022/11/firefox_PjAI0gCeVl.png)](https://sharex.jae.fi/ShareX/2022/11/firefox_PjAI0gCeVl.png)
+[![Screenshot of my old website which is white text on black background with a big drawing of Jae the Synth on top of the page.](https://sharex.777.tf/ShareX/2022/11/firefox_PjAI0gCeVl.png)](https://sharex.777.tf/ShareX/2022/11/firefox_PjAI0gCeVl.png)
 
 It's also during that time that I started experimenting with tracking (GoatCounter for instance) and quickly realised it wasn't viable.
 
@@ -55,19 +55,19 @@ Later, during my second and last year of school (BTS for french speakers), I fou
 The first version of `jae.fi` was just a simple HTML page saying "Moikka" just to wait until I had something potable.  
 My website reverted to being a small one-page website with something looking like a terminal MOTD.
 
-[![Screenshot of the first version of jae.fi which looks like a terminal doing a cat on a file.](https://sharex.jae.fi/ShareX/2022/11/firefox_czCdYOxZo1.png)](https://sharex.jae.fi/ShareX/2022/11/firefox_czCdYOxZo1.png)
+[![Screenshot of the first version of jae.fi which looks like a terminal doing a cat on a file.](https://sharex.777.tf/ShareX/2022/11/firefox_czCdYOxZo1.png)](https://sharex.777.tf/ShareX/2022/11/firefox_czCdYOxZo1.png)
 
 At this time, my website was evolving super quickly, changing styles and ideas every two seconds.  
 Fonts, CSS, colours, everything changed and was tweaked at some point.  
 At some point, it even had a webring an announcement system but it only lasted a very short period of time.
 
-[![Screenshot of my website which looked like the terminal one without the term font and with a webring.](https://sharex.jae.fi/ShareX/2022/11/firefox_CJD95shrNm.png)](https://sharex.jae.fi/ShareX/2022/11/firefox_CJD95shrNm.png)
+[![Screenshot of my website which looked like the terminal one without the term font and with a webring.](https://sharex.777.tf/ShareX/2022/11/firefox_CJD95shrNm.png)](https://sharex.777.tf/ShareX/2022/11/firefox_CJD95shrNm.png)
 
-[![Same website as previously but without more images and a status bar.](https://sharex.jae.fi/ShareX/2022/11/firefox_ZnuDYREvsV.png)](https://sharex.jae.fi/ShareX/2022/11/firefox_ZnuDYREvsV.png)
+[![Same website as previously but without more images and a status bar.](https://sharex.777.tf/ShareX/2022/11/firefox_ZnuDYREvsV.png)](https://sharex.777.tf/ShareX/2022/11/firefox_ZnuDYREvsV.png)
 
 Later, I made this version that had a CRT flicker effect which was annoying for a lot of users and not great performance wise.
 
-[![Screenshot of my website with the CRT effect and redirecting to other services.](https://sharex.jae.fi/ShareX/2022/11/firefox_KpkvFVMWMO.png)](https://sharex.jae.fi/ShareX/2022/11/firefox_KpkvFVMWMO.png)
+[![Screenshot of my website with the CRT effect and redirecting to other services.](https://sharex.777.tf/ShareX/2022/11/firefox_KpkvFVMWMO.png)](https://sharex.777.tf/ShareX/2022/11/firefox_KpkvFVMWMO.png)
 
 It's only near the end of 2022 I started working on this website.  
 First using GoHugo, I wanted to centralize everything in one point for maintenance easability reasons.  

@@ -21,3 +21,5 @@ All the pictures are under the Creative Commons BY-SA 4.0 license (Jae Lo Presti
 [![Picture of red houses near a water canal](https://bm.777.tf/wb/pics/redhouse-optim-small.jpg)](https://bm.777.tf/wb/pics/redhouse.jpg)
 
 [![Picture of a runnenberg cake](https://bm.777.tf/wb/pics/runnenberg-optim-small.jpg)](https://bm.777.tf/wb/pics/runnenberg.jpg)
+
+[![Picture of a distant city surrounded with trees](https://bm.777.tf/wb/pics/distance-optim-small.jpg)](https://bm.777.tf/wb/pics/distance.jpg)

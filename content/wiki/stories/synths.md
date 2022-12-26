@@ -112,3 +112,17 @@ This was saw countless casualties and systems destroyed for the Imperium. Here a
 
 Due to the bloody end of this conflict, many races previously friendly to the Synths became wary that the same fate might happen to their planets even though diplomatic efforts are under way to affirm that this kind of response is only given under a certain invasion threat.  
 The alliance itself dissolved quickly after, having to *renew* their leaders, in majority all killed during the HQ wipe.
+
+## Starship classes
+
+The Synths had thousands of years to develop ships, those are divided into classes, here listed from the smallest to the biggest.  
+Note: some of the translations for class names may seem ridiculous.
+
+ - Fly class: usually small transport crafts; crew of around 10
+ - Glacier class: ships made to transport large amount of natural resources; crew of around 20
+ - Sunrise class: most of the ships are of this class which are regular everyday vessels designed for exploration and general transport; crew of around 20 to 200
+ - Honor class: combat ship fully optimized for war (for instance, it doesn't have life support for any organics that would come on board and storage space only for weapons) nor has it any backup systems; ship may be equipped with experimental cloaking technology; crew of 5, completely linked with internal systems
+ - Blackhole class: heavy warship made for troops transport; capacity of around 700 to 1500 Honor class vessels, crew of around 15k to 20k (incl. pilots)
+ - Voidmass class: the biggest kind of ship that is basically a moving planet; pop. 750mil to 1bil; contains shipyards and Synth construction facilities
+
+It is to be noted that the Imperium will never sell any significant technology to outside people, deeming it too dangerous to do so.

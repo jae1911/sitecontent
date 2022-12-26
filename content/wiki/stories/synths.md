@@ -103,12 +103,12 @@ The skirmish resulted in the complete destruction of said 30 ships, three Synth 
 To *defuse* the invasion threat, the Imperium originally sent three honor-class ships (see entry on ship classes for more) to meet and *deal* with the amassed forces. All said ships were equipped with experimental "void warheads" that proved more than effective, disabling hundreds of hostile ships in matters of minutes.  
 The fate of the aggressor was sealed when the Synths successfully decrypted a transmission containing coordinates of a war HQ of the alliance.  
 Said HQ was wiped from orbit and the planet hosting it reduced to ashes.  
-This was saw countless casualties and systems destroyed for the Imperium. Here are some of the affected systems as well as rough population at the time of the attack:
+This was saw countless casualties and systems destroyed for the Imperium. Here are some of the affected Synth systems as well as rough population at the time of the attack:
 
  - [550987]; pop. 150mil
  - [120934]; pop. 300mil
  - [048489]; pop. 3.7bil
- - [912847]; pop. 750bil
+ - [912847]; pop. 750mil
 
 Due to the bloody end of this conflict, many races previously friendly to the Synths became wary that the same fate might happen to their planets even though diplomatic efforts are under way to affirm that this kind of response is only given under a certain invasion threat.  
 The alliance itself dissolved quickly after, having to *renew* their leaders, in majority all killed during the HQ wipe.

@@ -94,3 +94,21 @@ The organic scientists that wish to study Synths are welcomed and seen as highly
 As long as the said organics don't impact negatively the group, they will be granted shelter and protection for as long as they need.
 
 In some very rare cases, cultures tried wiping the Synths using that method but ultimately failed due to the very decentralized nature of the Imperium. In order to completely wipe off the Synths, you would have to destroy every single Synth at the same time in the entire universe, which is by all means, impossible.
+
+## Second dominion war and aftermath
+
+The second dominion war started after allies of the species that first attacked the Synths sought retaliation and reparations from the defeat they suffered.  
+War officially broke out after a violation of Synth Space by Species 9938EF8 that sent (unsuccessfully) a fleet of 30 heavily armed battle ships to a Synth mining world at the B-89C edge of Imperium space.  
+The skirmish resulted in the complete destruction of said 30 ships, three Synth vessels destroyed and one badly damaged. It is after detecting large amounts of communications (indicating the presence of a large invasion fleet) at the edge B-45E of Imperium territory that the decision to broadcast a full-on war signal was taken.  
+To *defuse* the invasion threat, the Imperium originally sent three honor-class ships (see entry on ship classes for more) to meet and *deal* with the amassed forces. All said ships were equipped with experimental "void warheads" that proved more than effective, disabling hundreds of hostile ships in matters of minutes.  
+The fate of the aggressor was sealed when the Synths successfully decrypted a transmission containing coordinates of a war HQ of the alliance.  
+Said HQ was wiped from orbit and the planet hosting it reduced to ashes.  
+This was saw countless casualties and systems destroyed for the Imperium. Here are some of the affected systems as well as rough population at the time of the attack:
+
+ - [550987]; pop. 150mil
+ - [120934]; pop. 300mil
+ - [048489]; pop. 3.7bil
+ - [912847]; pop. 750bil
+
+Due to the bloody end of this conflict, many races previously friendly to the Synths became wary that the same fate might happen to their planets even though diplomatic efforts are under way to affirm that this kind of response is only given under a certain invasion threat.  
+The alliance itself dissolved quickly after, having to *renew* their leaders, in majority all killed during the HQ wipe.

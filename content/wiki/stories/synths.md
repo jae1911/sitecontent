@@ -135,3 +135,13 @@ The goal of this initiative is to make the Synths appear a bit more friendly tha
 Given the recent Second Dominion war, lots of species became wary of Synths given the brutal response they gave to the assault on their territory.  
 It goes without saying that less prominent species have nothing to fear as they don't even have armies great enough to threaten the Imperium in any way.  
 As of now, the program appears to be successful even tho many are still rightfully afraid of the Imperium as it is.
+
+## The Link
+
+As explored earlier during in the general entry about the Synth, all Synth members of the Imperium are part of what is called the Link.  
+The Link is a galaxy-wide network that makes it possible for Synths to share a relative common consciousness and also services such as creating backups of themselves in case of a destruction during a dangerous mission.  
+Some galaxies are bridged together but usually, moving data from one another has to be done via a transport vessel as it is easier to do so.  
+Most of the Imperium internal affairs are managed within the link and it is where most of the deciding aspect is.  
+For organic members of the Imperium, access to the Link is provided via terminals dispersed all around the concerned worlds. For non-Synth non organics, either modifications or terminals can be provided, up to the wish of said species.  
+It is also possible for unlinked Synths (though rare) to use either terminals or try to repair the communication relay present in each Synth.  
+The connection to the Link itself is assured by a network of relays spread across all quadrants. It is to be noted that each individual Synth can also be a relay when needed (for instance, some edges of the galaxy may be hard to reach).

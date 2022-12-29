@@ -28,3 +28,5 @@ Before that, she was stationed in the mountains of Savoy which was one of her fa
 ![Jae the Synth posing with her gun](/files/img/jae/nobg.gif)
 
 Despite all of this love for climate, she doesn't really likes being stationed here, preferring largely the mercury lakes of [489875·2; P-1] or the beauty of the [84421·8] binary star (wonders that no human will probably ever experience).
+
+Recently, Jae has also started a collection of "organics artifacts" and also has been named as the Synth Imperium representative for the system.

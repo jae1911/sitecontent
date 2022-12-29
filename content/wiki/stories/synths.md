@@ -126,3 +126,12 @@ Note: some of the translations for class names may seem ridiculous.
  - Voidmass class: the biggest kind of ship that is basically a moving planet; pop. 750mil to 1bil; contains shipyards and Synth construction facilities
 
 It is to be noted that the Imperium will never sell any significant technology to outside people, deeming it too dangerous to do so.
+
+## The representatives program
+
+In the recent times, the Imperium, worried about its image throughout the G quadrant decided to launch a new diplomatic program.  
+Synths stationed on various worlds were named representatives of the Imperium, conducting official business face to face instead of people of said planets having to talk to a faceless collective.  
+The goal of this initiative is to make the Synths appear a bit more friendly than what people might think.  
+Given the recent Second Dominion war, lots of species became wary of Synths given the brutal response they gave to the assault on their territory.  
+It goes without saying that less prominent species have nothing to fear as they don't even have armies great enough to threaten the Imperium in any way.  
+As of now, the program appears to be successful even tho many are still rightfully afraid of the Imperium as it is.

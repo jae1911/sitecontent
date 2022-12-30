@@ -13,7 +13,7 @@ I personally use it on all my machines with Mozilla Firefox.
 By default, uBlock will do a great job at getting rid of most of the ads (if not all) and trackers present on the website but for me, it's not enough.  
 I find lots of elements distracting on YouTube, including for instance, the comment section and related feeds. To block them, it's easy:
 
-```adblock
+```
 www.youtube.com###comments
 www.youtube.com###related
 ```
@@ -22,7 +22,7 @@ And done, all is now removed.
 Problem is, when trying to block specific buttons, like the "share" or "clip" ones, those don't have any proper IDs which renders blocking a bit more tricky.  
 We can work around this by matching the property `title` or `aria-label` instead:
 
-```adblock
+```
 www.youtube.com##[aria-label$="Create" i]
 www.youtube.com##[title$="Shorts" i]
 www.youtube.com##[title$="Trending" i]
@@ -37,7 +37,7 @@ www.youtube.com##[aria-label$="Share" i]
 And done, everything useless is now removed.  
 My full list of rules for YouTube goes as it follows:
 
-```adblock
+```
 ## YOUTUBE FILTERS ##
 www.youtube.com###comments
 www.youtube.com##.ytp-ce-element
@@ -68,7 +68,7 @@ The main page could use some more rules but I'm working on that.
 
 Those are rules for misc websites from web shops to food delivery websites, everything else than monoliths like YouTube is there:
 
-```adblock
+```
 ## MISC WEBSITES ##
 partco.fi###cookieNotice
 verkkokauppa.com##.special-days-ribbon-accordion
@@ -87,7 +87,7 @@ posti.fi###beta-posti-footer
 However, there is some websites you can't improve, even with blocking annoying elements, this is where the full block comes in place.  
 Some of the domains on my personal list are:
 
-```adblock
+```
 ## DOMAINS BLOCKED ##
 ||reddit.com # Redirected via privacy addon
 ||twitter.com # Redirected via privacy addon

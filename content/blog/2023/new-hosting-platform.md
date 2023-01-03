@@ -13,7 +13,7 @@ I got some problems with the current infrastructure:
 To solve that, I am currently testing a new solution: running all of the services on ARM-based SBCs.  
 For that, meet the Orange Pi 4 LTS.
 
-![Orange Pi 4 LTS single board computer; image is dithered](https://bm.777.tf/wb/pics/sbc-optim.jpg)  
+![Orange Pi 4 LTS single board computer; image is dithered](https://bm.777.tf/wb/pics/sbc-optim-small.jpg)  
 (Picture CC 4.0 BY-SA Jae Lo Presti; [click here for  a larger pic](https://bm.777.tf/wb/pics/sbc.jpg))
 
 That particular one has:

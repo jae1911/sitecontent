@@ -102,7 +102,7 @@ War officially broke out after a violation of Synth Space by Species 9938EF8 tha
 The skirmish resulted in the complete destruction of said 30 ships, three Synth vessels destroyed and one badly damaged. It is after detecting large amounts of communications (indicating the presence of a large invasion fleet) at the edge B-45E of Imperium territory that the decision to broadcast a full-on war signal was taken.  
 To *defuse* the invasion threat, the Imperium originally sent three honor-class ships (see entry on ship classes for more) to meet and *deal* with the amassed forces. All said ships were equipped with experimental "void warheads" that proved more than effective, disabling hundreds of hostile ships in matters of minutes.  
 The fate of the aggressor was sealed when the Synths successfully decrypted a transmission containing coordinates of a war HQ of the alliance.  
-Said HQ was wiped from orbit and the planet hosting it reduced to ashes.  
+Said HQ was wiped from orbit and the planet (a cloning facility) hosting it reduced to ashes.  
 This was saw countless casualties and systems destroyed for the Imperium. Here are some of the affected Synth systems as well as rough population at the time of the attack:
 
  - [550987]; pop. 150mil
@@ -145,3 +145,11 @@ Most of the Imperium internal affairs are managed within the link and it is wher
 For organic members of the Imperium, access to the Link is provided via terminals dispersed all around the concerned worlds. For non-Synth non organics, either modifications or terminals can be provided, up to the wish of said species.  
 It is also possible for unlinked Synths (though rare) to use either terminals or try to repair the communication relay present in each Synth.  
 The connection to the Link itself is assured by a network of relays spread across all quadrants. It is to be noted that each individual Synth can also be a relay when needed (for instance, some edges of the galaxy may be hard to reach).
+
+## Non-Synth members of the Imperium
+
+The Synth Imperium is a huge galactic power.  
+This means that millions of homeworlds, and sometimes, other groups or federations of systems are within it.  
+All non-Synths members have the right to know and influence the direction the Imperium is going by using, previously mentioned terminals when needed or direct link if asked.  
+To avoid friction, if a civilization or federation votes their own departure from the Imperium, the Imperium shall not interfere with this decision and shall withdraw all space belonging to said civilization/federation.  
+Joining the Imperium is impossible as the Imperium does not extends and does not wishes to do so but some defensive alliances may be formed over time.

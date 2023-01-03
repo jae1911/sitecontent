@@ -1,20 +1,20 @@
 ---
 title: "New hosting platform"
 date: 2023-01-03
-draft: true
+draft: false
 ---
 
 Today, let's talk about on of my new projects for 2023: migrating hosting to ARM-based computers.  
 For now, services (except a few select) are hosted on a bunch of x86-based servers (mainly HPe ProLiant ones bought for cheap online).  
 I got some problems with the current infrastructure:
- - Costs a lot to run (mainly in hosting and electricity)
+ - Costs a lot to run (mainly in housing and electricity)
  - Is super hard to move (bulk servers that are super heavy)
 
 To solve that, I am currently testing a new solution: running all of the services on ARM-based SBCs.  
 For that, meet the Orange Pi 4 LTS.
 
 ![Orange Pi 4 LTS single board computer; image is dithered](https://bm.777.tf/wb/pics/sbc-optim.jpg)  
-(Picture CC 4.0 BY-SA Jae Lo Presti)
+(Picture CC 4.0 BY-SA Jae Lo Presti; [click here for  a larger pic](https://bm.777.tf/wb/pics/sbc.jpg))
 
 That particular one has:
  - 4G of RAM

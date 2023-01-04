@@ -28,7 +28,7 @@ Services such as the BreezeWiki or AnonymousOverflow will be moved on there soon
 Even tho there has been some problems when switching the website to it, it now runs flawlessly (the website is a bit slower than before but nothing unbearable).  
 Some fun experiment that would be fun to do later would be trying to take the whole website off-grid or even better, when moving physical locations, make it so the servers stays up (I will have to make a post detailing more how I could do that).
 
-The current goal isn't to co completely low-tech, *at least yet* but to try new things while trying to save a bit of money.  
+The current goal isn't to go completely low-tech, *at least yet* but to try new things while trying to save a bit of money.  
 As a fun trivia, added the network stats of the machine on [the main page](/) (just scroll down until you see an image with a fancy chart).  
 I might do that for every single machine once I start migrating and that data will have its own page in the future.
 

@@ -29,7 +29,6 @@ My contact options are:
  - [@me:jae.fi](matrix:u/me:jae.fi) - Matrix ([#home:jae.fi](/redir/matrix/RrYMsLnLJiFQnQtnJf/jae.fi), [join via Element](/redir/matrix/home/jae.fi/element/true); Matrix room) 
  - [jae@777.tf](mailto:jae@777.tf) - email
  - [@me@soc.jae.fi](https://f.jae.pm) - Fediverse (ActivityPub)
- - [@jae1911](/redir/tg) - Telegram
 
 Matrix will likely get you the fastest response tho I read and respond to every single query (as long as they're not spam). Use email in last resort if you really don't have anything else as it's not the best protocol out there (the email server used by <span class="il">777.tf</span> is hosted by myself so nobody can snoop on it).
 

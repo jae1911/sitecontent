@@ -10,7 +10,7 @@ Here is some documentation about Wynncraft stuff.
 
 ### Assassin
 
-Slow DPS hit-and-run build:
+Slow DPS hit-and-run build (min 15k to 30k DPS):
  - Obsidian-Framed Helmet (Earth T6 x2)
  - Bete Noire
  - Earth Breaker (Earth T6 x2)
@@ -21,7 +21,7 @@ Slow DPS hit-and-run build:
  - Golemlus Core
  - Anvil Crawler (Thunder T6 x3)
 
-Tier stack:
+Tier stack (around 10K DPS):
  - Centipede
  - Calidade Mail
  - Second Wind

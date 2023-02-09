@@ -3,7 +3,7 @@ title: "Ping your part!"
 date: 2023-02-09
 picurl: "https://bm.777.tf/web/blog/canvas/ping_your_part.avif"
 picalt: "Propaganda poster with a roblox character and a text saying Defend the Canvas, Ping your Part"
-picdesc: "Montage by AGPL_fanatic in the Furry Tech room"
+picdesc: "Propaganda poster from the Furry Tech room from when the canvas was attacked"
 draft: true
 ---
 

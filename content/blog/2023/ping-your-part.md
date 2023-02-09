@@ -1,9 +1,9 @@
 ---
 title: "Ping your part!"
 date: 2023-02-09
-picurl: "https://bm.777.tf/web/blog/canvas/canvas.png"
-picalt: "Pixelated canvas with: a Super Mario 64 logo, a big trans flag with Jae the Synth, an image of a husky in a LGBT hoodie and various texts and smaller images around."
-picdesc: "The canvas at its best."
+picurl: "https://bm.777.tf/web/blog/canvas/ping_your_part.avif"
+picalt: "Propaganda poster with a roblox character and a text saying Defend the Canvas, Ping your Part"
+picdesc: "Image by AGPL_fanatic in the Furry Tech room"
 draft: true
 ---
 
@@ -88,6 +88,8 @@ Just ignoring the error makes it work and the loss is negligible since multiple 
 
 Victory, I could now draw images super fast which protected my artwork from attacks after.  
 You can [see the source of the writer on SourceHut](https://git.sr.ht/~jae/PixelPinger).
+
+![Pixelated canvas with: a Super Mario 64 logo, a big trans flag with Jae the Synth, an image of a husky in a LGBT hoodie and various texts and smaller images around.](https://bm.777.tf/web/blog/canvas/canvas.png)
 
 All in all, this was a great experiment and I want to thank Cameron for creating it in the first place.  
 I am currently trying to implement my own canvas which would be a tad bigger.

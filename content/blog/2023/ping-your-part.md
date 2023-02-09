@@ -100,4 +100,5 @@ That's it for this post and I'll see you in the next one!
 
 ---
 
-If you liked this post, consider adding it to your [RSS](/blog/index.xml) or [JSON](/blog/index.json) feed reader :)
+If you liked this post, consider adding it to your [RSS](/blog/index.xml) or [JSON](/blog/index.json) feed reader :)  
+Canvas screenshot and amogus GIF provided by Cameron Steel.

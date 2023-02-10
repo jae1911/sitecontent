@@ -4,8 +4,6 @@ date: 2022-12-23
 draft: true
 ---
 
-## What is "Healy"
-
 The "Healy" is an electronics device sold by `Healy International B.V.`, at least officially, and that claims to "harmonize your bioenergetical field", also claiming that it can affect "many important areas of life".  
 The device itself is a small plastic casing 55x57x13mm having a 145mAh battery and a micro USB port for charging.
 
@@ -26,8 +24,6 @@ As you can see, such device isn't exactly cheap. On the bottom of the page, we c
 Good, at least they are clear about the use case of the device which should be only for "spiritual healing" or other stuff like that, *right*?  
 Now, let's see how the "Healy" is marketed, sold and used.
 
-## Surprise, a MLM!
-
 The main way of distribution of the device comes at no surprise of being a MLM (Multi-Level Marketing).  
 Their website even has a neat little chart to show how much you will earn that reads as following (`$` refers to `USD`; [archived on archive.ph](https://archive.ph/c3Vxo)):
 
@@ -47,9 +43,7 @@ Down there, we can also read:
 > Notice: Healy is a microcurrent medical device that has been cleared by the U.S. Food and Drug Administration only for local relief of acute, chronic, and arthritis pain and muscle soreness due to overexertion. Healy also has non-medical applications that use Individualized Microcurrent Frequencies (IMF) to harmonize your Bioenergetic Field. Always use your Healy in accordance with its Instructions for Use.
 
 Wait what? The shop page clearly said `not medical applications` and `have not been reviewed by the FDA` but now it is?  
-Well, of course, not everything can go right, can it (see the chapter "Claims" for more on that).
-
-## Claims
+Well, of course, not everything can go right, can it?
 
 So, to sum up, we have a device distributed via MLM, that at the same time, claims to **not** be a medical device but also says the opposite on another page, even going as far as to claim that the FDA (USA Food and Drug Administration) approved them.  
 The official FDA website indeed shows a registration for a "Healy" ([archived on archive.ph](https://archive.ph/2BxXm)).  
@@ -57,3 +51,9 @@ We can also see that the real manufacturer of the device is a company named `Tim
 Just by going on a quick Google Maps survey we can see that... magic, the `Healy International AG` is also located in the same city, how convenient.
 
 That company also seem to specialize in various IMF devices with nebulous claims and always that same "not for medical use" disclaimer.
+
+The device itself is only approved to, and citing:
+
+> [...] to be used for temporary relief of pain associated with sore and aching muscles in the shoulder,
+> , back, arms and legs due to strain from exercise or normal household work activities and for the symptomatic relief
+> and management of chronic, intractable pain and relief of pain associated with arthritis.

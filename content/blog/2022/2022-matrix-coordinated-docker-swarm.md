@@ -1,6 +1,7 @@
 ---
 title: "Matrix-coordinated Docker swarm"
 date: 2022-04-01
+tags: ["tech"]
 ---
 
 Got ya looking.

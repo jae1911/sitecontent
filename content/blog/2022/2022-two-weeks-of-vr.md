@@ -1,6 +1,7 @@
 ---
 title: "Two weeks of VR"
 date: 2022-02-22
+tags: ["tech", "games"]
 ---
 
 Hello people!

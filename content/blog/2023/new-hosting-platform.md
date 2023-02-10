@@ -2,6 +2,7 @@
 title: "New hosting platform"
 date: 2023-01-03
 draft: false
+tags: ["tech", "meta"]
 ---
 
 Today, let's talk about on of my new projects for 2023: migrating hosting to ARM-based computers.  

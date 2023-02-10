@@ -1,6 +1,7 @@
 ---
 title: "Jae's Kitchen: Making Crunchy Peanuts"
 date: 2022-03-21
+tags: ["food"]
 ---
 
 Greetings everyone, today, I'm gonna show you how you can make a crunchy peanut topping that can also be eaten as a snack.

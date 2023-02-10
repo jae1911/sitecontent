@@ -1,6 +1,7 @@
 ---
 title: "Bye OVH"
 date: 2022-06-04
+tags: ["tech", "meta"]
 ---
 
 Hey there, small post to talk about a small thing I did recently which is to finally ditch OVH as my domain registrar.When I was living in France, OVH came as a good choice for domain names as it is pretty much a local platform and had lots of good deals (and still has on some TLDs) but when I moved in Finland and changed my name, some problems arose:

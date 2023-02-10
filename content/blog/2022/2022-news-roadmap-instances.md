@@ -1,6 +1,7 @@
 ---
 title: "News, roadmap & instances"
 date: 2022-08-16
+tags: ["news", "tech"]
 ---
 
 Hey there everybody, long time no see (for a real, written article)!Today, nothing fancy, just (re)announcing some stuff said in various places (mostly on Matrix).

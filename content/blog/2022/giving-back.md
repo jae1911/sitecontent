@@ -5,6 +5,7 @@ draft: false
 picurl: "https://bm5.jae.fi/ShareX/2022/10/small_shack_in_the_mountains__snow__4k_Seed-5945040_Steps-25_Guidance-7.5.png"
 picalt: "Image of a small house within a forest with snow all around."
 picdesc: "Generated with Stable Diffusion."
+tags: ["meta"]
 ---
 
 Hey there!  

@@ -1,6 +1,7 @@
 ---
 title: "Infrastructure change"
 date: 2021-05-22
+tags: ["meta", "tech"]
 ---
 
 Greetings everyone!

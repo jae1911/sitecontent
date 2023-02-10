@@ -1,6 +1,7 @@
 ---
 title: "Matrix spam"
 date: 2022-05-02
+tags: ["tech"]
 ---
 
 Greetings everybody.

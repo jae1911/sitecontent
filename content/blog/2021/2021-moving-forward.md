@@ -2,6 +2,7 @@
 title: "Moving Forward"
 date: 2021-11-15
 featured: true
+tags: ["personal"]
 ---
 
 [Ce billet est disponible en francais! | This post is available in french!](https://pads.jae.fi/s/abOciZMNa#)

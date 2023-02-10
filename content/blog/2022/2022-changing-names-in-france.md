@@ -5,6 +5,7 @@ featured: true
 picurl: "https://bm.jae.fi/web/blog/grid-0013.webp"
 picalt: "Picture of a small city located withint mountains"
 picdesc: "Generated with Stable Diffusion using the prompt: City in the heart of mountains; upscaled using chaiNNer"
+tags: ["meta", "personal"]
 ---
 
 Changing names should be something easy, I guess the french state didn't get the memo.

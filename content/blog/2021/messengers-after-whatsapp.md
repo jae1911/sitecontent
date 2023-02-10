@@ -3,6 +3,7 @@ title: "The messengers I use every day"
 date: 2021-01-18T09:35:58+01:00
 draft: false
 description: "Greetings, for the first blog post of the year, I'm gonna talk about what instant messengers I use, following the whatsapp fiasco."
+tags: ["tech", "privacy"]
 ---
 
 Greetings, for the first blog post of the year, I'm gonna talk about what instant messengers I use, following the whatsapp fiasco.

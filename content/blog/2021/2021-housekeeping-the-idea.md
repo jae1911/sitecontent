@@ -1,6 +1,7 @@
 ---
 title: "Housekeeping episode 1: The idea"
 date: 2021-08-15
+tags: ["personal"]
 ---
 
 Greetings everyone, today a chill post about an idea I just had (and yes, I know I haven't posted anything in some time now).

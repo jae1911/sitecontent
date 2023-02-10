@@ -1,6 +1,7 @@
 ---
 title: "TOR Support (outdated)"
 date: 2021-06-26
+tags: ["tech"]
 ---
 
 Greetings everyone, today a post on the Tor support that just shipped on my services.

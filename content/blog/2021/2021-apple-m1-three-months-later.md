@@ -1,6 +1,7 @@
 ---
 title: "Apple M1, three months later"
 date: 2021-06-15
+tags: ["hardware"]
 ---
 
 Hello everyone. I've been using the Apple M1 for well over three months now and in my first article, I promised a follow-up so here I am! If you haven't read it, it is located here.

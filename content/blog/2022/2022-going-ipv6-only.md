@@ -1,6 +1,7 @@
 ---
 title: "Going IPv6 only"
 date: 2022-01-21
+tags: ["tech"]
 ---
 
 Good evening all of you, in today's post, we're gonna talk about going IPv6 only.

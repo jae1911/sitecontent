@@ -2,6 +2,7 @@
 title: "Let's make the web bearable"
 date: 2022-12-30
 draft: false
+tags: ["tech", "software"]
 ---
 
 For this last post of the year, let's see something simple: my personal uBlock Origin filters.  

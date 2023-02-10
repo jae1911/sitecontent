@@ -1,6 +1,7 @@
 ---
 title: "The case of accessibility"
 date: "2021-06-26"
+tags: ["tech"]
 ---
 
 Hey everyone, as you may have noticed, the blog has seen lots of theme changes in the last days. Truth is, I thought I finally found the right theme for my blog some time ago, when I found this "Norlin" theme.

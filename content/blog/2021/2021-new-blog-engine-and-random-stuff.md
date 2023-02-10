@@ -1,6 +1,7 @@
 ---
 title: 'New blog engine & Random stuff'
 date: 2021-03-24
+tags: ["tech"]
 ---
 
 Hey everyone, I've changed the blog engine again. Why? Well, frankly, I don't even know myself.

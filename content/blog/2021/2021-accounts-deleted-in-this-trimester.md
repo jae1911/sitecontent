@@ -1,6 +1,7 @@
 ---
 title: "Accounts deleted in this trimester"
 date: 2021-06-06
+meta: ["privacy"]
 ---
 
 I have decided to share the list of accounts I deleted in the last three months from major platforms and the reasons behind it. Let's get started!

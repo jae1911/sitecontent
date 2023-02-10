@@ -1,6 +1,7 @@
 ---
 title: "uLauncher, my new friend"
 date: 2022-01-01
+tags: ["tech", "software"]
 ---
 
 Greetings peeps, first, happy new year, I hope 2022 will be a good year for you!

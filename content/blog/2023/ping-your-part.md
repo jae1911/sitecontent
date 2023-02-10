@@ -4,6 +4,7 @@ date: 2023-02-09
 picurl: "https://bm.777.tf/web/blog/canvas/ping_your_part.avif"
 picalt: "Propaganda poster with a roblox character and a text saying Defend the Canvas, Ping your Part"
 picdesc: "Propaganda poster from the Furry Tech room from when the canvas was attacked"
+tags: ["tech", "fun"]
 ---
 
 On February 6th 2023, Cameron Steel introduced the world to the IPv6 Canvas via [a blog post of his](https://blog.tugzrida.xyz/2023/02/06/introducing-the-ipv6-canvas/).  

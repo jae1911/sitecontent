@@ -1,6 +1,7 @@
 ---
 title: "Server downtime, the post mortem"
 date: 2021-07-02
+tags: ["tech"]
 ---
 
 Hey everyone, as you may have seen yesterday, all services were offline for several hours after a maintenance concerning the disks of the current server.

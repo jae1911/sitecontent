@@ -1,6 +1,7 @@
 ---
 title: "An honest review of the Apple M1"
 date: 2021-04-04
+tags: ["hardware"]
 ---
 
 Recently, I've got into my hands one of the latest MacBook Pro M1 from Apple. As you may know, I've never been a big fan of Apple products, often saying those were overpriced pieces of crap.

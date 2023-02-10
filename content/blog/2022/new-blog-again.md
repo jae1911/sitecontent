@@ -2,6 +2,7 @@
 title: "New Blog... Again"
 date: 2022-09-25
 draft: false
+tags: ["tech", "software"]
 ---
 
 Hey there everybody.

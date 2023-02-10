@@ -1,6 +1,7 @@
 ---
 title: "Moving further"
 date: 2022-12-11
+tags: ["news", "meta"]
 ---
 
 Aproximately one year ago, I published the blog post titled `Moving Forward` which was basically my coming out post.  

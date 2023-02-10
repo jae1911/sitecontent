@@ -5,6 +5,7 @@ draft: false
 picurl: "https://sharex.777.tf/ShareX/2022/11/Boat_on_the_ocean_with_a_setting_sun_Seed-620530_Steps-45_Guidance-12.png"
 picalt: "Image of a boat on the ocean with a setting sun in the background."
 picdesc: "Boat on the ocean with a setting sun by Stable Diffusion"
+tags: ["tech", "personal"]
 ---
 
 I opened my first website around 2010, I was 9.  

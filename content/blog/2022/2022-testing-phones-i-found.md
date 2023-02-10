@@ -1,6 +1,7 @@
 ---
 title: "Testing phones I found"
 date: 2022-06-01
+tags: ["tech"]
 ---
 
 Hey there!

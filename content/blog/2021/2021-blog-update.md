@@ -1,6 +1,7 @@
 ---
 title: "Blog update"
 date: 2021-06-17
+tags: ["software", "meta"]
 ---
 
 Greetings everybody! As you may have seen, the blog got a new skin (again) but this time, it will be more permanent.

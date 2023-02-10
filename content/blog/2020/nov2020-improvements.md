@@ -3,6 +3,7 @@ title: "Improving my website with simple GoHugo tricks"
 date: 2020-11-06T20:54:06+01:00
 draft: false
 description: "As you may have seen, I started to really work on my website lately..."
+tags: ["meta", "software"]
 ---
 
 As you may have seen, I started to really work on my website lately, I first switched to a homemade theme ([the article can be found here]({{< ref "/blog/2020/may2020-hugo-website.md" >}})) and then started to work on smaller tweaks of the theme while adding cool features such as Twitter's cards or integrating the [OpenGraph](https://ogp.me/) protocol.

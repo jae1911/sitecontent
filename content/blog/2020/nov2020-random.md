@@ -4,6 +4,7 @@ date: 2020-11-21T17:23:25+01:00
 draft: false
 description: "This week, nothing fancy, not a big article about a Federated media, not a tutorial on how to do things, just a small article to chill."
 hacker_news_id: "25170880"
+tags: ["hardware", "software"]
 ---
 
 This week, nothing fancy, not a big article about a Federated media, not a tutorial on how to do things, just a small article to chill.

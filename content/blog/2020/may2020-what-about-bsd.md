@@ -3,6 +3,7 @@ title: "What About Bsd?"
 date: 2020-05-30T21:33:43+02:00
 draft: false
 description: "Using a BSD-based system? Why not?"
+tags: ["software"]
 ---
 
 Greetings everyone, today I'm gonna talk about BSD and my experience with it. If you haven't heard of BSD, I would suggest to read the [Wikipedia article](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution) and then come back.

@@ -5,6 +5,7 @@ draft: false
 description: "As you may know it, I am a fervent user of the chat protocol Matrix..."
 hacker_news_id: "25091614"
 featured: true
+tags: ["software"]
 ---
 
 As you may know it, I am a fervent user of the chat protocol Matrix.

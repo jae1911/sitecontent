@@ -3,6 +3,7 @@ title: "Theme Update"
 date: 2020-10-03T21:36:18+02:00
 draft: false
 description: "A small update about the website!"
+tags: ["software"]
 ---
 
 This is just a small post to say that I've updated the blog to a new theme that is both lighter and nicer than the old one.

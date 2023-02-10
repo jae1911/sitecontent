@@ -3,6 +3,7 @@ title: "What do I play in October 2020"
 date: 2020-10-04T12:01:13+02:00
 draft: false
 description: "Greetings, I wanted to make a small post on what I am currently playing at this moment..."
+tags: ["games"]
 ---
 
 Greetings, I wanted to make a small post on what I am currently playing at this moment.

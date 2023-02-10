@@ -4,6 +4,7 @@ date: 2020-11-08T10:22:46+01:00
 draft: false
 description: "As you may have saw I on Mastodon, I am testing NixOS..."
 hacker_news_id: "25024639"
+tags: ["software"]
 ---
 
 As you may have seen I on Mastodon, I am testing NixOS for over a week now and here is a few comments about how the distro works and what doesn't work for me.

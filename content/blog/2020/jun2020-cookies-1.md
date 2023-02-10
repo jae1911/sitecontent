@@ -4,6 +4,7 @@ date: 2020-06-26T13:46:22+02:00
 draft: false
 description: "Cookies were a good idea.
 Don’t get me wrong, when used for good, it is really practical and useful but what happens when you give this kind of tool to idiot people?"
+tags: ["software", "privacy"]
 ---
 
 Cookies were a good idea.  

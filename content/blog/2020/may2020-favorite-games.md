@@ -2,6 +2,7 @@
 title: "My favorite games"
 date: 2020-05-05
 description: "The lockdown is boring. Here is my favorite games to play during theses times..."
+tags: ["games"]
 ---
 
 In the current times, I think everyone agrees to say the lockdown is boring.  

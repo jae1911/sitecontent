@@ -3,6 +3,7 @@ title: "New Analytics"
 date: 2020-08-23T11:16:15+02:00
 draft: false
 description: "Today, I wanted to talk about the analytics I put on my website (and by extension on my blog)..."
+tags: ["software", "privacy"]
 ---
 
 Greetings everyone!  

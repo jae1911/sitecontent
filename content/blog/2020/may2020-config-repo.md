@@ -3,6 +3,7 @@ title: "Config Repo"
 date: 2020-05-27T12:00:11+02:00
 draft: false
 description: "I just did something I wanted to do for some time: create a repository will all my config files..."
+tags: ["software"]
 ---
 
 Greetings.  

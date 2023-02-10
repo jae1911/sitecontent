@@ -2,6 +2,7 @@
 title: "My Firefox addons"
 date: 2020-04-17
 description: "As you may know, I am a Firefox user. Here is the addons I am using..."
+tags: ["software"]
 ---
 
 As you may know, I am a Mozilla Firefox user.  

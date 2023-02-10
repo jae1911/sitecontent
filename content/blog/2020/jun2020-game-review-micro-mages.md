@@ -3,6 +3,7 @@ title: "Game Review Micro Mages"
 date: 2020-06-13T23:07:35+02:00
 draft: false
 description: "Micro-Mages is a recent game with something special and today, we'll find out why..."
+tags: ["games"]
 ---
 
 **Micro Mages** is a game I've heard about before. In fact, I saw the [youtube video of the creators of the game explaining how they made it](https://invidio.us/watch?v=ZWQ0591PAxM) and was interested in playing it since it runs on a NES.  

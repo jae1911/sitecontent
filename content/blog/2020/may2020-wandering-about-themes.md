@@ -3,6 +3,7 @@ title: "Wandering About Themes"
 date: 2020-05-26T18:36:41+02:00
 draft: false
 description: "Changing themes? Why tho..?"
+tags: ["meta"]
 ---
 Greetings everyone.  
 Today, I want to talk about my experience with themes and why I chose to keep the current one.  

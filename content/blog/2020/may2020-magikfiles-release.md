@@ -2,6 +2,7 @@
 title: "Magikfiles version 1"
 date: 2020-05-03
 description: "MagikFiles V1 just released, here is the main achievements of the project..."
+tags: ["software"]
 ---
 
 As you may know, I am the creator and developer of [MagikFiles](https://github.com/jaekr/magikfiles), a free, open-source and self-hosted file sharing software.  

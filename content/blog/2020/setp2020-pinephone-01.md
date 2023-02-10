@@ -3,6 +3,7 @@ title: "Pinephone hot review"
 date: 2020-09-24T18:15:26+02:00
 draft: false
 description: "About a week ago, I finally received my Pinephone Postmarket OS edition..."
+tags: ["hardware"]
 ---
 
 Greetings everyone!

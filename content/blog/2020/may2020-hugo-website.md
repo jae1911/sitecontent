@@ -2,6 +2,7 @@
 title: "Hugo Website"
 date: 2020-05-02
 description: "After some time thinking about it, I re-made my website using GoHugo, here is why..."
+tags: ["software", "meta"]
 ---
 
 In 2019, I re-worked on my website to make one easier to manage using [Docker](https://docker.com), simple XHTML but mostly, splitting the blog to another domain.  

@@ -3,6 +3,7 @@ title: "Cool Music"
 date: 2020-06-25T13:07:13+02:00
 draft: false
 description: "Today, I'm gonna talk about the music I listen to and love. Let's get started..."
+tags: ["music"]
 ---
 
 Hey everyone!  

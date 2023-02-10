@@ -2,6 +2,7 @@
 title: "The Thinkpad"
 date: 2020-05-04
 description: "I just got a Thinkpad, here is my first impressions..."
+tags: ["hardware"]
 ---
 
 Less than a week ago, I became the owner of a Thinkpad T430.  

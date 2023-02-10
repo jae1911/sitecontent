@@ -3,6 +3,7 @@ title: "I hate microsoft"
 date: 2020-10-22T16:40:54+02:00
 draft: false
 description: "If you are a player of the game Minecraft, you've probably seen it..."
+tags: ["games"]
 ---
 
 If you are a player of the game Minecraft, you've probably seen it.

@@ -3,6 +3,7 @@ title: "Thinkpad Follow Up"
 date: 2020-08-05T22:11:09+02:00
 draft: false
 description: "Follow-up on my Thinkpad usage..."
+tags: ["hardware"]
 ---
 
 Hey everyone!  

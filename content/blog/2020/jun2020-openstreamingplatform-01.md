@@ -3,6 +3,7 @@ title: "OSP, the alternative to Twitch"
 date: 2020-06-15T18:06:14+02:00
 draft: false
 description: "Today, we'll look at OSP, an alternative to Twitch and Youtube livestreams..."
+tags: ["software"]
 ---
 
 Not so long ago, I discovered the [Open Streaming Platform](https://openstreamingplatform.com/) (or OSP) projects that aims to bring an alternative to the website Twitch  or Youtube for livestreams with a self-hosted solution.  
@@ -14,7 +15,7 @@ OSP also allows you to record automatically your streams, post videos and record
 The software itself was easy to run since we are using Docker & `docker-compose`. The problems we ran into were database problems, because the software is still in beta, the migration scripts are the ones by default for a flask project and are not migrating the DB correctly. If you run into this problem, you might have to downgrade the version, go to the admin panel, download a copy of the database, reset the instance with the new version and restore the database file at the installation process.  
 Here is what the Dockerfile looks like (**Note: the latest revision, 0.7, is currently not supported by Docker**):  
 
-{{< highlight docker "linenos=table" >}}
+```docker
 version: '2.1'
 
 services:
@@ -65,7 +66,7 @@ networks:
       config:
         - subnet: "${prefix}/80"
           gateway: "${prefix}1"
-{{< / highlight >}}
+```
 
 Also take note that postgres isn't used officially by OSP, see their wiki for the official supported databases.  
 The port `1935` must be open so OBS (or any other streaming software) can send the data to `rmtp://<your domain name>/stream`  

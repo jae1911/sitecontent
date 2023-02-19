@@ -50,7 +50,9 @@ Feeds in [JSON](/blog/index.json) and [ATOM](/blog/index.atom) are also availabl
 
 ## Public Services
 
-All the services listed are Open-Source and hosted by myself. A [status page](https://status.jae.fi) is also available and will display all upcoming maintenances and current problems.
+All the services listed are Open-Source and hosted by myself. A [status page](https://status.jae.fi) is also available and will display all upcoming maintenances and current problems.  
+If you wish to support the services, a LiberaPay page is available:  
+[![Golden button with written Donate on it.](/files/img/liberaPayDonate.svg)](https://liberapay.com/Jae)
 
  - [Piped](https://yt.jae.fi/) - A privacy YouTube frontend that can play age-restricted videos
  - [NTFY](https://ntfy.jae.fi/) - A pub-sub notification service

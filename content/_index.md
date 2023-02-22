@@ -8,7 +8,7 @@ description: "The website of Jae Lo Presti."
 
 ## About me
 
-Hey there, I'm Jae Lo Presti, I was born in the mountains of Savoy but I'm currently living in Helsinki (Finland). Currently looking to relocate in Germany (contact me if you have an opportunity around Berlin).
+Hey there, I'm Jae (also going by Xenia now) Lo Presti, I was born in the mountains of Savoy but I'm currently living in Helsinki (Finland).  
 
 I mainly do code and sysadmin but i also like to meddle in networking as I operate <span class="in">[AS211696](/pages/as211696)</span>, and, on my free time, I operate a bunch of public services.
 

@@ -8,6 +8,8 @@ Here are random pictures I took over time.
 Optimized thumbnail shown, click to show regular image.  
 All the pictures are under the Creative Commons BY-SA 4.0 license (Jae Lo Presti).
 
+You can see more pics (still under the same license) on [the dedicated platform (is currently lacking accessibility)](https://pix.777.tf).
+
 
 |    |    |
 | -- | -- |

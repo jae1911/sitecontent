@@ -2,7 +2,9 @@
 title: "Artists"
 ---
 
-# Artists that I commissioned at some point
+# Artists
+
+This page is a list of all amazing artists that made art for me at some point.
 
  - Edwino22 - [Linktree](https://linktr.ee/edwino22)
  - GunnerTheWolf - Unknown socials
@@ -13,3 +15,5 @@ title: "Artists"
  - Lazer__t - [Carrd](https://lazer-t.carrd.co/)
  - Maggiee - [Twitter](https://twitter.jae.su/bingus_enjoyer)
  - Veloxization - [Fediverse](https://pettingzoo.co/@Veloxization)
+ - Jack Norisk - [Website](https://jacknorisk.art)
+ - Sirlan - [Website](https://sirlan-tomma.neocities.org)

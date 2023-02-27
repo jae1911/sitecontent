@@ -22,6 +22,7 @@ Every point has an affirmation and is sourced and accompanied with a DOI.
  - Hormone blockers are now new “Since the mid 1900's…” and “the royal college of psychiatrists in 1998…”[^23]
  - Hormone blockers aren't harmful to bone density[^24]·[^25]
  - Social/Familial support helps and decreases the likelihood of a suicide from 50% to 4%[^26]·[^27]·[^28]·[^29]
+ - There is more regret for knee surgery than for gender-affirming operations[^30]
 
 You can access all of those articles through [Sci-Hub](https://sci-hub.se/) for free (or you can DM the DOI to the [Sci-Hub bot on Telegram](https://t.me/scihubot)). If you need help understanding some words, expression or some studies, ask around, it is never shameful to ask for help in a subject you don't know about.
 
@@ -54,3 +55,4 @@ You can access all of those articles through [Sci-Hub](https://sci-hub.se/) for 
 [^27]: Trujillo, M. A., Perrin, P. B., Sutter, M., Tabaac, A., & Benotsch, E. G. (2016). The buffering role of social support on the associations among discrimination, mental health, and suicidality in a transgender sample. International Journal of Transgenderism, 18(1), 39–52. [doi:10.1080/15532739.2016.1247405](https://doi.org/10.1080/15532739.2016.1247405)
 [^28]: Bauer, G. R., Scheim, A. I., Pyne, J., Travers, R., & Hammond, R. (2015). Intervenable factors associated with suicide risk in transgender persons: a respondent driven sampling study in Ontario, Canada. BMC Public Health, 15(1). [doi:10.1186/s12889-015-1867-2](https://doi.org/10.1186/s12889-015-1867-2)
 [^29]: Başar, K., Öz, G., & Karakaya, J. (2016). Perceived Discrimination, Social Support, and Quality of Life in Gender Dysphoria. The Journal of Sexual Medicine, 13(7), 1133–1141. [doi:10.1016/j.jsxm.2016.04.071](https://doi.org/10.1016/j.jsxm.2016.04.071)
+[^30]: Jedrzejewski, Breanna Y. MPH, MD1; Marsiglio, Mary C. PhD2; Guerriero, Jess MSW2; Penkin, Amy LCSW2;  OHSU Transgender Health Program “Regret and Request for Reversal” workgroup; Berli, Jens U. MD1. “Regret after Gender Affirming Surgery – A Multidisciplinary Approach to a Multifaceted Patient Experience”. Plastic and Reconstructive Surgery ():10.1097/PRS.0000000000010243, January 24, 2023. | DOI: [10.1097/PRS.0000000000010243](https://doi.org/10.1097/PRS.0000000000010243)

@@ -1,7 +1,7 @@
 ---
 title: 'Being a dum Synth'
 date: 2023-02-28
-draft: true
+draft: false
 ---
 
 In today's post, I'm going to teach you how to be a dum Synth.  

@@ -23,6 +23,11 @@ You will have to choose a password during this process, I recommend using a pass
 
 You now have an initialized repository!
 
+## Tips
+
+If you use the root bucket: `s3:s3.server.tld/backups` it will create only one repo per bucket.  
+If you wish to create multiple repos per bucket, just add the name of your app/server at the end of the path and it will create a new repo in the bucket: `s3:s3.server.tld/backups/app` (creates a repo `app`).
+
 ## Backing up data
 
 It is really easy to backup data (you need to export the S3 config again):
@@ -51,7 +56,7 @@ restic -p /sec/app -r s3:s3.server.tld/backup/app restore latest --target /path/
 ## The script
 
 I use a small script on my servers:
-```
+```bash
 #!/bin/bash
 
 export AWS_ACCESS_KEY_ID=myaccesskey

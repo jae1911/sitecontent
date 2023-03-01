@@ -62,7 +62,7 @@ If you wish to support the services, a LiberaPay page is available:
  - [Keyoxide](https://keys.jae.fi/) - An Open-Source alternative to Keybase
  - [PrivateBin](https://bin.jae.fi/) - A private pastebin software
  - [ProxiTok](https://tok.jae.fi/) - A Tiktok privacy frontend
- - [SearXNG](https://search.jae.fi/) - A meta search engine
+ - [SearXNG](https://s.777.tf/) - A meta search engine
  - [Wikiless](https://wiki.jae.fi/) - A Wikipedia privacy frontend
  - [Rimgo](https://imgur.jae.fi/) - An Imgur privacy frontend
  - [Excalidraw](https://draw.jae.fi/) - Draw diagrams easily within your browser

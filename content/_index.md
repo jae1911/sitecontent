@@ -71,6 +71,7 @@ If you wish to support the services, a LiberaPay page is available:
  - [Invidious](https://invidious.jae.fi) - A Youtube privacy frontend
  - [AnonymousOverflow](https://overflow.777.tf/) - A StackOverflow privacy frontend
  - [BreezeWiki](https://breeze.777.tf) - A Fandom Wiki privacy frontend
+ - [Cinny](https://cinny.777.tf) - A refined Matrix client
 
 
 All services are provided free of charge; logs are kept at a minimum (or completely disabled when possible) and no analytics software is used. Everything is also hosted so it is available on single-stack IPv6 networks. If you see any abuse being done on those services, please notify me by Matrix or email.

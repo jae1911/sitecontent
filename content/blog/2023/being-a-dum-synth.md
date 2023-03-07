@@ -1,6 +1,7 @@
 ---
 title: 'Being a dum Synth'
 date: 2023-02-28
+tags: ["personal", "tech"]
 draft: false
 ---
 

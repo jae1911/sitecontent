@@ -2,7 +2,7 @@
 title: "Writing on a blog"
 date: 2023-03-07
 tags: ["meta", "personal"]
-draft: true
+draft: false
 ---
 
 Hey there, small post today!  

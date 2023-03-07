@@ -9,7 +9,7 @@ tags: ["personal"]
 ---
 
 Hey there.  
-As you may know, I *love* the french state when it comes to anything being related to it, [especially the administration related to names](https://jae.fi/blog/2022/08/30/changing-names-in-france/).
+As you may know, I *love* the french state when it comes to anything being related to it, [especially the administration related to names](/blog/2022/08/03/changing-names-in-france/).
 
 Well, today, I am happy to announce that my name change request has **finally** been accepted in france.  
 It is after more than a year and half to wait and multiple request to the *défenseur des droits* (or *defender of rights* when translated) that the embassy finally announced to me that it was accepted.

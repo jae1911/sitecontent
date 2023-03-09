@@ -21,7 +21,7 @@ Of course, the machine is properly baptized with stickers (will update the stick
 
 The two most dated aspects of the computer are its screen and CPU.  
 While the screen has a low resolution for today's standard, it is still fairly usable and looks well enough (in some desktop environments, there is a yellow backlight for some reason that doesn't appears on i3).  
-The CPU is what will mostly limit you when trying to compile something but as long as you don't run Gentoo, that shouldn't really be a problem (most of the compiled stuff I use from the AUR comes in `-bin` so no need to waste previous CPU cycles for that).
+The CPU is what will mostly limit you when trying to compile something but as long as you don't run Gentoo, that shouldn't really be a problem (most of the compiled stuff I use from the AUR comes in `-bin` so no need to waste precious CPU cycles for that).
 
 To have an extra-comfy setup, I took some time to configure stuff I always forget about on my main setup, for instance: MPD (Music Player Daemon).  
 My config for it is very simple and works perfectly:

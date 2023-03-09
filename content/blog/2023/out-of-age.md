@@ -1,6 +1,6 @@
 ---
 title: 'Using an old laptop'
-date: 2023-03-04
+date: 2023-03-09
 tags: ["tech", "hardware"]
 draft: true
 ---
@@ -90,4 +90,14 @@ colors:
     white:   '#eeffff'
 ```
 
+Also, one of the first things I did when I got the laptop was to update LibreBoot on it.  
+I ended up [documenting the method on its own wiki page](/wiki/documentation/x200).
 
+In some months, I'll have to be away for some weeks, this will be the occasion to test this machine as a real daily driver instead of just a main portable (for now I'm still mainly using my fixed workstation at home and then the laptop in bed).  
+
+That's all for today's post and I'll you peeps next time!
+
+---
+
+If you liked this post, don't forget to subscribe to the blog via [RSS](/blog/index.xml) or [JSON](/blog/index.json).  
+If you wish to support the Open Services, a [LiberaPay page](https://liberapay.com/Jae) is available.

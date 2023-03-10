@@ -111,7 +111,7 @@ Just before ending this post, as per tradition, here is a `hyfetch` (if you know
 
 [![Screenshot of i3 with a floating terminal window showing the result of hyfetch and on the background, various computers and a city at night through the window.](https://bm.777.tf/web/blog/fetch-clean.png)](https://bm.777.tf/web/blog/fetch-clean.png)
 
-That's all for today's post and I'll you peeps next time!
+That's all for today's post and I'll see you peeps next time!
 
 ---
 

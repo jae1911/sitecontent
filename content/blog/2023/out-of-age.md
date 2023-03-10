@@ -25,7 +25,7 @@ The CPU is what will mostly limit you when trying to compile something but as lo
 
 To have an extra-comfy setup, I took some time to configure stuff I always forget about on my main setup, for instance: MPD (Music Player Daemon).  
 My config for it is very simple and works perfectly:
-```conf
+```
 music_directory    "~/Music"
 
 db_file            "~/.config/mpd/database"

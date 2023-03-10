@@ -101,6 +101,9 @@ On the browser side, surprisingly, it runs pretty smoothly with Firefox+uBlock o
 Of course, websites with plenty of animations will have a bit harder time, but still surprisingly usable. It is to be noted that some websites like the Internet Archive Wayback Machine will not work on this laptop for some reason.  
 I haven't really reached a tab limit as I rarely have more than 3 open at all times when working or doing anything ordinary.
 
+On the games side, the two games I play the most, Ryzom and OSRunescape, basically run without any major hiccup.  
+Of course, the framerate could be better but it is more than enough to be playable.
+
 In some months, I'll have to be away for some weeks, this will be the occasion to test this machine as a real daily driver instead of just a main portable (for now I'm still mainly using my fixed workstation at home and then the laptop in bed).  
 
 That's all for today's post and I'll you peeps next time!

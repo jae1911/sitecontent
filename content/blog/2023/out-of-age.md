@@ -106,7 +106,7 @@ Of course, the framerate could be better but it is more than enough to be playab
 
 In some months, I'll have to be away for some weeks, this will be the occasion to test this machine as a real daily driver instead of just a main portable (for now I'm still mainly using my fixed workstation at home and then the laptop in bed).  
 
-Just before ending this post, as per tradition, here is a `hyfetch` (if you know a version of the walpaper without the character, please contact me):
+Just before ending this post, as per tradition, here is a `hyfetch` (if you know a version of the wallpaper without the character, please send it to me):
 
 [![Screenshot of i3 with a floating terminal window showing the result of hyfetch and on the background, various computers and a city at night through the window.](https://bm.777.tf/web/blog/fetch-clean.png)](https://bm.777.tf/web/blog/fetch-clean.png)
 

@@ -7,7 +7,7 @@ draft: true
 
 Hey there everybody!  
 Few weeks ago, I received a ThinkPad x200 running Linux and with CoreBoot as a bonus.  
-As other friends, I thought such a device (released in 2009) would be too old to do anything modern but I was greatly surprised.
+As other friends, I thought such a device (released in 2008) would be too old to do anything modern but I was greatly surprised.
 
 This ThinkPad has some upgrades:
 

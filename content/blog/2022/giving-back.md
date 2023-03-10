@@ -9,7 +9,7 @@ tags: ["meta"]
 ---
 
 Hey there!  
-As promised [in a previous post](/blog/2022/09/02/thanks-for-the-help!/), I am starting to sponsor various Open-Source projects.  
+As promised [in a previous post](/blog/2022/09/19/thanks-for-the-help!/), I am starting to sponsor various Open-Source projects.  
 Here is the list of people I'm sponsoring now:
 
  - [Kavin](https://liberapay.com/kavin) - Maintainer of Piped

@@ -72,7 +72,7 @@ Later, I made this version that had a CRT flicker effect which was annoying for 
 
 It's only near the end of 2022 I started working on this website.  
 First using GoHugo, I wanted to centralize everything in one point for maintenance easability reasons.  
-[I recently swapped GoHugo for my own thing](/blog/2022/10/06/announcing-overengine/) given the limitations of the software. This is how you are seeing this website now.
+[I recently swapped GoHugo for my own thing](/blog/2022/10/21/announcing-overengine/) given the limitations of the software. This is how you are seeing this website now.
 
 At the moment, this website is fully open-source, its content under the CC BY-SA 4.0 license and has no tracking.  
 The only thing I can say for sure for the future is that it won't change soon.  

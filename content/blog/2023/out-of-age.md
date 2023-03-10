@@ -93,6 +93,14 @@ colors:
 Also, one of the first things I did when I got the laptop was to update LibreBoot on it.  
 I ended up [documenting the method on its own wiki page](/wiki/documentation/x200).
 
+On the side of doing 'real work' on it, of course, given the age of the CPU (it being an Intel Core 2 P8600 which is two cores, two threads at 2.4Ghz), some stuff will be slower.  
+For instance, when starting to work on Overengine, starting the development environment with `yarn dev` will take around 3s more than on my main workstation, so a bit slower but not that killing.  
+The main difference is when compiling programs where it takes almost twice as much time. Luckily, on Arch, you can get most of the AUR in a pre-compiled format.  
+When working on personal stuff, it takes a bit longer to test things, but having worked with low-end machines a good part of my life, it's still faster than some machines I had to use in the past.  
+On the browser side, surprisingly, it runs pretty smoothly with Firefox+uBlock origin.  
+Of course, websites with plenty of animations will have a bit harder time, but still surprisingly usable. It is to be noted that some websites like the Internet Archive Wayback Machine will not work on this laptop for some reason.  
+I haven't really reached a tab limit as I rarely have more than 3 open at all times when working or doing anything ordinary.
+
 In some months, I'll have to be away for some weeks, this will be the occasion to test this machine as a real daily driver instead of just a main portable (for now I'm still mainly using my fixed workstation at home and then the laptop in bed).  
 
 That's all for today's post and I'll you peeps next time!

@@ -2,7 +2,7 @@
 title: 'Using an old laptop'
 date: 2023-03-10
 tags: ["tech", "hardware"]
-draft: true
+draft: false
 ---
 
 Hey there everybody!  

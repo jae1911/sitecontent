@@ -1,6 +1,6 @@
 ---
 title: 'Using an old laptop'
-date: 2023-03-09
+date: 2023-03-10
 tags: ["tech", "hardware"]
 draft: true
 ---

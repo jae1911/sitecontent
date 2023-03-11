@@ -56,9 +56,9 @@ If you wish to support the services, a LiberaPay page is available:
 
  - [Piped](https://yt.777.tf/) - A privacy YouTube frontend that can play age-restricted videos
  - [NTFY](https://ntfy.jae.fi/) - A pub-sub notification service
- - [LibReddit](https://rd.jae.su/) - A privacy frontend for Reddit
+ - [LibReddit](https://rd.777.tf/) - A privacy frontend for Reddit
  - [Reddit Account Search](https://reddit.jae.su/) - Search everything about a Reddit account
- - [Nitter](https://twitter.jae.su/) - A Twitter privacy frontend
+ - [Nitter](https://nitter.777.tf/) - A Twitter privacy frontend
  - [Keyoxide](https://keys.jae.fi/) - An Open-Source alternative to Keybase
  - [PrivateBin](https://bin.jae.fi/) - A private pastebin software
  - [ProxiTok](https://tok.jae.fi/) - A Tiktok privacy frontend

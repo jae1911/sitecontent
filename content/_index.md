@@ -54,7 +54,7 @@ All the services listed are Open-Source and hosted by myself. A [status page](ht
 If you wish to support the services, a LiberaPay page is available:  
 [![Golden button with written Donate on it.](/files/img/liberaPayDonate.svg)](https://liberapay.com/Jae)
 
- - [Piped](https://yt.jae.fi/) - A privacy YouTube frontend that can play age-restricted videos
+ - [Piped](https://yt.777.tf/) - A privacy YouTube frontend that can play age-restricted videos
  - [NTFY](https://ntfy.jae.fi/) - A pub-sub notification service
  - [LibReddit](https://rd.jae.su/) - A privacy frontend for Reddit
  - [Reddit Account Search](https://reddit.jae.su/) - Search everything about a Reddit account
@@ -68,7 +68,7 @@ If you wish to support the services, a LiberaPay page is available:
  - [Excalidraw](https://draw.jae.fi/) - Draw diagrams easily within your browser
  - [Hydrogen](https://hydrogen.jae.fi/) - A lightweight Matrix client
  - [Lingva Translate](https://translate.jae.fi/) - A privacy frontend for translation software
- - [Invidious](https://invidious.jae.fi) - A Youtube privacy frontend
+ - [Invidious](https://invidious.777.tf) - A Youtube privacy frontend
  - [AnonymousOverflow](https://overflow.777.tf/) - A StackOverflow privacy frontend
  - [BreezeWiki](https://breeze.777.tf) - A Fandom Wiki privacy frontend
  - [Cinny](https://cinny.777.tf) - A refined Matrix client

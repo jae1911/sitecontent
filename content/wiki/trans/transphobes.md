@@ -8,7 +8,7 @@ Facts about transition (TLDR: it works). Never forget, TRANS RIGHTS ARE HUMAN RI
 
 Every point has an affirmation and is sourced and accompanied with a DOI.
 
- - Medical transition works[^1]·[^2]·[^3]·[^4]·[^5]·[^6]·[^7]
+ - Medical transition works[^1]·[^2]·[^3]·[^4]·[^5]·[^6]·[^7]·[^31]
  - “80% of Individuals Reported significant improvements in dysphoria”[^8]
  - “Wellbeing was similar to or better than same-age young adults from the general population”[^9]
  - “Quality of life rises dramatically with 'gender affirming treatment'”[^10]·[^11]
@@ -56,3 +56,4 @@ You can access all of those articles through [Sci-Hub](https://sci-hub.se/) for 
 [^28]: Bauer, G. R., Scheim, A. I., Pyne, J., Travers, R., & Hammond, R. (2015). Intervenable factors associated with suicide risk in transgender persons: a respondent driven sampling study in Ontario, Canada. BMC Public Health, 15(1). [doi:10.1186/s12889-015-1867-2](https://doi.org/10.1186/s12889-015-1867-2)
 [^29]: Başar, K., Öz, G., & Karakaya, J. (2016). Perceived Discrimination, Social Support, and Quality of Life in Gender Dysphoria. The Journal of Sexual Medicine, 13(7), 1133–1141. [doi:10.1016/j.jsxm.2016.04.071](https://doi.org/10.1016/j.jsxm.2016.04.071)
 [^30]: Jedrzejewski, Breanna Y. MPH, MD1; Marsiglio, Mary C. PhD2; Guerriero, Jess MSW2; Penkin, Amy LCSW2;  OHSU Transgender Health Program “Regret and Request for Reversal” workgroup; Berli, Jens U. MD1. “Regret after Gender Affirming Surgery – A Multidisciplinary Approach to a Multifaceted Patient Experience”. Plastic and Reconstructive Surgery ():10.1097/PRS.0000000000010243, January 24, 2023. | DOI: [10.1097/PRS.0000000000010243](https://doi.org/10.1097/PRS.0000000000010243)
+[^31]: Rebecca Shepherd, Ingrid Bretherton, Ken Pang, Toby Mansell, Anna Czajko, Bowon Kim, Amanda Vlahos, Jeffrey D. Zajac, Richard Saffery, Ada Cheung & Boris Novakovic; Gender-affirming hormone therapy induces specific DNA methylation changes in blood ():10.1186/s13148-022-01236-4, 17 February 2022. | DOI: [10.1186/s13148-022-01236-4](https://doi.org/10.1186/s13148-022-01236-4)

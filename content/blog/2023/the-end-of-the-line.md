@@ -16,7 +16,7 @@ Sadly, what makes it fun to run is what destroyed it, it became financially unma
 With costs rising everywhere, I simply can't afford to run all of this.
 
 It's not with a happy face that I announce that **the open services will close on April 30 2023 (30/04/2023).**  
-I'm sorry again.
+I'm truly sorry, honestly, I feel like shit writing this.
 
 Thanks everybody for having been part of this experience and thanks for the overwhelming support in dire times.  
 // Jae

@@ -30,7 +30,7 @@ My contact options are:
  - <a href="mailto:jae@777.tf" rel="me">jae@777.tf</a> - email
  - <a href="https://f.jae.pm" rel="me">@me@soc.jae.fi</a> - Fediverse (ActivityPub)
 
-Matrix will likely get you the fastest response tho I read and respond to every single query (as long as they're not spam). Use email in last resort if you really don't have anything else as it's not the best protocol out there (the email server used by <span class="il">777.tf</span> is hosted by myself so nobody can snoop on it).
+Matrix will likely get you the fastest response tho I read and respond to every single query (as long as they're not spam). Use email in last resort if you really don't have anything else as it's not the best protocol out there (the email server used by <span class="il">777.tf</span> is hosted using ProtonMail).
 
 This website is hosted on an OrangePi 4 LTS.  
 Network stats for host `arm1` (updated every hour; [click here to see a bigger version of the image](https://loadimages.777.tf/main.avif)):  

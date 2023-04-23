@@ -8,9 +8,9 @@ description: "The website of Jae Lo Presti."
 
 ## About me
 
-Hey there, I'm Jae (also going by Xenia now) Lo Presti, I was born in the mountains of Savoy but I'm currently living in Helsinki (Finland).  
+Hey there, I'm Jae Lo Presti (AKA J4), I was born in the mountains of Savoy but I'm currently living in Helsinki (Finland).  
 
-I mainly do code and sysadmin but i also like to meddle in networking as I operate <span class="in">[AS211696](/pages/as211696)</span>, and, on my free time, I operate a bunch of public services.
+I mainly do code and sysadmin but i also like to meddle in networking as I operate <span class="in">[AS211696](/pages/as211696)</span>, and, on my free time, I make software that I need.
 
 I also happen to write a bunch of software that you can find on [SourceHut](/redir/srht).
 
@@ -46,9 +46,3 @@ Feeds in [JSON](/blog/index.json) and [ATOM](/blog/index.atom) are also availabl
 
 {{< postlist >}}
 
----
-
-## Public Services
-
-Public services have been discontinued.  
-[Thanks a lot everybody](/thanks).

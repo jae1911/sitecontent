@@ -28,7 +28,7 @@ My contact options are:
 
  - <a href="matrix:u/jae:777.tf" rel="me">@jae:777.tf</a> - Matrix ([#home:jae.fi](/redir/matrix/RrYMsLnLJiFQnQtnJf/jae.fi), [join via Element](/redir/matrix/home/jae.fi/element/true); Matrix room) 
  - <a href="mailto:jae@777.tf" rel="me">jae@777.tf</a> - email
- - <a href="https://f.jae.pm" rel="me">@me@soc.jae.fi</a> - Fediverse (ActivityPub)
+ - <a href="https://soc.jae.fi/@me" rel="me">@me@soc.jae.fi</a> - Fediverse (ActivityPub)
 
 Matrix will likely get you the fastest response tho I read and respond to every single query (as long as they're not spam). Use email in last resort if you really don't have anything else as it's not the best protocol out there (the email server used by <span class="il">777.tf</span> is hosted using ProtonMail).
 

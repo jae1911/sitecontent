@@ -23,7 +23,7 @@ Need an avatar? Just drag-and-drop your model file onto the game window, click o
 
 ![Jae standing in front of a triangle terrain while holding a cup. A Matter Manipulator can be seen on the window frame.](https://sharex.777.tf/ShareX/2023/08/2023-08-02%2001.58.20.jpg)
 
-Sadly, Neos has been plagued by a lack of update and a CEO that cares more about scamming users with cryptocurrency (which most of the community rejects) than to take care of the platform.  
+Sadly, Neos has been plagued by a lack of updates and a CEO that cares more about scamming users with cryptocurrency (which most of the community rejects) than to take care of the platform.  
 Though there is rumours of a new platform that would be released by the original developer of Neos (that left it a while ago), for now, we are stuck in this situation.
 
 That's where [Overte](https://overte.org) enters the game.  

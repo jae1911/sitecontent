@@ -2,7 +2,7 @@
 title: "VR Status"
 date: 2023-08-04
 tags: ["tech", "vr"]
-draft: true
+draft: false
 ---
 
 Hey there, long time no see!  
@@ -43,7 +43,7 @@ Another advantage is that the project itself is overseed by a nonprofit where bo
 All in all, it is a very promising platform that definitely deserves more attention.
 
 I think that's enough for today, thanks a lot for reading this blog post.  
-I'm gonna try to make more posts again, probably dedicated around the VR space as one post isn't enough to cover everything.  11
+I'm gonna try to make more posts again, probably dedicated around the VR space as one post isn't enough to cover everything.  
 I'll see you next time!
 
 ---

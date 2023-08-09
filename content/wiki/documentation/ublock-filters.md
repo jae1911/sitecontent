@@ -4,7 +4,7 @@ title: 'uBlock filters'
 
 # uBlock filters
 
-Here are a collection of all my [uBlock Origin](https://github.com/gorhill/uBlock) filters.
+Here is a collection of all my [uBlock Origin](https://github.com/gorhill/uBlock) filters.
 
 Total blocked:
 - 311510 Network Filters
@@ -90,3 +90,9 @@ m.youtube.com##ytm-search ytm-thumbnail-overlay-time-status-renderer[data-style=
 m.youtube.com##ytm-single-column-watch-next-results-renderer ytm-thumbnail-overlay-time-status-renderer span:has-text(/^(0:\d\d|1:0\d)$/):upward(ytm-video-with-context-renderer)
 youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:contents !important;)
 ```
+
+## Creating your own filters
+
+Ressources:
+- [DandelionSprout's cheatsheet](https://github.com/DandelionSprout/adfilt/blob/master/Wiki/SyntaxMeaningsThatAreActuallyHumanReadable.md)
+- [uBlock Origin documentation](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax)

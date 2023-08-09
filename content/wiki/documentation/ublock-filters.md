@@ -6,6 +6,10 @@ title: 'uBlock filters'
 
 Here are a collection of all my [uBlock Origin](https://github.com/gorhill/uBlock) filters.
 
+Total blocked:
+- 311510 Network Filters
+- 236046 Cosmetic Filters
+
 ## Recommended lists
 
 - [DandelionSprout's Lists](https://github.com/DandelionSprout/adfilt/blob/master/Wiki/General-info.md#-english):
@@ -31,6 +35,7 @@ Here are a collection of all my [uBlock Origin](https://github.com/gorhill/uBloc
 - uBlock filters - Annoyances
 - fi: Adblock List for Finland
 - fr ca: AdGuard Francais
+- [fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock) (all lists)
 
 ## Custom filters
 

@@ -36,8 +36,6 @@ Total blocked:
 - fi: Adblock List for Finland
 - fr ca: AdGuard Francais
 - [fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock) (all lists)
-- [letsblock.it](https://letsblock.it/filters)
-  - 
 
 ## Custom filters
 

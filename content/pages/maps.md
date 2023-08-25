@@ -23,8 +23,8 @@ Accessing the map (NeosVR):
 
 ### Screenshots
 
-![Big black and white hallway with something that looks like a reflective floor.](https://sharex.777.tf/ShareX/2023/08/2023-08-24%2019.00.33.avif)
+[![Big black and white hallway with something that looks like a reflective floor.](https://sharex.777.tf/ShareX/2023/08/2023-08-24%2019.00.33.avif)](https://sharex.777.tf/ShareX/2023/08/2023-08-24%2019.00.33.avif)
 
-![Top view of the map, displaying a massive red sphere in the centre, having a ton of black and white towers everywhere.](https://sharex.777.tf/ShareX/2023/08/2023-08-24%2019.06.59.avif)
+[![Top view of the map, displaying a massive red sphere in the centre, having a ton of black and white towers everywhere.](https://sharex.777.tf/ShareX/2023/08/2023-08-24%2019.06.59.avif)](https://sharex.777.tf/ShareX/2023/08/2023-08-24%2019.06.59.avif)
 
-![View of a hallway with Jae standing in the middle, showcasing its creation.](https://sharex.777.tf/ShareX/2023/08/2023-08-24%2019.02.15.avif)
+[![View of a hallway with Jae standing in the middle, showcasing its creation.](https://sharex.777.tf/ShareX/2023/08/2023-08-24%2019.02.15.avif)](https://sharex.777.tf/ShareX/2023/08/2023-08-24%2019.02.15.avif)

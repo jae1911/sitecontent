@@ -5,7 +5,7 @@ menus: ['main']
 
 # Maps
 
-Here is the list of various game maps I've done.
+Here is the list of various game maps I've made and finished.
 
 ## Median
 
@@ -22,6 +22,8 @@ Accessing the map (NeosVR):
 - Record URI: `neosrec:///U-j4/R-52ffc448-790f-48b7-afab-eae75936ffcd`
 
 ### Screenshots
+
+_You can click images to make them bigger._
 
 [![Big black and white hallway with something that looks like a reflective floor.](https://sharex.777.tf/ShareX/2023/08/2023-08-24%2019.00.33.avif)](https://sharex.777.tf/ShareX/2023/08/2023-08-24%2019.00.33.avif)
 

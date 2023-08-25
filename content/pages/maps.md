@@ -16,6 +16,9 @@ Software used:
 - Blender (terrain modeling)
 - GIMP (textures)
 
+Tricks used:
+- [Generating cubed decorations](https://777.tf/wiki/documentation/blender#generating-cubed-decorations)
+
 Accessing the map (NeosVR):
 - Search "Median" in the world search
 - World URL: [http://cloudx.azurewebsites.net/open/world/U-j4/R-52ffc448-790f-48b7-afab-eae75936ffcd](http://cloudx.azurewebsites.net/open/world/U-j4/R-52ffc448-790f-48b7-afab-eae75936ffcd)

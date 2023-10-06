@@ -9,7 +9,7 @@ Here is the list of various game maps I've made and finished.
 
 ## Median
 
-Median is a map originally created for the game [NeosVR](https://neosvr.com); based on the PC demo of the same name by Ümlaüt Design.  
+Median is a map originally created for the game [Resonite](https://resonite.com); based on the PC demo of the same name by Ümlaüt Design.  
 All assets presents were made from scratch only using Open-Source software.
 
 Software used:
@@ -19,10 +19,10 @@ Software used:
 Tricks used:
 - [Generating cubed decorations](https://777.tf/wiki/documentation/blender#generating-cubed-decorations)
 
-Accessing the map (NeosVR):
+Accessing the map (Resonite):
 - Search "Median" in the world search
-- World URL: [http://cloudx.azurewebsites.net/open/world/U-j4/R-52ffc448-790f-48b7-afab-eae75936ffcd](http://cloudx.azurewebsites.net/open/world/U-j4/R-52ffc448-790f-48b7-afab-eae75936ffcd)
-- Record URI: `neosrec:///U-j4/R-52ffc448-790f-48b7-afab-eae75936ffcd`
+- World URL: [https://go.resonite.com/record/U-j4/R-52ffc448-790f-48b7-afab-eae75936ffcd](https://go.resonite.com/record/U-j4/R-52ffc448-790f-48b7-afab-eae75936ffcd)
+- Record URI: `resrec:///U-j4/R-52ffc448-790f-48b7-afab-eae75936ffcd`
 
 ### Screenshots
 

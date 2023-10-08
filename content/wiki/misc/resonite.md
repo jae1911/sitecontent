@@ -39,5 +39,6 @@ Random documentation about Resonite.
 - `/removeMember <groupname> <username>` - Removes a player from a group
 - `/priorityIssue <issue ID>` - Sets a GitHub issue as a priority
 - `/requestDeleteRecovery <time period> <name search>` - Starts the recovery of a deleted record matching a certain name under a certain time period
+- `/headlessCode` - Displays the headless access code
 
 Note: the `/getGroupInfo` command is also available to non-Patreons under the condition that they are part of the group they are querying.

@@ -33,11 +33,6 @@ My contact options are:
 
 Matrix will likely get you the fastest response tho I read and respond to every single query (as long as they're not spam). Use email in last resort if you really don't have anything else as it's not the best protocol out there (the email server used by <span class="il">777.tf</span> is hosted using ProtonMail).
 
-This website is hosted on an OrangePi 4 LTS.  
-Network stats for host `arm1` (updated every hour; [click here to see a bigger version of the image](https://loadimages.777.tf/main.avif)):  
-
-![Stats of the network generated with vnstati with a bunch of nice graphs](https://loadimages.777.tf/main.avif)
-
 ---
 
 ## Latest of the blog

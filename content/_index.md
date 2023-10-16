@@ -10,7 +10,12 @@ description: "The website of Jae Lo Presti."
 
 Hey there, I'm Jae Lo Presti (AKA J4), I was born in the mountains of Savoy but I'm currently living in Helsinki (Finland).  
 
-I mainly do code and sysadmin but i also like to meddle in networking as I operate <span class="in">[AS211696](/pages/as211696)</span>, and, on my free time, I make software that I need.
+I mainly do code, sysadmin and networking (used to operated AS211696).
+
+On my free time, I create content on Resonite as a mentor, including maps, systems, objects and tutorials.  
+You can check out:
+- [My maps](/pages/maps)
+- [My YouTube channel](https://www.youtube.com/@j4l/)
 
 I also happen to write a bunch of software that you can find on [SourceHut](/redir/srht).
 
@@ -41,4 +46,3 @@ Don't miss anything from the blog [by adding it to your RSS reader](/blog/index.
 Feeds in [JSON](/blog/index.json) and [ATOM](/blog/index.atom) are also available!
 
 {{< postlist >}}
-

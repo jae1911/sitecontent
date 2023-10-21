@@ -72,7 +72,7 @@ As a bonus, remember that
 
 I will not recommend any apps of the likes of (Re)Vanced as it still relies on
 an official YouTube app which is completely closed-source (although the
-patches) are open.  
+patches are open).  
 All it takes for Google to take down those patched versions, as shown in the
 past, is a small cease-and-desist, while completely open-source projects have
 absolutely no real grounds to be taken down (the RIAA tried, they failed).
@@ -87,6 +87,9 @@ scams going through ads).
 So do you have a friend, coworker or family member that still has millions of
 ads on their screen? Do them a favour and show them how to install uBlock
 origin on their browser.
+
+This website will **never** have ads, if it ever does, block it as it won't be
+controlled by me then.
 
 I'll see you next time!
 

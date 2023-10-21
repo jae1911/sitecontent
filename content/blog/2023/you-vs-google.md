@@ -69,6 +69,7 @@ uBlock origin**
 
 As a bonus, remember that
 [uBlock origin works best on Firefox](https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox)
+.
 
 I will not recommend any apps of the likes of (Re)Vanced as it still relies on
 an official YouTube app which is completely closed-source (although the
@@ -93,4 +94,4 @@ I'll see you next time!
 ---
 
 If you liked this post, don't forget to subscribe to the blog via [RSS](/blog/index.xml) or [JSON](/blog/index.json).  
-If you wish to support the Open Services, a [LiberaPay page](https://liberapay.com/Jae) is available.
+If you wish to support me, a [LiberaPay page](https://liberapay.com/Jae) is available.

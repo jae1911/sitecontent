@@ -49,7 +49,7 @@ iOS, also has SponsorBlock support
 
 - [FreeTube](https://freetubeapp.io/) - A desktop YouTube client available on
 Linux, Windows and MacOS
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - A must-have on any system, a
+- ⭐⭐⭐ [yt-dlp](https://github.com/yt-dlp/yt-dlp) - A must-have on any system, a
 command-line utility allowing you to download videos and audio from not only
 YouTube, but also from a wide variety of websites and platforms
 

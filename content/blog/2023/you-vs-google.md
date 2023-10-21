@@ -96,4 +96,4 @@ I'll see you next time!
 ---
 
 If you liked this post, don't forget to subscribe to the blog via [RSS](/blog/index.xml) or [JSON](/blog/index.json).  
-If you wish to support me, a [LiberaPay page](https://liberapay.com/Jae) is available.
+You can support me on [Ko-Fi](https://ko-fi.com/j4dlc).

@@ -1,6 +1,6 @@
 ---
 date: '2023-10-21'
-title: 'You Vs Google ADs'
+title: 'You Vs Google ads'
 draft: true
 ---
 

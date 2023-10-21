@@ -1,7 +1,7 @@
 ---
 date: '2023-10-21'
 title: 'You Vs Google ads'
-draft: true
+draft: false
 ---
 
 Hey there!  
@@ -82,8 +82,8 @@ prey on your attention only to track you to sell you stuff you probably don't
 need.  
 Having a content blocker is good for privacy but is also a good way of
 de-cluttering the web and making it *somewhat bearable* to navigate (it also
-improves security **a lot** for older users that might fall for "download me"
-scams going through ads).  
+improves security **a lot** for older users that might fall for scams and
+viruses being spread through ads).  
 So do you have a friend, coworker or family member that still has millions of
 ads on their screen? Do them a favour and show them how to install uBlock
 origin on their browser.

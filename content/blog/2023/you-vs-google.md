@@ -68,8 +68,7 @@ uBlock origin**
  3. Click on "Update now"
 
 As a bonus, remember that
-[uBlock origin works best on Firefox](https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox)
-.
+[uBlock origin works best on Firefox](https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox).
 
 I will not recommend any apps of the likes of (Re)Vanced as it still relies on
 an official YouTube app which is completely closed-source (although the

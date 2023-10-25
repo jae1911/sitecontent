@@ -12,10 +12,11 @@ Hey there, I'm Jae Lo Presti (AKA J4), I was born in the mountains of Savoy but 
 
 I mainly do code, sysadmin and networking (used to operate AS211696).
 
-On my free time, I create content on Resonite as a mentor, including maps, systems, objects and tutorials.  
+On my free time, I create content on Resonite as a mentor, including maps, systems, objects and tutorials. I also happen to make 3D art.  
 You can check out:
 - [My maps](/pages/maps)
 - [My YouTube channel](https://www.youtube.com/@j4l/)
+- [My renders & art](/pages/renders)
 
 I also happen to write a bunch of software that you can find on [SourceHut](/redir/srht).
 

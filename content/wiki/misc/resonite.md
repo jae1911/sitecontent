@@ -24,7 +24,6 @@ Random documentation about Resonite.
 - `/deleteRecord <id>` - Deletes the specified record ID
 - `/enableLogin2FA` - Enables 2FA on login
 - `/disableLogin2FA` - Disables login 2FA
-- `/webLogin` - Temporarily stop asking for 2FA to be able to login on the accounts website
 
 ### Patreon only
 

@@ -16,3 +16,5 @@ An overview of different renders I made using Blender.
 [![Jae handing out a floppy disk to the reader.](https://sharex.777.tf/ShareX/2023/10/rd-4k-handing-floppy.jpg)](https://sharex.777.tf/ShareX/2023/10/rd-4k-handing-floppy.jpg)
 
 [![Jae standing, looking forwards with its eyes closed; being lit up by a white light.](https://i.j4.lc/ShareX/2023/10/eyes-closed-looking-forward.jpg)](https://i.j4.lc/ShareX/2023/10/eyes-closed-looking-forward.jpg)
+
+[![Carton of Goldfish cheddar snacks, dimly lit on a pedestal.](https://i.j4.lc/ShareX/2023/10/goldfish-carton.jpg)](https://i.j4.lc/ShareX/2023/10/goldfish-carton.jpg)

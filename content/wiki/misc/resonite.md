@@ -6,6 +6,13 @@ title: "Resonite"
 
 Random documentation about Resonite.
 
+## Useful Links
+
+- [Resonite website](https://resonite.com)
+- [Resonite moderation](https://moderation.resonite.com)
+- [Resonite issues](https://github.com/Yellow-Dog-Man/Resonite-Issues/)
+- [Resonite Discord Guild](https://discord.gg/resonite)
+
 ## Resonite Bot commands
 
 ### Basic commands

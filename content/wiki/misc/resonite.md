@@ -30,7 +30,17 @@ Random documentation about Resonite.
 - `/addExitMessage <message>` - Submits an exit message
 - `/listExitMessages` - Lists your submitted exit messages
 - `/shareStorageWithGroup <group> <amount>` or `/shareStorageWithUser <user> <amount>` - Shares the specified amount of storage with a user or group
-- `/set2DBadge <badge URL>` or `/set3DBadge <record URL>` - Sets your 3D or 2D badge (3D badge limitations are 128 tris, 256 verts)
+- `/set2DBadge <resdb:/// URL>` or `/set3DBadge <record URL>` - Sets your 3D or 2D badge (3D badge limitations are 128 tris, 256 verts); custom badges have some limitations:
+  - 3D badges must be one mesh renderer, one static mesh (up to 128 triangles **or** 256 vertices) and a single texture (auto resized to 128px)
+  - Only the following components are allowed on the badge:
+    - `StaticTexture2D`
+    - `StaticMesh`
+    - `StaticShader`
+    - `MeshRenderer`
+    - `Spinner`
+    - `Wiggler`
+    - `Panner1D` -> `Panner4D`
+    - Materials 
 - `/clear2DBadge` or `/clear3DBadge` - Removes your set 3D or 2D badge
 - `/createGroup <groupname>` - Create a new group with the specified group name
 - `/getGroupInfo <groupname>` - Gets all the info about a group

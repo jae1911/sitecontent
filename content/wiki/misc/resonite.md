@@ -57,3 +57,20 @@ Random documentation about Resonite.
 - `/priorityIssue <issue ID>` - Sets a GitHub issue as a priority
 - `/requestDeleteRecovery <time period> <name search>` - Starts the recovery of a deleted record matching a certain name under a certain time period
 - `/headlessCode` - Displays the headless access code
+
+## Command line launch arguments
+
+Those launch arguents are to be added either to Steam or any shortcut that you might have to the Resonite executable.  
+Pictured below, example of Steam command line launch arguments.
+![Steam game property window with at the bottom some launch arguments.](https://i.j4.lc/ShareX/2023/10/steamwebhelper_BR3O5QVVbB.png)
+
+- `-Invisible` - Starts your game with the "invisible" status by default
+- `-ForceSRAnipal` - Forces SRanipal to be launched (face tracking)
+- `-LoadAssembly` - Loads additional plugins
+- `-ResetDash` - Resets your dashboard /!\ Will remove all your facets /!\
+- `-SteamVR` - Launches the game with SteamVR
+- `-RiftTouch` - Launches the game with Oculus rift + touch controllers
+- `-Screen` - Launches the game in desktop mode
+- `-Screen360` - Launches the game in desktop mode with 360 projection on
+- `-SkipIntroTutorial` - Skips the tutorial on first uninitialized game launch
+- `-DontAutoOpenCloudHome` - Avoids the loading of the cloud home

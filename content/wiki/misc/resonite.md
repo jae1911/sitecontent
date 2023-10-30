@@ -43,11 +43,9 @@ Random documentation about Resonite.
     - Materials 
 - `/clear2DBadge` or `/clear3DBadge` - Removes your set 3D or 2D badge
 - `/createGroup <groupname>` - Create a new group with the specified group name
-- `/getGroupInfo <groupname>` - Gets all the info about a group
+- `/getGroupInfo <groupname>` - Gets all the info about a group (requires you to be the admin of said group)
 - `/addMember <groupname> <username> <quota>` - Adds a player to a group
 - `/removeMember <groupname> <username>` - Removes a player from a group
 - `/priorityIssue <issue ID>` - Sets a GitHub issue as a priority
 - `/requestDeleteRecovery <time period> <name search>` - Starts the recovery of a deleted record matching a certain name under a certain time period
 - `/headlessCode` - Displays the headless access code
-
-Note: the `/getGroupInfo` command is also available to non-Patreons under the condition that they are part of the group they are querying.

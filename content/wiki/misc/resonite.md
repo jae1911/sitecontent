@@ -24,6 +24,7 @@ Random documentation about Resonite.
 - `/deleteRecord <id>` - Deletes the specified record ID
 - `/enableLogin2FA` - Enables 2FA on login
 - `/disableLogin2FA` - Disables login 2FA
+- `/changeUsername <old username> <new username>` - Changes your username (can only be used once every 7 days)
 
 ### Patreon only
 

@@ -74,4 +74,4 @@ Pictured below, example of Steam command line launch arguments.
 - `-Screen` - Launches the game in desktop mode
 - `-Screen360` - Launches the game in desktop mode with 360 projection on
 - `-SkipIntroTutorial` - Skips the tutorial on first uninitialized game launch
-- `-DoNotAutoLoadHome` - Avoids the loading of the cloud home
+- `-DoNotAutoLoadHome` - Avoids loading your cloud home

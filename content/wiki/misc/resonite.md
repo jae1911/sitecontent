@@ -62,6 +62,7 @@ Random documentation about Resonite.
 
 Those launch arguents are to be added either to Steam or any shortcut that you might have to the Resonite executable.  
 Pictured below, example of Steam command line launch arguments.
+
 ![Steam game property window with at the bottom some launch arguments.](https://i.j4.lc/ShareX/2023/10/steamwebhelper_BR3O5QVVbB.png)
 
 - `-Invisible` - Starts your game with the "invisible" status by default

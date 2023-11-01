@@ -66,3 +66,17 @@ _You can click images to make them bigger._
 [![Seats and table next to a big logo stating "The Pie in the Sky" with a pie icon.](https://sharex.777.tf/ShareX/2023/10/2023-10-16-10.09.34.avif)](https://sharex.777.tf/ShareX/2023/10/2023-10-16-10.09.34.avif)
 
 [![Large bridge with a structure on top. The bridge side has a text saying "Welcome to United Space Force Nation Neo Kalidea Park" while there is a USFN flag on top of the structure.](https://sharex.777.tf/ShareX/2023/10/2023-10-16-10.12.36.avif)](https://sharex.777.tf/ShareX/2023/10/2023-10-16-10.12.36.avif)
+
+## The Edge of the Universe
+
+The Edge of the Universe is a map for [Resonite](https://resonite.com) designed to be a calm hangout place.
+
+Software used:
+- Blender (3D modelling)
+
+### Screenshots
+
+_You can click images to make them bigger._
+
+[![Jae on a rocking chair with a black hole in the background.](https://i.j4.lc/ShareX/2023/11/2023-11-01-02.00.30.avif)](https://i.j4.lc/ShareX/2023/11/2023-11-01-02.00.30.avif)
+[![A small platform with a guardrail floating in space, lit by street lights and having some furniture with a black hole in the background.](https://i.j4.lc/ShareX/2023/11/2023-11-01-02.02.40.avif)](https://i.j4.lc/ShareX/2023/11/2023-11-01-02.02.40.avif)

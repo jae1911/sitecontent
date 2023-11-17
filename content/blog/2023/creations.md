@@ -1,7 +1,7 @@
 ---
 title: 'Creativity and diversity'
 draft: false
-date: 2023-11-18
+date: 2023-11-17
 ---
 
 Hey there!  

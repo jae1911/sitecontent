@@ -32,6 +32,7 @@ Random documentation about Resonite.
 - `/enableLogin2FA` - Enables 2FA on login
 - `/disableLogin2FA` - Disables login 2FA
 - `/changeUsername <old username> <new username>` - Changes your username (can only be used once every 7 days)
+- `/serverinfo` - Displays some information about the server like the current uptime, Linux version and runtime version
 
 ### Patreon only
 

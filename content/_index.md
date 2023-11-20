@@ -18,7 +18,7 @@ You can check out:
 - [My YouTube channel](https://www.youtube.com/@j4l/)
 - [My renders & art](/pages/renders)
 
-I also happen to write a bunch of software that you can find on [SourceHut](/redir/srht).
+I also happen to write a bunch of software.
 
 <img src="https://bm.777.tf/web/wave.webp" alt="Jae waving at the viewer" class="rightgif">
 
@@ -31,6 +31,11 @@ My contact options are:
  - <a href="mailto:jae@777.tf" rel="me">jae@777.tf</a> - email
  - <a href="https://soc.jae.fi/@me" rel="me">@me@soc.jae.fi</a> - Fediverse (ActivityPub)
  - `j4` - Resonite
+ - `jae.softpaw` - SL
+
+Other links: 
+- [GitHub](https://github.com/jae1911)
+- [SourceHut](/redir/srht)
 
 Matrix will likely get you the fastest response tho I read and respond to every single query (as long as they're not spam). Use email in last resort if you really don't have anything else as it's not the best protocol out there (the email server used by <span class="il">777.tf</span> is hosted using ProtonMail).
 

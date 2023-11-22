@@ -12,6 +12,7 @@ title: FIDO2
 - [Proton](https://proton.me) - As 2FA
 - [Microsoft](https://microsoft.com) - As 2FA + Passwordless Login
 - [DNSimple](https://dnsimple.com) - As 2FA
+- [Discord](https://discord.com) - As 2FA
 
 ## Software supporting security keys
 

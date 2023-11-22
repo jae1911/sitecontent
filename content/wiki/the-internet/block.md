@@ -24,8 +24,8 @@ There is also the fact that soon, [Chromium will be even less efficient at block
 Now what do we do? Are we all doomed already? The answer is no!  
 Here are few steps you can take to at least mitigate all of this:
 
- 1. Use [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) or a Firefox fork like [LibreWolf](https://librewolf.net/)
- 2. Install [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) which is a must-have add-on to block from tracking scripts to cookie pop-ups (at least certain pop-ups)
+1.  Use [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) or a Firefox fork like [LibreWolf](https://librewolf.net/)
+2.  Install [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) which is a must-have add-on to block from tracking scripts to cookie pop-ups (at least certain pop-ups)
 
 Let's extend a bit on the subject of uBlock, that add-on can do miracles. For a concrete example, let's take our undiscardable cookie popup from `jeuxvideos.com`:
 
@@ -41,10 +41,10 @@ In uBlock, there is a "pick" feature which means you can interactively select el
 And voilà, you can now enjoy articles for free.  
 uBlock also has many more features where you can block:
 
- - Remote fonts
- - Large media elements
- - Pop-ups
- - JavaScript
+- Remote fonts
+- Large media elements
+- Pop-ups
+- JavaScript
 
 You can even make your own blocklists or just those others made.
 
@@ -52,6 +52,6 @@ Another way to bypass those annoying pop-ups (and sometimes even paywalls) is th
 
 Before ending this, here are some blocklist recommendations for uBlock (you can find most of them in the "Filter lists" section of the configuration; you can also import lists from URIs at the very bottom of the page):
 
- - Your regional language lists (under "Region, languages" category)
- - [Anti-AdBlock killer](https://github.com/reek/anti-adblock-killer/)
- - [1Hosts Pro](https://github.com/badmojr/1Hosts)
+- Your regional language lists (under "Region, languages" category)
+- [Anti-AdBlock killer](https://github.com/reek/anti-adblock-killer/)
+- [1Hosts Pro](https://github.com/badmojr/1Hosts)

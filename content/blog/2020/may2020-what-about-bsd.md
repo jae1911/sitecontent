@@ -12,12 +12,12 @@ I discovered BSD few times ago when I was looking for a Systemd-free distro (ess
 Curious about this new thing, I downloaded [FreeBSD](https://freebsd.org/) as a test and installed it on my old laptop.  
 While this was a fairly old laptop (about 750Mb of ram, an old AMD CPU & GPU and a 65Gb hard-drive), FreeBSD ran smoothly and I though it could be a good idea for my main desktop which at the time was a Dell T3500 Workstation.  
 At first, it seemed to be a good idea: it looked just like Linux which I was using for quite some years and most importantly, my GPU (a Nvidia 750Ti at the time) had an official driver made by Nvidia which was somewhat attractive.  
-My first FreeBSD installation took hours, simply because I was in an old building served by an old ADSL line, at the time, getting 1Mb/s was pure miracle.  
+My first FreeBSD installation took hours, simply because I was in an old building served by an old ADSL line, at the time, getting 1Mb/s was pure miracle.
 
 At first, everything seemed nice, it was working.  
 I had what I asked for: a simple desktop environment, a web browser and an IRC client to talk with my friends.  
 Then, few days after the initial installation, one problem became apparent: the software support.  
-I struggled to find software and getting it to work, while most software usually supports Window, Mac and *sometimes* Linux, finding native BSD programs was almost impossible, at the time, I was using Skype to communicate with class friends or Teamspeak for some games.  
+I struggled to find software and getting it to work, while most software usually supports Window, Mac and _sometimes_ Linux, finding native BSD programs was almost impossible, at the time, I was using Skype to communicate with class friends or Teamspeak for some games.  
 While there were ports of programs from Linux, for some reason, theses didn't worked and just plainly displayed compilation errors.  
 This is what made me give up and get back to my Linux (Arch to be more precise).
 
@@ -30,7 +30,7 @@ As said earlier, for me BSD has really restricted software which you can run on 
 
 Usually, the first thing I do when installing a new system is installing the Minecraft launcher and trying to play.  
 I saw that FreeBSD has a port named `games/minecraft-client` and then installed it.  
-To my surprise, it worked. Not only I could play Minecraft on FreeBSD but also, I could now access a really big library of apps ported from Linux which is very exiting.  
+To my surprise, it worked. Not only I could play Minecraft on FreeBSD but also, I could now access a really big library of apps ported from Linux which is very exiting.
 
 Now that I have this system, I'll use it as my daily driver and post follow-ups to tell what I think about BSD after some usage.
 

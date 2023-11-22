@@ -14,9 +14,9 @@ Just to set some grounds, where I reside (but not a citizen yet), in Finland, I 
 
 So, for France, our journey starts in May 2021, I just moved in Finland and decided to finally change my name after all those years. So I started looking what I needed and the document asked are quite hefty:
 
- - A really big form where you have to explain why you want your name changed, to which and such
- - Multiple attestations from people around you that say "Yes, I call Jae, Jae and not any other names"
- - Family attestations you can only get from your birth city and that takes months to be produced and to arrive
+- A really big form where you have to explain why you want your name changed, to which and such
+- Multiple attestations from people around you that say "Yes, I call Jae, Jae and not any other names"
+- Family attestations you can only get from your birth city and that takes months to be produced and to arrive
 
 To top it off, it is not possible to send the file via email (at least at this embassy) and a physical appointment is required, so all the files had to be printed.
 

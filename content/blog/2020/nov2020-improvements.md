@@ -27,6 +27,7 @@ The same goes on for Twitter's cards:
 At the end, the OpenGraph should produce an output like this:
 
 {{< highlight html "linenos=table" >}}
+
 <meta property="og:site_name" content="Jae" />
 <meta property="og:locale" content="nn_NO" />
 <meta property="og:type" content="article" />
@@ -39,6 +40,7 @@ At the end, the OpenGraph should produce an output like this:
 And the Twitter's cards:
 
 {{< highlight html "linenos=table" >}}
+
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Improving my website with simple GoHugo tricks"/>
 <meta name="twitter:description" content="As you may have seen, I started to really work on my website lately..."/>

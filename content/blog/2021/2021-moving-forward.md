@@ -25,8 +25,8 @@ In the past few months, I met countless people which are now good friends, suppo
 
 So now the time to thank people for support:
 
- - Thanks to the French non-profit Fransgenre for supporting me and helping me to hold all those years.
- - Thanks to all the people who have been here physically (or not) to support me.
+- Thanks to the French non-profit Fransgenre for supporting me and helping me to hold all those years.
+- Thanks to all the people who have been here physically (or not) to support me.
 
 And most importantly, thanks to you for reading this far.
 

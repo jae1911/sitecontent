@@ -1,5 +1,5 @@
 ---
-title: 'Creativity and diversity'
+title: "Creativity and diversity"
 draft: false
 date: 2023-11-17
 ---
@@ -35,6 +35,7 @@ And even more is planned, I even started sketching those ideas:
 [![Large sketch board with text and drawings everywhere showing furniture and map ideas.](https://i.j4.lc/ShareX/2023/11/Home%20in%20the%20moutains-cmpr.jpg)](https://i.j4.lc/ShareX/2023/11/Home%20in%20the%20moutains-cmpr.jpg)
 
 If my writing is too cryptic to understand, here are the big lines of that upcoming project:
+
 - Cozy homeworld for Resonite
 - Placed on top of a mountain
 - Dark environment

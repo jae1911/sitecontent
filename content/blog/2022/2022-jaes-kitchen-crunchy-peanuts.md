@@ -8,11 +8,11 @@ Greetings everyone, today, I'm gonna show you how you can make a crunchy peanut 
 
 You will need:
 
- - 150g of sugar
- - 150ml of water
- - A pot
- - 250g of salty peanuts (without spices)
- - Cooking paper
+- 150g of sugar
+- 150ml of water
+- A pot
+- 250g of salty peanuts (without spices)
+- Cooking paper
 
 First, put the sugar and water into the pot and put the head on medium.
 

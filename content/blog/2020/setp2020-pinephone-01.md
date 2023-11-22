@@ -32,7 +32,7 @@ There is already a 'fix' but it requires to run a command in a terminal to work.
 
 ### Small library of adapted software
 
-*As said earlier, this can **only** improve over time.*
+_As said earlier, this can **only** improve over time._
 
 For now, the software you can get on pmOS is either from the Alpine Linux repositories or the GNOME store.
 
@@ -77,8 +77,7 @@ If you don't like and OS, you can just change it (good luck to do that on regula
 
 Some people would deem to say that the Pinephone is too slow for everything. For now, maybe, but keep in mind this is a 150Eur phone so you get what you get for 150Eur but as said many times, **it can only improve**, waiting a little bit longer will give more powerful hardware for a more optimized OS with features such as deep sleep or better battery management.
 
-I am recommending the Pinephone for everyone who knows the 'risks' of running an early version of what will be *, hopefully,* the future of mobile phones.
-
+I am recommending the Pinephone for everyone who knows the 'risks' of running an early version of what will be _, hopefully,_ the future of mobile phones.
 
 I'll make a follow up of this article in roughly three months to comment on how it is as a daily driver for an extended period of time.
 

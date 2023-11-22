@@ -1,10 +1,10 @@
 ---
-title: 'Thanks'
+title: "Thanks"
 ---
 
 # Thanks for everything!
 
-![Jae holding a ThinkPad and working on it](https://bm.777.tf/coms/sirlan/jae.png)  
+![Jae holding a ThinkPad and working on it](https://bm.777.tf/coms/sirlan/jae.png)
 
 Hey there, my name is Jae and I was running the services you were trying to use.  
 Unfortunately, I had to discontinue those services because of what they were costing me to run (see the [blog article](/blog/2023/03/23/the-end-of-the-line/)).  

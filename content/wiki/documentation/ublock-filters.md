@@ -1,5 +1,5 @@
 ---
-title: 'uBlock filters'
+title: "uBlock filters"
 ---
 
 # uBlock filters
@@ -7,6 +7,7 @@ title: 'uBlock filters'
 Here is a collection of all my [uBlock Origin](https://github.com/gorhill/uBlock) filters.
 
 Total blocked:
+
 - 311510 Network Filters
 - 236046 Cosmetic Filters
 
@@ -94,5 +95,6 @@ youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:conten
 ## Creating your own filters
 
 Ressources:
+
 - [DandelionSprout's cheatsheet](https://github.com/DandelionSprout/adfilt/blob/master/Wiki/SyntaxMeaningsThatAreActuallyHumanReadable.md)
 - [uBlock Origin documentation](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax)

@@ -1,5 +1,5 @@
 ---
-title: 'Blender tricks'
+title: "Blender tricks"
 ---
 
 # Blender tricks

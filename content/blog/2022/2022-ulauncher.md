@@ -24,13 +24,13 @@ You can actually extend uLauncher with countless extensions which can do anythin
 
 My current setup uses those extensions:
 
- - Weather – Shows weather using the OpenWeatherMap API
- - PyPi – Allows you to search PyPi for packages
- - Calculate Anything – One of the most powerful extension that allows you to literally calculate anything from currency conversions to surface or pressure (will require you to run `pip3 install pytz pint simpleeval --user` before installing)
- - NPMJs – Same thing that PyPi but with NPM
- - Folder Search – Title
- - Emoji – Allows you to search and copy emojis
- - Symbol Search – Allows you to search and copy ASCII and Unicode symbols
+- Weather – Shows weather using the OpenWeatherMap API
+- PyPi – Allows you to search PyPi for packages
+- Calculate Anything – One of the most powerful extension that allows you to literally calculate anything from currency conversions to surface or pressure (will require you to run `pip3 install pytz pint simpleeval --user` before installing)
+- NPMJs – Same thing that PyPi but with NPM
+- Folder Search – Title
+- Emoji – Allows you to search and copy emojis
+- Symbol Search – Allows you to search and copy ASCII and Unicode symbols
 
 In the configuration window, you will also find the search engine tab, which you can customize by bringing your own to it.
 

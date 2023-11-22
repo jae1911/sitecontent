@@ -18,16 +18,17 @@ Any player of rhythm games will like this one; it is also really cheap (as writi
 
 CS:S is a well-known FPS game made by ValVe.  
 The basic gamemod is 'Terrorists vs Counter-Terrorists' but there is still plenty to choose from like:
- - Gungame
- - Surf
- - KZ
- - Bunnyhop
+
+- Gungame
+- Surf
+- KZ
+- Bunnyhop
 
 And many more!  
 I usually stick to the regular matches as I feel the guns aren't as broken as on CS:GO (the latest opus of the series).
-  
+
 ---
-  
+
 For now, that's about all there is to say.  
 If you liked this post, stay tuned for the next via [RSS](https://jae.moe/blog/index.xml)!  
 I'll see you next time.

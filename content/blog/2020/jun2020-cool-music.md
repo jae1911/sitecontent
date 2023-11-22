@@ -10,26 +10,33 @@ Hey everyone!
 Sometimes, like a lot of people, I like to sit down and relax while listening to music.  
 Here is my favorite tracks.
 
-#### 1. *DIZZZRUPTOR* by *YERZMYEY*
+#### 1. _DIZZZRUPTOR_ by _YERZMYEY_
+
 This is a tune made for a [ZX Spectrum](https://en.wikipedia.org/wiki/ZX_Spectrum) demo. The music is even better with graphics on!
 {{< yt weFH_y1LGBw >}}
 
-#### 2. *The Second Act* from *Tales Of Fantasia*
+#### 2. _The Second Act_ from _Tales Of Fantasia_
+
 {{< yt jyw4HU-kUrU >}}
 
-#### 3. *Trans Atlantic* by *Lizardking*
-This particular tune is well-known for being used in the **[Crystal Dream 2](https://www.pouet.net/prod.php?which=462)** demo by *Triton*.
+#### 3. _Trans Atlantic_ by _Lizardking_
+
+This particular tune is well-known for being used in the **[Crystal Dream 2](https://www.pouet.net/prod.php?which=462)** demo by _Triton_.
 {{< yt wgWFA2pyYm0 >}}
 
-#### 4. *YU-NO - Opening* by *Ryu Umemoto*
+#### 4. _YU-NO - Opening_ by _Ryu Umemoto_
+
 {{< yt URWNqs7FEXA >}}
 
-#### 5. *Artillery - Credits* by *Geir Tjelta*
+#### 5. _Artillery - Credits_ by _Geir Tjelta_
+
 {{< yt BiGwwzBbARA >}}
 
-#### 6. *Echofield 6581* by *Maniacs Of Noise*
+#### 6. _Echofield 6581_ by _Maniacs Of Noise_
+
 {{< yt POXaKOjdjRA >}}
 
-#### 7. *Dark Sheep* by *Chroma*
+#### 7. _Dark Sheep_ by _Chroma_
+
 From BMS, with love <3
 {{< yt bYCbm469Zq0 >}}

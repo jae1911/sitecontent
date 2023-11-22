@@ -10,12 +10,14 @@ This article will describe how to get started and host your own instance of Over
 
 You will need to [install the Docker daemon](/wiki/documentation/docker).  
 To build the software, clone it:
+
 ```bash
 git clone https://git.sr.ht/~jae/Overengine
 cd Overengine
 ```
 
 And then build it:
+
 ```bash
 docker build -t overengine .
 ```
@@ -36,6 +38,7 @@ For deployment, `docker-compose` is used.
 
 Put your website content in the `content/` folder at the same level of the compose file.  
 You can create a `docker-compose.yml` with the following contents (change the token secrets accordingly):
+
 ```yaml
 version: "3.9"
 

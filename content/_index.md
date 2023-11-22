@@ -8,12 +8,13 @@ description: "The website of Jae Lo Presti."
 
 ## About me
 
-Hey there, I'm Jae Lo Presti (AKA J4), I was born in the mountains of Savoy but I'm currently living in Helsinki (Finland).  
+Hey there, I'm Jae Lo Presti (AKA J4), I was born in the mountains of Savoy but I'm currently living in Helsinki (Finland).
 
 I mainly do code, sysadmin and networking (used to operate AS211696).
 
 On my free time, I create content on Resonite as a mentor, including maps, systems, objects and tutorials. I also happen to make 3D art.  
 You can check out:
+
 - [My maps](/pages/maps)
 - [My YouTube channel](https://www.youtube.com/@j4l/)
 - [My renders & art](/pages/renders)
@@ -28,12 +29,13 @@ All the content in this website is under the CC BY-SA 4.0 Jae Lo Presti license 
 
 My contact options are:
 
- - <a href="mailto:jae@777.tf" rel="me">jae@777.tf</a> - email
- - <a href="https://soc.jae.fi/@me" rel="me">@me@soc.jae.fi</a> - Fediverse (ActivityPub)
- - `j4` - Resonite
- - `jae.softpaw` - SL
+- <a href="mailto:jae@777.tf" rel="me">jae@777.tf</a> - email
+- <a href="https://soc.jae.fi/@me" rel="me">@me@soc.jae.fi</a> - Fediverse (ActivityPub)
+- `j4` - Resonite
+- `jae.softpaw` - SL
 
-Other links: 
+Other links:
+
 - [GitHub](https://github.com/jae1911)
 - [SourceHut](/redir/srht)
 

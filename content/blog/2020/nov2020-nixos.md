@@ -50,21 +50,25 @@ Let's see what everything does!
 ```
  users.groups.plugdev = {};
 ```
+
 Creates a group named `plugdev`, don't pay attention to it, it is just a test for the Ledger Live application.
 
 ```
  isNormalUser = true;
 ```
+
 Tells the os that the current user is a normal one. It will create a home folder and set the default shell.
 
 ```
  extraGroups = [ "wheel" "docker" "adbusers" "plugdev" ];
 ```
+
 Here, we are setting the groups the user is in to grant special permissions.
 
 ```
  shell = pkgs.zsh;
 ```
+
 As you may have guessed it, we are setting the default user shell to ZSH.
 
 ```
@@ -81,9 +85,10 @@ As you may have guessed it, we are setting the default user shell to ZSH.
             rtl-sdr gqrx gpredict noaa-apt welle-io
         ];
 ```
+
 There, we are installing per-user packages because yes, NixOS supports that, any user can have its own packages that others users can't access.
 
-> Correction from *hvdijk* on Hacker News, "*Other users can access those packages if they want to. Those packages won't show up in other users' $PATH, so other users will not be affected by them, but they could see what's in /nix/store if they wanted to. This matters when you're thinking of putting private data (such as an encryption key) in a package: it's vital that you don't do that on a multi-user system.*"
+> Correction from _hvdijk_ on Hacker News, "_Other users can access those packages if they want to. Those packages won't show up in other users' $PATH, so other users will not be affected by them, but they could see what's in /nix/store if they wanted to. This matters when you're thinking of putting private data (such as an encryption key) in a package: it's vital that you don't do that on a multi-user system._"
 
 Configuring NixOS for a daily use is at the end very easy (although I am getting some trouble to get Ledger Live working; which is the biggest problem I've had so far).
 

@@ -12,7 +12,7 @@ First, as mentioned by someone else, you don't need JavaScript to do a fade, CSS
 
 If the theme is so much tied to JavaScript that it displays a blank page if you disable it or if there is an error in the said script, there is something wrong somewhere.
 
-This is why I decided to remove completely the theme from the blog and install a new one, derived from the default terminal-theme and named jae-theme which is also  Open-Source.
+This is why I decided to remove completely the theme from the blog and install a new one, derived from the default terminal-theme and named jae-theme which is also Open-Source.
 
 Unlike the old one, this one works even if you are blocking JavaScript and web fonts.
 

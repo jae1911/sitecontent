@@ -49,7 +49,7 @@ Random documentation about Resonite.
     - `Spinner`
     - `Wiggler`
     - `Panner1D` -> `Panner4D`
-    - Materials 
+    - Materials
 - `/clear2DBadge` or `/clear3DBadge` - Removes your set 3D or 2D badge
 - `/createGroup <groupname>` - Create a new group with the specified group name
 - `/getGroupInfo <groupname>` - Gets all the info about a group (requires you to be the admin of said group)

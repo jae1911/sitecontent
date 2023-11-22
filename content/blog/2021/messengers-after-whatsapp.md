@@ -13,10 +13,11 @@ Now that's it's done, let's dive right in shall we?
 ## Element (Matrix)
 
 I talked about this one extensively in [this blog post]({{< ref "/blog/2020/nov2020-element-matrix.md" >}} "Using Matrix to replace proprietary and centralized chat apps") but tl;dr:
- - 100% Open-Source
- - Federated
- - Somewhat good UX
- - E2EE by default
+
+- 100% Open-Source
+- Federated
+- Somewhat good UX
+- E2EE by default
 
 If you want to try Element, you can go [on their official website](https://element.io) but please, pick another server than Matrix.org as it is already overloaded by too much users.
 A good server list [can be found here](https://publiclist.anchel.nl).
@@ -43,7 +44,7 @@ As like the other two, Threema is completely end-to-end encrypted but is the onl
 
 As the [apps are Open-Source](https://github.com/threema-ch), the backend of Threema is sadly not yet open.
 
-The app itself doesn't contains any trackers and can be downloaded and used without the use of Google Services (even tho Firebase Cloud Messaging will be used *when available* in order to push notifications onto devices), they even have [their own shop](https://shop.threema.ch) on which you can buy a license and download the app.
+The app itself doesn't contains any trackers and can be downloaded and used without the use of Google Services (even tho Firebase Cloud Messaging will be used _when available_ in order to push notifications onto devices), they even have [their own shop](https://shop.threema.ch) on which you can buy a license and download the app.
 
 Threema doesn't requires you to have a phone number or anything else to use the app and in fact, it can be used completely anonymously.
 

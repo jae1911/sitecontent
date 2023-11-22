@@ -10,10 +10,10 @@ I recently got my hands on a VR Headset: the Valve Index, which is something I w
 
 First off, getting VR to work is quite the setup (at least with this headset).You will be handed:
 
- - A headset (duh)
- - An adaptor for the headset cable that has inputs for USB 3.0, DisplayPort and the power brick (and you really really don't want to break that cable)
- - Two controllers
- - Two base stations
+- A headset (duh)
+- An adaptor for the headset cable that has inputs for USB 3.0, DisplayPort and the power brick (and you really really don't want to break that cable)
+- Two controllers
+- Two base stations
 
 The first step I did was to install the base stations and there was one of the first problems. The official guide recommends you to drill holes to screw the stations directly to the wall which would be the best method, but, problem is that I do not own a drill capable of the diameter required for the stations and buying a drill only for that seems a tad expensive (also, laziness).Instead of that, I used plain old double-sided tape which does its job wonderfully (even though the setup looks very cursed now).Each base station has its own power brick and does not needs to be connected to the computer.
 

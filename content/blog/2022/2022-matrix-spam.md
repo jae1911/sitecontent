@@ -30,7 +30,7 @@ This is the method that has been used recently to slow down servers.Basically a 
 
 The federation lag caused by the mass join will render most servers in the room inactive as they have to catch up with federation (no event priority yet).
 
-Sometimes, the bot owners might also spam the room with messages in the meanwhile to add a bit more of hell into this.This is the spam method that has been used against [Furry Tech](https://furry.lol/) on March 1st 2022 in an attack that started at around 06:00 (Europe/Helsinki  timezone).
+Sometimes, the bot owners might also spam the room with messages in the meanwhile to add a bit more of hell into this.This is the spam method that has been used against [Furry Tech](https://furry.lol/) on March 1st 2022 in an attack that started at around 06:00 (Europe/Helsinki timezone).
 
 > Thanks to Tulir for compiling [lists of user joins in spam waves](https://mau.dev/maunium/moderation/-/tree/main/spam).
 
@@ -49,6 +49,6 @@ So if you are a homeserver owner, please, please, if you want to run open regist
 
 This avoids that a single bad actor just creates thousands of random accounts in one go via a single API endpoint.Note that it will never stop spam completely but will at least render it more painful to setup in the first place.
 
-That's all for today and I'll see you next time!If you liked that blog post, don't forget to subscribe to it via RSS and if you have any questions, feedback or just want to say hello, join my Matrix room (all of  that is in the blog header)
+That's all for today and I'll see you next time!If you liked that blog post, don't forget to subscribe to it via RSS and if you have any questions, feedback or just want to say hello, join my Matrix room (all of that is in the blog header)
 
 P.S: a [PR has been created](https://github.com/matrix-org/mjolnir/pull/291) to the moderation bot Mjolnir to be able to kick most bots in one go.

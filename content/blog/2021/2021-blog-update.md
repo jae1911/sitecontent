@@ -10,7 +10,7 @@ I've decided to finally use a dark theme for this blog as I received several com
 
 Also, you may have noticed, there is now a comment section under each and every post.
 
-Those comments are powered by the software Cactus Chat that uses Matrix to provide a privacy-respecting comment section. It is very simple to add it on a blog and really easy to use (if you already been on Matrix before). 
+Those comments are powered by the software Cactus Chat that uses Matrix to provide a privacy-respecting comment section. It is very simple to add it on a blog and really easy to use (if you already been on Matrix before).
 
 Among other things that changed, this blog also supports WebMention now, it is just a small bonus but I wanted to test it.
 

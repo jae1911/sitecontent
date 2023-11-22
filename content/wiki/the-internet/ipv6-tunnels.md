@@ -5,16 +5,16 @@ weight: 2
 
 # IPv6 Tunnels
 
- List of IPv6 tunnel brokers if your ISP/Hosting provider is (still) too lazy to have basic network connectivity. This list should be up-to-date with active projects (no history, sorry). If you run one or know any that would be good to include, contact me via Matrix or email.
+List of IPv6 tunnel brokers if your ISP/Hosting provider is (still) too lazy to have basic network connectivity. This list should be up-to-date with active projects (no history, sorry). If you run one or know any that would be good to include, contact me via Matrix or email.
 
-| Name | Cost | Started | Subnet | Notes |
-| ---- | ---- | ------- | ------ | ----- |
-| [Hurricane Electric A.K.A Tunnelbroker](https://tunnelbroker.net/) | Free | 2002 | /64; /48 on request | Up to 5 tunnels for free |
-| [Route48](https://route48.org/) | Free | 2022 | /48; /44 on request | / |
-| [Tunnelbroker.ch](https://www.tunnelbroker.ch/) | 75CHF Setup | 2019 | /64; /44; 48 | Up to 3 tunnels |
-| [Ungleich](https://ungleich.ch/ipv6/vpn/) | 120CHF + 30CHF setup | 2018 | /48 | / |
-| [Tunnelbroker.li A.K.A iFog](https://tunnelbroker.li/) | Free | 2019 | /64 | Some locations might be paid (10CHF a trimester) |
-| [Tunnelbroker.se](https://tunnelbroker.se/) | Free | 2021 | /64; /48 on request | Requires a Swedish IPv4 endpoint; some options might be paid |
-| [IPv4Market](https://ipv6.ip4market.ru/) | Free | 2018 | /48 | / |
+| Name                                                               | Cost                 | Started | Subnet              | Notes                                                        |
+| ------------------------------------------------------------------ | -------------------- | ------- | ------------------- | ------------------------------------------------------------ |
+| [Hurricane Electric A.K.A Tunnelbroker](https://tunnelbroker.net/) | Free                 | 2002    | /64; /48 on request | Up to 5 tunnels for free                                     |
+| [Route48](https://route48.org/)                                    | Free                 | 2022    | /48; /44 on request | /                                                            |
+| [Tunnelbroker.ch](https://www.tunnelbroker.ch/)                    | 75CHF Setup          | 2019    | /64; /44; 48        | Up to 3 tunnels                                              |
+| [Ungleich](https://ungleich.ch/ipv6/vpn/)                          | 120CHF + 30CHF setup | 2018    | /48                 | /                                                            |
+| [Tunnelbroker.li A.K.A iFog](https://tunnelbroker.li/)             | Free                 | 2019    | /64                 | Some locations might be paid (10CHF a trimester)             |
+| [Tunnelbroker.se](https://tunnelbroker.se/)                        | Free                 | 2021    | /64; /48 on request | Requires a Swedish IPv4 endpoint; some options might be paid |
+| [IPv4Market](https://ipv6.ip4market.ru/)                           | Free                 | 2018    | /48                 | /                                                            |
 
-Please note that some providers might only provide more *technical* tunels. If you want something simple, stick with Hurricane or Ungleich.
+Please note that some providers might only provide more _technical_ tunels. If you want something simple, stick with Hurricane or Ungleich.

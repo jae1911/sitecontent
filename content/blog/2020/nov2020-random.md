@@ -15,33 +15,34 @@ Few days ago, I discovered the Firefox addon Redirector ([which you can download
 As Privacy Redirect only supports Nitter, Invidous, Bibliogram and OpenStreetMap, the possibilities in Redirector are pretty much endless.
 
 This addon features two modes to redirect stuff:
- - Wildcard, when you specify an url like this `https://example.com/*`
- - Regex, when you want to redirect an url like this `https://(www.)?example.(com)?/(*.)`
+
+- Wildcard, when you specify an url like this `https://example.com/*`
+- Regex, when you want to redirect an url like this `https://(www.)?example.(com)?/(*.)`
 
 Here is some of my current settings:
 
- 1. Redirect Twitter to Nitter
+1.  Redirect Twitter to Nitter
 
 ```
 Redirect: https://(mobile.)?twitter.com/(.*)
 to: https://nitter.tedomum.net/$2
 
 Example: https://twitter.com/WholesomeMeme/status/1329846975575904256
-→ https://nitter.tedomum.net/WholesomeMeme/status/1329846975575904256 
+→ https://nitter.tedomum.net/WholesomeMeme/status/1329846975575904256
 ```
 
- 2. Redirect Sciencedirect to Sci-Hub
+2.  Redirect Sciencedirect to Sci-Hub
 
 ```
 Redirect: https://www.sciencedirect.com/science/article/pii/*
 to: https://sci-hub.se/https://www.sciencedirect.com/science/article/pii/$1
 
 Example: https://www.sciencedirect.com/science/article/pii/S1057521920302131
-→ https://sci-hub.se/https://www.sciencedirect.com/science/article/pii/S1057521920302131 
+→ https://sci-hub.se/https://www.sciencedirect.com/science/article/pii/S1057521920302131
 ```
 
- 3. Mortify Amazon pages (to avoid tracking)
- 
+3.  Mortify Amazon pages (to avoid tracking)
+
 ```
 Redirect: https://(www.)?amazon.(.*).(.*)
 to: https://darmarit.org/morty/?mortyurl=https://amazon.$2
@@ -61,9 +62,10 @@ I primarily intended to buy a Typematrix but those turned out to be pretty much 
 This is why I settled on the XD75re. Because it uses QMK (Quantum Mechanical Keyboard), everything can be modified, from the layout to the LED effects of the board, without any specific software (even tho the `qmk` cli utility is recommended to flash new layouts).
 
 My very own keyboard uses:
- - Purple Outemu Switches
- - XD75re PCB
- - White low profile keycaps
+
+- Purple Outemu Switches
+- XD75re PCB
+- White low profile keycaps
 
 With a price tag of around 95EUR for everything, it is somewhat affordable for a custom keyboard and even tho it takes some time to be used to the layout, really comfortable.
 

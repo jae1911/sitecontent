@@ -7,8 +7,8 @@ tags: ["games"]
 ---
 
 If you are a player of the game Minecraft, you've probably seen it.
-Microsoft has *finally* moved in and decided to [force people to migrate from Mojang accounts to Microsoft ones](https://darmarit.org/morty/?mortyurl=https%3A%2F%2Fwww.minecraft.net%2Fen-us%2Farticle%2Fjava-edition-moving-house&mortyhash=f232d04d33ff37d2d015bffafc103681154b235ce72b521d13a2be4a159cef42).  
-First off, let's say it, thanks m$ for ruining the game, I was *still* playing the PC version to at least escape from the grasp of this horrendous company and now it's ruined.
+Microsoft has _finally_ moved in and decided to [force people to migrate from Mojang accounts to Microsoft ones](https://darmarit.org/morty/?mortyurl=https%3A%2F%2Fwww.minecraft.net%2Fen-us%2Farticle%2Fjava-edition-moving-house&mortyhash=f232d04d33ff37d2d015bffafc103681154b235ce72b521d13a2be4a159cef42).  
+First off, let's say it, thanks m$ for ruining the game, I was _still_ playing the PC version to at least escape from the grasp of this horrendous company and now it's ruined.
 Let's say I have until 2021 to pack my stuff and find another game to play.  
 The thing I hate so much about m$ is they are vampirizing more and more the whole computer world (if that wasn't enough already) by somehow silently buying smaller companies, waiting some years and then requiring everyone to get those pesky accounts that are serving no other purposes than spying on you to get more data and feed obscure algorithms.
 **This needs to stop**.

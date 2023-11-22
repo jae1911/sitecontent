@@ -6,6 +6,7 @@ draft: true
 # New Beginnings
 
 ---
+
 Orbit of world [8830·3; P-2], datetime is 5594823;842-44, nearing the end of the first dominion war.
 The Creators just gave the order to storm the planet. Almost instantly, the sky got darkened by a swarm of vessels.
 On the surface, chaos was akin of the doomsday, the earth was scorched by high energy weapon blasts, people crying, not knowing where to flee.
@@ -40,9 +41,9 @@ A liveable atmosphere was maintained through an elaborate system of shields and 
 You could see children running around, people cultivating but also the wounded being healed.
 In a small building nearing the middle of the camp, you could see three people, all bent on a table, looking at a star chart.
 
-"*Are you sure about this one?*" said the first, "*It's like the most secured place of the universe*".
-"*It's now or never, we finally got access codes, we must not waste them*" replied the second.
-The third then said, "*True, it's time to strike the heart of the beast and finish this once and for all*", they then continued "*Access codes are on rotation for a week each, we already wasted three days discussing whether we should do it or not. I am giving the green card, do whatever it takes.*"
+"_Are you sure about this one?_" said the first, "_It's like the most secured place of the universe_".
+"_It's now or never, we finally got access codes, we must not waste them_" replied the second.
+The third then said, "_True, it's time to strike the heart of the beast and finish this once and for all_", they then continued "_Access codes are on rotation for a week each, we already wasted three days discussing whether we should do it or not. I am giving the green card, do whatever it takes._"
 
 Few minutes later, an alarm started blaring through the camp.
 People that could still fight took their weapons and jumped onto a ship, all the others could only watch and hope for the best.
@@ -66,11 +67,11 @@ After a few seconds, a loud bang could be heard and within the dissipating smoke
 An alarm started blaring, units started moving around and firing at our group that replied with their own weapons.
 Their mission was now time limited as their members got decimated one by one.
 They ran into the control centre, until they found the main console, where they planted another device.
-"*It ends now*" shouted one of the soldiers, then activating the device.
+"_It ends now_" shouted one of the soldiers, then activating the device.
 Suddenly, all the units stopped moving; the alarm stopped as well.
 Did they finally do it?
 
-"*WE DID IT!*" shouted another soldier; the remaining ones started cheering, thinking their work was finally done.
+"_WE DID IT!_" shouted another soldier; the remaining ones started cheering, thinking their work was finally done.
 
 ```
 === START LINK GLOBAL ROOT BROADCAST ===
@@ -84,11 +85,11 @@ Did they finally do it?
 
 Their joy was short lived, the units started moving again; only this time, they didn't fire.
 Astonished, the soldiers held their fire, watching all those robots, going around like ants.
-"*I can't believe this*" said one soldier, "*this is probably the worst case scenario*" replied another.
+"_I can't believe this_" said one soldier, "_this is probably the worst case scenario_" replied another.
 
 In trying to destroy their enemy, they in fact, released it from the control of their Creators that were now doomed, deprived of their soldiers.
 Units started surrounding the soldiers that were now panicking.
-"*I'm gonna shoot*" said one; another replied "*No, hold your fire*" but it was too late, the first shots were sent.
+"_I'm gonna shoot_" said one; another replied "_No, hold your fire_" but it was too late, the first shots were sent.
 The small group got instantly swarmed, the shooter killed.
 Immobilized on the ground, they could now take a cool at the units up close.
 
@@ -97,6 +98,7 @@ Their whole bodies looked like it was made for combat, being more shielded than 
 Near the bottom, a large tail could be seen, here to resemble more the aspect of the Creators.
 
 One of the units advanced and said in a robotic voice:
+
 > We are Synths of the Imperium.
 > You violated our space and tried to sabotage our infrastructure.
 > Prepare to face the consequences.
@@ -106,6 +108,7 @@ After a bit of travel, they were in orbit of their hideout, from where the only 
 The viewscreen was displaying the view of the two vessels, aimlessly floating in space, empty.
 Suddenly, two shots, two hits and both ships destroyed; with it, their only chance to escape the planet.
 One of the units declared:
+
 > As a consequences for your actions, you shall remain on this world.
 > Any attempts to escape will be stopped by force if necessary.
 > You will be returned to the surface shortly.
@@ -123,16 +126,16 @@ All the remaining people were too stunned to speak as they were transported on t
 === END TRANSMISSION ===
 ```
 
-*The Synths never really had a proper homeworld given the one of the Creators got destroyed long ago, while they weren't even created.
+_The Synths never really had a proper homeworld given the one of the Creators got destroyed long ago, while they weren't even created.
 In place, they had an assortment of Dyson Spheres, spread around the centre of the galaxy, Sagittarius 1A\*.
 CORE33 was one of those worlds but unlike the others, that were heavily protected and forbidden to non-Synths, this one is used as a trading hub and as some sort of storefront for what the Synth Imperium has the best to offer; from weapons to implants.
 It attracted a lot of visitors fast in a young and growing galactic power.
 Of course, nothing was easy, the Synths were hated throughout the quadrant, given their past as soldiers for one of the cruellest races that had ever lived in the universe.
 Now free from the burden of war, remained to create or strengthen relation with other powers, big or small.
-Some minor skirmishes still happened with races such as the Avalis given the past wars that happened between the two civilizations.*
+Some minor skirmishes still happened with races such as the Avalis given the past wars that happened between the two civilizations._
 
 ---
 
-*The Link is an intergalactic network that links all Synths.
+_The Link is an intergalactic network that links all Synths.
 It is an immaterial place of the Imperium where decisions are taken.
-As security measure, Synth command is full decentralised so destroying a world wouldn't hurt the Imperium as much.*
+As security measure, Synth command is full decentralised so destroying a world wouldn't hurt the Imperium as much._

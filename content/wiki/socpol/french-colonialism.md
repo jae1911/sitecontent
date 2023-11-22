@@ -14,8 +14,8 @@ France still struggles to battle its old demons, that is with slavery, nazism or
 
 It is without saying that what wasn't possible to say about ten years ago in terms of pure racism, Islamophobia, LGBT-phobia and anti-Semitism is now legion in the french media and political landscape. Still to this day, even tho the government finally admitted that the French army tortured civilians during the Algerian Revolution[^11], they are refusing to make official excuses citing “we must not get attached to the past”. This is where problems begin: the refusal to admit that colonialism is a form of fascism and is oppression. For the people of Algeria, that fought for France during WW2, that gave their lives to protect a country that treated them like insects, the parallel between the iron fist of France and of nazi Germany was easy to dress:
 
- - Both had a colonial project that oppressed and killed
- - Both were motivated by racist reasons and to extend to get resources
+- Both had a colonial project that oppressed and killed
+- Both were motivated by racist reasons and to extend to get resources
 
 The main difference between France and nazi Germany is that the latter did it in a very short time span and with a violence rarely seen before. As a keen reminder, when the first revolts in Algeria happened, France started a bloody repression that killed around 45k people (mostly civilians; Algerian estimates)[^12]·[^13]·[^14]. While France was busy looting Algeria, they also started doing nuclear tests in the country, which still hurts people to this day (exactly the same process as in French Polynesia)[^15].
 

@@ -1,5 +1,5 @@
 ---
-title: "Down the rabbit hole: the \"Healhy\""
+title: 'Down the rabbit hole: the "Healhy"'
 date: 2022-12-23
 draft: true
 ---
@@ -11,17 +11,17 @@ The device itself is a small plastic casing 55x57x13mm having a 145mAh battery a
 
 The "Healy" comes in a whole variety of versions (prices based on the USA version of their shop as of `2022-12-23 18:20`):
 
- - Healy Gold: the base version; costs around 506 USD
- - Healy Holistic: adds what they call "holistic programs"; costs around 1015 USD
- - Healy Resonance: adds even more "resonance programs"; costs around 1515 USD
- - Healy Resonance Plus: as the name suggest, it is an upgrade from the previous one; costs around 2528 USD
- - Healy Professional: has everything mentioned before in it, including the addition of "professional" programs; costs around 4041 USD
+- Healy Gold: the base version; costs around 506 USD
+- Healy Holistic: adds what they call "holistic programs"; costs around 1015 USD
+- Healy Resonance: adds even more "resonance programs"; costs around 1515 USD
+- Healy Resonance Plus: as the name suggest, it is an upgrade from the previous one; costs around 2528 USD
+- Healy Professional: has everything mentioned before in it, including the addition of "professional" programs; costs around 4041 USD
 
 As you can see, such device isn't exactly cheap. On the bottom of the page, we can find the following disclaimer text ([archived on archive.ph](https://archive.ph/zzgUF)):
 
 > Notice: The Individualized Microcurrent Frequency (IMF) programs of the Healy are not medical applications. They are not intended to cure, treat, mitigate, diagnose or prevent disease, and have not been reviewed by the FDA. The information on these pages is for reference and educational purposes only. It should not be treated as a substitute for professional medical advice, diagnosis, or treatment. You should always seek such advice from a qualified medical professional.
 
-Good, at least they are clear about the use case of the device which should be only for "spiritual healing" or other stuff like that, *right*?  
+Good, at least they are clear about the use case of the device which should be only for "spiritual healing" or other stuff like that, _right_?  
 Now, let's see how the "Healy" is marketed, sold and used.
 
 The main way of distribution of the device comes at no surprise of being a MLM (Multi-Level Marketing).  

@@ -10,19 +10,19 @@ Hey there everybody, long time no see (for a real, written article)!Today, nothi
 
 This year, I started hosting again some services I have been hosting before but stopped due to personal reasons but in the meanwhile, I added some others. Here is the full list of currently public services:
 
- - Piped - A YouTube frontend/proxy (that can play age restricted videos!)
- - LibReddit - A Reddit privacy frontend
- - PrivateBin - Minimalist pastebin
- - Nitter - A Twitter privacy frontend
- - KeyOxide - Modern, secure and decentralized platform to prove your online identity
- - ProxiTok - A TikTok privacy frontend
- - SearXNG - A metasearch engine
- - Wikiless - A Wikipedia privacy frontend (that also adds dark theme)
- - Rimgo - A Imgur privacy frontend
- - Excalidraw - A small tool to draw diagrams easily
- - Hydrogen - A lightweight Matrix client
- - SimplyTranslate - A lightweight translation website that pulls data from the big ones
- - NTFY - pub-sub notification service
+- Piped - A YouTube frontend/proxy (that can play age restricted videos!)
+- LibReddit - A Reddit privacy frontend
+- PrivateBin - Minimalist pastebin
+- Nitter - A Twitter privacy frontend
+- KeyOxide - Modern, secure and decentralized platform to prove your online identity
+- ProxiTok - A TikTok privacy frontend
+- SearXNG - A metasearch engine
+- Wikiless - A Wikipedia privacy frontend (that also adds dark theme)
+- Rimgo - A Imgur privacy frontend
+- Excalidraw - A small tool to draw diagrams easily
+- Hydrogen - A lightweight Matrix client
+- SimplyTranslate - A lightweight translation website that pulls data from the big ones
+- NTFY - pub-sub notification service
 
 I am also in the process of developing some other proxies of my own but that remain a heavy WIP (see my GitHub profile for more).
 

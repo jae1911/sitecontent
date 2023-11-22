@@ -8,7 +8,7 @@ Recently, I've got into my hands one of the latest MacBook Pro M1 from Apple. As
 
 Well, surprisingly, this machine changed my mind as it is basically astonishing to see how well it runs for an ARM-Based processor. In this article, we're not gonna talk about benchmark (because I mainly find those irrelevant) but rather of everyday usage in my job (back-end developer).
 
-First, this thing is fast, everything you open is near instant and that may be thanks  to the damn 3G SSD.
+First, this thing is fast, everything you open is near instant and that may be thanks to the damn 3G SSD.
 
 Surprisingly, everything runs as it was an x86 processor, Rosetta 2 being completely transparent to the user and loosing very little performance at the end. Anything can run on it that is software (Renoise for instance) or even games (Minecraft being the most famous example).
 

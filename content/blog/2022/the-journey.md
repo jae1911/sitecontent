@@ -19,19 +19,20 @@ The background was of a CPC computer which I liked at the time.
 [![Screenshot of the website being super simple with a repeating background.](https://sharex.777.tf/ShareX/2022/11/firefox_Ay3V76ZwJw.png)](https://sharex.777.tf/ShareX/2022/11/firefox_Ay3V76ZwJw.png)
 
 The website contained multiple pages like:
- - One with embeds of YouTube videos I liked
- - One with random flash games I found left and right
- - One with ragecomics (hotlinked from another french website that closed since then)
- - Another one with various memes I found funny at the time
- - Another where I embedded my own videos about Zelda fangames
- - A last one with some IRC webchat that used a QuakeNet room
+
+- One with embeds of YouTube videos I liked
+- One with random flash games I found left and right
+- One with ragecomics (hotlinked from another french website that closed since then)
+- Another one with various memes I found funny at the time
+- Another where I embedded my own videos about Zelda fangames
+- A last one with some IRC webchat that used a QuakeNet room
 
 This is basically what started my online presence.  
 It's around the same time I started being active and a french Minecraft forum and another Furry one.
 
 At the time, I did all of this first from the computer of my parents and then from a HP Compaq which originally came with a single GB of RAM and Windows XP.
 
-It's around that time that I really started programming a lot and learning stuff around.  
+It's around that time that I really started programming a lot and learning stuff around.
 
 Fast forward few years, I am now near high school.  
 I haven't had a website for quite a few years (the first one lasted around three years which is exceptionally long for me) and decided to make another one.

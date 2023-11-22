@@ -7,7 +7,7 @@ tags: ["tech", "software"]
 
 Hey there everybody.
 
-As you may guess by the title, I've done it again, I changed the blog engine, *once more*.
+As you may guess by the title, I've done it again, I changed the blog engine, _once more_.
 
 Reason for it is mainly simplicity. This year, I started making a small wiki which at some point moved to the main website and now I am doing the same for the blog.
 

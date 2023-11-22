@@ -1,6 +1,6 @@
 ---
-title: 'Maps'
-menus: ['main']
+title: "Maps"
+menus: ["main"]
 ---
 
 # Maps
@@ -13,13 +13,16 @@ Median is a map originally created for the game [Resonite](https://resonite.com)
 All assets presents were made from scratch only using Open-Source software.
 
 Software used:
+
 - Blender (terrain modeling)
 - GIMP (textures)
 
 Tricks used:
+
 - [Generating cubed decorations](https://777.tf/wiki/documentation/blender#generating-cubed-decorations)
 
 Accessing the map (Resonite):
+
 - Search "Median" in the world search
 - World URL: [https://go.resonite.com/record/U-j4/R-52ffc448-790f-48b7-afab-eae75936ffcd](https://go.resonite.com/record/U-j4/R-52ffc448-790f-48b7-afab-eae75936ffcd)
 - Record URI: `resrec:///U-j4/R-52ffc448-790f-48b7-afab-eae75936ffcd`
@@ -42,6 +45,7 @@ It features multiple hangout spots and working spaces and is is based on a Secon
 Credits: Terrain modelling, graphics & object placement by Skywind Kitsune; Objects and tower modeled by PsyEx; SplatMap and graphics improvements by Raidrair; Systems, map setup & object placement by j4 AKA Jae.
 
 Worked on:
+
 - Furnishing hangout areas
 - Setting up dynamic skybox with day/night cycle
 - QoL changes
@@ -50,12 +54,12 @@ Worked on:
 - General map setup
 
 Accessing the map (Resonite):
+
 - Headless session (SessionID: `S-U-USFN:NeoKalideaPark`): https://go.resonite.com/session/S-U-USFN:NeoKalideaPark
 
 ### Screenshots
 
 _You can click images to make them bigger._
-
 
 [![Couches under a large blossoming cherry tree. A small table is right next to the couches. In the background, you can see a large hanging structure.](https://sharex.777.tf/ShareX/2023/10/2023-10-16-10.01.05.avif)](https://sharex.777.tf/ShareX/2023/10/2023-10-16-10.01.05.avif)
 
@@ -72,6 +76,7 @@ _You can click images to make them bigger._
 The Edge of the Universe is a map for [Resonite](https://resonite.com) designed to be a calm hangout place.
 
 Software used:
+
 - Blender (3D modelling)
 
 ### Screenshots

@@ -1,0 +1,15 @@
+{
+  "name": "sitecontent",
+  "version": "1.0.0",
+  "description": "Content of 777.tf",
+  "repository": "git@git.sr.ht:~jae/sitecontent",
+  "author": "Jae Lo Presti [j4] <git@777.tf>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "3.1.0"
+  },
+  "scripts": {
+    "prettier": "prettier . --check",
+    "prettier-fix": "prettier . --write"
+  }
+}

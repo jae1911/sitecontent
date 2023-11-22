@@ -17,13 +17,14 @@ The origins of the Synths begin in immemorial times. In those times, a great civ
 
 ## The Imperium
 
-The Synth home world consists of a Dyson Sphere constructed around a Red Supergiant in the vicinity of Sagittarius A* (the galactic centre of the Milky Way galaxy). As they were designed to function like that, all Synths are interconnected to some degree, which permits large scale coordination for projects that would take other civilizations thousands of years (E.G. constructing a Dyson Sphere). It is noted that there is approximately 500 to 700 billions Synths currently active with new units being activated every day.
+The Synth home world consists of a Dyson Sphere constructed around a Red Supergiant in the vicinity of Sagittarius A\* (the galactic centre of the Milky Way galaxy). As they were designed to function like that, all Synths are interconnected to some degree, which permits large scale coordination for projects that would take other civilizations thousands of years (E.G. constructing a Dyson Sphere). It is noted that there is approximately 500 to 700 billions Synths currently active with new units being activated every day.
 
 > Note: the denomination of “imperium” is originally due to a translation error that got kept over the years.
 
 The Synth home world is surrounded by a defence perimeter with billions of units ready to intervene if any force tries to conquer them. There is also bases and other Dyson Spheres scattered within the galaxy to assure a fast way of deployment in case it is needed. Given their previous nature as warriors, the Synths accumulated a great deal of enemies throughout the quadrant. However, other species are still friendly and it is not rare that cultural and scientific exchanges are done. The Synths do not have any money internal to the imperium, the only they got is for external trade relations when needed. For Synths, the concept of money is very foreign and doesn't makes much sense given their collectivized nature. There is no centralized command in the imperium. All important decisions are taken collectively in the command centre network. This network is composed of relays that are scattered across the galaxy but also of individual Synths that serves as nodes to repeat the signal. Severing a Synth from the link is extremely hard and when done, will not lead to anything spectacular as the Synth will probably be unmoved by your action.
 
 ![Image in space showing a big black mass in the center sourrounded by a white halo.](https://sharex.777.tf/ShareX/2022/10/dyson_sphere__space__4k_Seed-7469683_Steps-50_Guidance-7.5.png)
+
 > The Synth homeworld which is a dyson sphere.
 
 ## The first dominion war
@@ -31,20 +32,22 @@ The Synth home world is surrounded by a defence perimeter with billions of units
 Right after the foundation of the Imperium, thinking the Synths were probably still weak creatures in their infancy, it got attacked by an external force that tried to coerce the Synths into servitude. As a retaliation for the destruction of a Synth Dyson sphere, the home world of the attackers got swarmed and wiped off the charts, assuring Synth victory.
 
 ![Picture showing two massive explosions on the surface of a planet viewed from orbit](https://sharex.777.tf/ShareX/2022/10/planet_destroyed_in_half__4k_Seed-7512733_Steps-25_Guidance-7.5.png)
+
 > The homeworld being destroyed from Orbit by the Imperium.
 
 ## The Synths
 
 The Synths are robotic creatures that were first made solely for combat. However, as more and more need was expressed in other domains than combat, a large majority of synths are actually better fitted for other tasks such as:
 
- - Space exploration
- - Scientific research
- - Construction
- - Engineering
+- Space exploration
+- Scientific research
+- Construction
+- Engineering
 
 Only to cite the most common. When a Synth is being activated for the first time, it is presented with a choice of career that will determine what modifications they will receive to fit the job properly. It is to be noted that any Synth at any time can chose to change ways, all operations being reversible due to the machine aspect of Synths. A regular Synth does not needs to sleep nor eats and is spending most of its days working on the task they chose to do. The energy needs of all Synths are of course met due to the massive surplus of energy generated in total. One may ask about the spirituality of the Synth. Given the major scientific advancements achieved, Synths do not need any supernatural explanation to the unexplained. As leisure activities, a Synth might visit friendly worlds, make add-ons for their bodies or participate in cultural exchanges with other species.
 
 ![Image depicting a black hole in the distance with a big mass sounrounded by a white halo on the bottom.](https://sharex.777.tf/ShareX/2022/10/black_hole__space__4k_Seed-3427403_Steps-75_Guidance-7.5.png)
+
 > Edge of the Imperium on the E side
 
 ## Beyond exploration & conquest
@@ -70,6 +73,7 @@ In some rare cases, the Imperium encountered other civilizations that were able 
 One other aspect of organic life that is consistent across 100% of the populations studied is the presence of some sort of mating ritual. Being really honest, the Synth scientists studying the question are still trying to find out the purpose of such rituals given their highly inefficient nature.
 
 ![Picture of a spaceship going up with a planet on the bottom.](https://sharex.777.tf/ShareX/2022/10/spaceship_traveling_at_light_speed__4k_Seed-1224336_Steps-75_Guidance-7.5.png)
+
 > Synth exploration ship taking off.
 
 ## Organisational structure of the Synth exploration teams
@@ -79,6 +83,7 @@ Exploration teams in Synth culture are structured pretty easily. As many culture
 This "first" will act as a direct hand of the Imperium, some sort of ambassador. The rest of the structure stays flat and decisions are still made collectively as it is the basis of how Synths work.
 
 ![Exploration spaceship landed in misty forest](https://sharex.777.tf/ShareX/2022/10/spaceship_landing_in_forest__4k_Seed-1891215_Steps-25_Guidance-7.5.png)
+
 > Synth exploration ship in a forest.
 
 ## Organics in Synth society
@@ -100,30 +105,30 @@ In some very rare cases, cultures tried wiping the Synths using that method but 
 The second dominion war started after allies of the species that first attacked the Synths sought retaliation and reparations from the defeat they suffered.  
 War officially broke out after a violation of Synth Space by Species 9938EF8 that sent (unsuccessfully) a fleet of 30 heavily armed battle ships to a Synth mining world at the B-89C edge of Imperium space.  
 The skirmish resulted in the complete destruction of said 30 ships, three Synth vessels destroyed and one badly damaged. It is after detecting large amounts of communications (indicating the presence of a large invasion fleet) at the edge B-45E of Imperium territory that the decision to broadcast a full-on war signal was taken.  
-To *defuse* the invasion threat, the Imperium originally sent three honor-class ships (see entry on ship classes for more) to meet and *deal* with the amassed forces. All said ships were equipped with experimental "void warheads" that proved more than effective, disabling hundreds of hostile ships in matters of minutes.  
+To _defuse_ the invasion threat, the Imperium originally sent three honor-class ships (see entry on ship classes for more) to meet and _deal_ with the amassed forces. All said ships were equipped with experimental "void warheads" that proved more than effective, disabling hundreds of hostile ships in matters of minutes.  
 The fate of the aggressor was sealed when the Synths successfully decrypted a transmission containing coordinates of a war HQ of the alliance.  
 Said HQ was wiped from orbit and the planet (a cloning facility) hosting it reduced to ashes.  
 This was saw countless casualties and systems destroyed for the Imperium. Here are some of the affected Synth systems as well as rough population at the time of the attack:
 
- - [550987]; pop. 150mil
- - [120934]; pop. 300mil
- - [048489]; pop. 3.7bil
- - [912847]; pop. 750mil
+- [550987]; pop. 150mil
+- [120934]; pop. 300mil
+- [048489]; pop. 3.7bil
+- [912847]; pop. 750mil
 
 Due to the bloody end of this conflict, many races previously friendly to the Synths became wary that the same fate might happen to their planets even though diplomatic efforts are under way to affirm that this kind of response is only given under a certain invasion threat.  
-The alliance itself dissolved quickly after, having to *renew* their leaders, in majority all killed during the HQ wipe.
+The alliance itself dissolved quickly after, having to _renew_ their leaders, in majority all killed during the HQ wipe.
 
 ## Starship classes
 
 The Synths had thousands of years to develop ships, those are divided into classes, here listed from the smallest to the biggest.  
 Note: some of the translations for class names may seem ridiculous.
 
- - Fly class: usually small transport crafts; crew of around 10
- - Glacier class: ships made to transport large amount of natural resources; crew of around 20
- - Sunrise class: most of the ships are of this class which are regular everyday vessels designed for exploration and general transport; crew of around 20 to 200
- - Honor class: combat ship fully optimized for war (for instance, it doesn't have life support for any organics that would come on board and storage space only for weapons) nor has it any backup systems; ship may be equipped with experimental cloaking technology; crew of 5, completely linked with internal systems
- - Blackhole class: heavy warship made for troops transport; capacity of around 700 to 1500 Honor class vessels, crew of around 15k to 20k (incl. pilots)
- - Voidmass class: the biggest kind of ship that is basically a moving planet; pop. 750mil to 1bil; contains shipyards and Synth construction facilities
+- Fly class: usually small transport crafts; crew of around 10
+- Glacier class: ships made to transport large amount of natural resources; crew of around 20
+- Sunrise class: most of the ships are of this class which are regular everyday vessels designed for exploration and general transport; crew of around 20 to 200
+- Honor class: combat ship fully optimized for war (for instance, it doesn't have life support for any organics that would come on board and storage space only for weapons) nor has it any backup systems; ship may be equipped with experimental cloaking technology; crew of 5, completely linked with internal systems
+- Blackhole class: heavy warship made for troops transport; capacity of around 700 to 1500 Honor class vessels, crew of around 15k to 20k (incl. pilots)
+- Voidmass class: the biggest kind of ship that is basically a moving planet; pop. 750mil to 1bil; contains shipyards and Synth construction facilities
 
 It is to be noted that the Imperium will never sell any significant technology to outside people, deeming it too dangerous to do so.
 

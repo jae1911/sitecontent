@@ -8,21 +8,21 @@ Facts about transition (TLDR: it works). Never forget, TRANS RIGHTS ARE HUMAN RI
 
 Every point has an affirmation and is sourced and accompanied with a DOI.
 
- - Medical transition works[^1]·[^2]·[^3]·[^4]·[^5]·[^6]·[^7]·[^31]
- - “80% of Individuals Reported significant improvements in dysphoria”[^8]
- - “Wellbeing was similar to or better than same-age young adults from the general population”[^9]
- - “Quality of life rises dramatically with 'gender affirming treatment'”[^10]·[^11]
- - Medical transition works on the long term[^12]·[^13]·[^14]·[^15]·[^16]
- - “Does not support an adverse impact of gender-affirming hormone therapy on cognitive performance”[^17]
- - “Our results suggest that there are no detrimental effects of GNRHA on EF”[^18]
- - [Social transition is] “shown to correlate with improved psychological functioning”[^19]
- - [transition] “relives distress for trans adolescents” and “is reversible”[^20]
- - “Poorer psychological well-being before treatment”[^21]
- - “Behavioral and emotional problems and depressive symptoms decreased”[^22]
- - Hormone blockers are now new “Since the mid 1900's…” and “the royal college of psychiatrists in 1998…”[^23]
- - Hormone blockers aren't harmful to bone density[^24]·[^25]
- - Social/Familial support helps and decreases the likelihood of a suicide from 50% to 4%[^26]·[^27]·[^28]·[^29]
- - There is more regret for knee surgery than for gender-affirming operations[^30]
+- Medical transition works[^1]·[^2]·[^3]·[^4]·[^5]·[^6]·[^7]·[^31]
+- “80% of Individuals Reported significant improvements in dysphoria”[^8]
+- “Wellbeing was similar to or better than same-age young adults from the general population”[^9]
+- “Quality of life rises dramatically with 'gender affirming treatment'”[^10]·[^11]
+- Medical transition works on the long term[^12]·[^13]·[^14]·[^15]·[^16]
+- “Does not support an adverse impact of gender-affirming hormone therapy on cognitive performance”[^17]
+- “Our results suggest that there are no detrimental effects of GNRHA on EF”[^18]
+- [Social transition is] “shown to correlate with improved psychological functioning”[^19]
+- [transition] “relives distress for trans adolescents” and “is reversible”[^20]
+- “Poorer psychological well-being before treatment”[^21]
+- “Behavioral and emotional problems and depressive symptoms decreased”[^22]
+- Hormone blockers are now new “Since the mid 1900's…” and “the royal college of psychiatrists in 1998…”[^23]
+- Hormone blockers aren't harmful to bone density[^24]·[^25]
+- Social/Familial support helps and decreases the likelihood of a suicide from 50% to 4%[^26]·[^27]·[^28]·[^29]
+- There is more regret for knee surgery than for gender-affirming operations[^30]
 
 You can access all of those articles through [Sci-Hub](https://sci-hub.se/) for free (or you can DM the DOI to the [Sci-Hub bot on Telegram](https://t.me/scihubot)). If you need help understanding some words, expression or some studies, ask around, it is never shameful to ask for help in a subject you don't know about.
 
@@ -45,7 +45,7 @@ You can access all of those articles through [Sci-Hub](https://sci-hub.se/) for 
 [^17]: Karalexi, M. A., Georgakis, M. K., Dimitriou, N. G., Vichos, T., Katsimpris, A., Petridou, E. T., & Papadopoulos, F. C. (2020). Gender-affirming hormone treatment and cognitive function in transgender young adults: a systematic review and meta-analysis. Psychoneuroendocrinology, 119, 104721. [doi:10.1016/j.psyneuen.2020.104721](https://doi.org/10.1016/j.psyneuen.2020.104721)
 [^18]: Staphorsius, A. S., Kreukels, B. P. C., Cohen-Kettenis, P. T., Veltman, D. J., Burke, S. M., Schagen, S. E. E., … Bakker, J. (2015). Puberty suppression and executive functioning: An fMRI-study in adolescents with gender dysphoria. Psychoneuroendocrinology, 56, 190–199. [doi:10.1016/j.psyneuen.2015.03.007](https://doi.org/10.1016/j.psyneuen.2015.03.007)
 [^19]: Connolly, M. D., Zervos, M. J., Barone, C. J., Johnson, C. C., & Joseph, C. L. M. (2016). The Mental Health of Transgender Youth: Advances in Understanding. Journal of Adolescent Health, 59(5), 489–495. [doi:10.1016/j.jadohealth.2016.06.012](https://doi.org/10.1016/j.jadohealth.2016.06.012)
-[^20]: Hembree, W. C., Cohen-Kettenis, P. T., Gooren, L., Hannema, S. E., Meyer, W. J., Murad, M. H., … T’Sjoen, G. G. (2017). Endocrine Treatment of Gender-Dysphoric/Gender-Incongruent Persons: An Endocrine Society* Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism, 102(11), 3869–3903. [doi:10.1210/jc.2017-01658](https://doi.org/10.1210/jc.2017-01658)
+[^20]: Hembree, W. C., Cohen-Kettenis, P. T., Gooren, L., Hannema, S. E., Meyer, W. J., Murad, M. H., … T’Sjoen, G. G. (2017). Endocrine Treatment of Gender-Dysphoric/Gender-Incongruent Persons: An Endocrine Society\* Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism, 102(11), 3869–3903. [doi:10.1210/jc.2017-01658](https://doi.org/10.1210/jc.2017-01658)
 [^21]: Van der Miesen, A. I. R., Steensma, T. D., de Vries, A. L. C., Bos, H., & Popma, A. (2020). Psychological Functioning in Transgender Adolescents Before and After Gender-Affirmative Care Compared With Cisgender General Population Peers. Journal of Adolescent Health. [doi:10.1016/j.jadohealth.2019.12.018](https://doi.org/10.1016/j.jadohealth.2019.12.018)
 [^22]: De Vries, A. L. C., Steensma, T. D., Doreleijers, T. A. H., & Cohen‐Kettenis, P. T. (2011). Puberty Suppression in Adolescents With Gender Identity Disorder: A Prospective Follow‐Up Study. The Journal of Sexual Medicine, 8(8), 2276–2283. [doi:10.1111/j.1743-6109.2010.01943.x](https://doi.org/10.1111/j.1743-6109.2010.01943.x)
 [^23]: Giordano, S., & Holm, S. (2020). Is puberty delaying treatment “experimental treatment”? International Journal of Transgender Health, 1–9. [doi:10.1080/26895269.2020.1747768](https://doi.org/10.1080/26895269.2020.1747768)
@@ -55,5 +55,5 @@ You can access all of those articles through [Sci-Hub](https://sci-hub.se/) for 
 [^27]: Trujillo, M. A., Perrin, P. B., Sutter, M., Tabaac, A., & Benotsch, E. G. (2016). The buffering role of social support on the associations among discrimination, mental health, and suicidality in a transgender sample. International Journal of Transgenderism, 18(1), 39–52. [doi:10.1080/15532739.2016.1247405](https://doi.org/10.1080/15532739.2016.1247405)
 [^28]: Bauer, G. R., Scheim, A. I., Pyne, J., Travers, R., & Hammond, R. (2015). Intervenable factors associated with suicide risk in transgender persons: a respondent driven sampling study in Ontario, Canada. BMC Public Health, 15(1). [doi:10.1186/s12889-015-1867-2](https://doi.org/10.1186/s12889-015-1867-2)
 [^29]: Başar, K., Öz, G., & Karakaya, J. (2016). Perceived Discrimination, Social Support, and Quality of Life in Gender Dysphoria. The Journal of Sexual Medicine, 13(7), 1133–1141. [doi:10.1016/j.jsxm.2016.04.071](https://doi.org/10.1016/j.jsxm.2016.04.071)
-[^30]: Jedrzejewski, Breanna Y. MPH, MD1; Marsiglio, Mary C. PhD2; Guerriero, Jess MSW2; Penkin, Amy LCSW2;  OHSU Transgender Health Program “Regret and Request for Reversal” workgroup; Berli, Jens U. MD1. “Regret after Gender Affirming Surgery – A Multidisciplinary Approach to a Multifaceted Patient Experience”. Plastic and Reconstructive Surgery ():10.1097/PRS.0000000000010243, January 24, 2023. | DOI: [10.1097/PRS.0000000000010243](https://doi.org/10.1097/PRS.0000000000010243)
+[^30]: Jedrzejewski, Breanna Y. MPH, MD1; Marsiglio, Mary C. PhD2; Guerriero, Jess MSW2; Penkin, Amy LCSW2; OHSU Transgender Health Program “Regret and Request for Reversal” workgroup; Berli, Jens U. MD1. “Regret after Gender Affirming Surgery – A Multidisciplinary Approach to a Multifaceted Patient Experience”. Plastic and Reconstructive Surgery ():10.1097/PRS.0000000000010243, January 24, 2023. | DOI: [10.1097/PRS.0000000000010243](https://doi.org/10.1097/PRS.0000000000010243)
 [^31]: Rebecca Shepherd, Ingrid Bretherton, Ken Pang, Toby Mansell, Anna Czajko, Bowon Kim, Amanda Vlahos, Jeffrey D. Zajac, Richard Saffery, Ada Cheung & Boris Novakovic; Gender-affirming hormone therapy induces specific DNA methylation changes in blood ():10.1186/s13148-022-01236-4, 17 February 2022. | DOI: [10.1186/s13148-022-01236-4](https://doi.org/10.1186/s13148-022-01236-4)

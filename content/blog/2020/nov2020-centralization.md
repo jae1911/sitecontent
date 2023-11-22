@@ -5,6 +5,7 @@ draft: false
 description: "As you may have saw it, Github (Microsoft) recently banned youtube-dl from their platform after a DMCA request of the RIAA lobby..."
 tags: ["copyright"]
 ---
+
 Greetings,
 
 As you may have saw it, Github (Microsoft) recently [banned youtube-dl](https://github.com/ytdl-org/youtube-dl/) from their platform after a DMCA request of the RIAA lobby.

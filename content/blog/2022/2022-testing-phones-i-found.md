@@ -16,9 +16,9 @@ I discovered this device while trying to install Postmarket OS on another and sa
 
 I tested multiple OS on this phone including:
 
- - The default one: Maemo
- - A variant: Maemo Leste (which is Open-Source)
- - A full-blown Linux: PostmarketOS
+- The default one: Maemo
+- A variant: Maemo Leste (which is Open-Source)
+- A full-blown Linux: PostmarketOS
 
 Surprisingly, the default OS, despite being from 2009 is still very usable today, however it suffers from being really outdated and having certificate problems.Otherwise, it is still a very potent phone by today's standards.
 
@@ -42,17 +42,17 @@ What? Have I been lied to??
 
 Sadly yes, this phone is in in reality displays a MTK6580_8.1 in its properties and upon a quick search on the internet, the specs match:
 
- - 16GB ROM
- - 2GB RAM
+- 16GB ROM
+- 2GB RAM
 
-Now comes the case of that "128GB" Micro SD card included as a "gift" with the phone. Formatting the card to ext4 (or any filesystem) would work but mounting it always returns an error which ***may*** ***maybe*** be an indication that the card ***might*** be fake as well (yes it is).
+Now comes the case of that "128GB" Micro SD card included as a "gift" with the phone. Formatting the card to ext4 (or any filesystem) would work but mounting it always returns an error which **_may_** **_maybe_** be an indication that the card **_might_** be fake as well (yes it is).
 
 Also, after some time, inspected the multiple cameras at the back. Turns out all of them are fake except the very top one that is the only one that can actually take pictures. I'll see more about that when I'll take all of this apart (maybe for a next blog post 👀).
 
 So, in conclusion, remember two things:
 
- - If you buy a phone for less than 100€, you get what you get for less than 100€: not the latest Samsung but some generic phone that may be just good enough to call and send SMSes but no more
- - If something is too good to be true, it's that it's probably the caseAnd that goes not only for Aliexpress but any kind of online store.
+- If you buy a phone for less than 100€, you get what you get for less than 100€: not the latest Samsung but some generic phone that may be just good enough to call and send SMSes but no more
+- If something is too good to be true, it's that it's probably the caseAnd that goes not only for Aliexpress but any kind of online store.
 
 Of course, I opened a dispute and given the activity of the seller, I'll probably see my money again in some days (I'll keep you updated for that).
 

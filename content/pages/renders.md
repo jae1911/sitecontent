@@ -12,6 +12,7 @@ Stuff I've made using blender.
 ### Table
 
 Model information:
+
 - Made in Blender 4.0
 - 89988 triangles
 - 3 objects
@@ -22,6 +23,7 @@ Model information:
 ### Table 2
 
 Model information:
+
 - Made in Blender 4.0
 - 2272 triangles
 - 2 objects
@@ -31,6 +33,7 @@ Model information:
 ## Shelf
 
 Model information:
+
 - Made in Blender 4.0
 - 118 Triangles
 - 1 object

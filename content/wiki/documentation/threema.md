@@ -14,18 +14,18 @@ A libre version without any proprietary addons is available on F-Droid.
 
 Threema is priced as it follows (prices taken as of 2022/11/07):
 
- - Google Play Store: 5.49EUR
- - Apple App Store: 4.99USD
- - Threema Store: 4.99€
+- Google Play Store: 5.49EUR
+- Apple App Store: 4.99USD
+- Threema Store: 4.99€
 
 ## Downloading the app
 
 You can get the app a few ways:
 
- - Via [Google Play Store](https://play.google.com/store/apps/details?id=ch.threema.app)
- - Via [Apple App Store](https://itunes.apple.com/app/threema/id578665578)
- - Via [Huawei App Gallery](https://appgallery.huawei.com/#/app/C103713829)
- - Via [Threema Shop](https://shop.threema.ch/en)
+- Via [Google Play Store](https://play.google.com/store/apps/details?id=ch.threema.app)
+- Via [Apple App Store](https://itunes.apple.com/app/threema/id578665578)
+- Via [Huawei App Gallery](https://appgallery.huawei.com/#/app/C103713829)
+- Via [Threema Shop](https://shop.threema.ch/en)
 
 You can also [install it via F-Droid](https://threema.ch/en/faq/libre_installation) but it will require a license bought on their shop.
 

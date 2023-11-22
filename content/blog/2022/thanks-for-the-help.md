@@ -17,13 +17,13 @@ I want to thank everybody that donated, even if only an euro or two because with
 
 Now plans are:
 
- - Maintain existing services to give a better experience
- - Extend services following suggestions that are given to me (see Matrix channel up this page or hit me up on suggest@j4.lc via email with your suggestions)
+- Maintain existing services to give a better experience
+- Extend services following suggestions that are given to me (see Matrix channel up this page or hit me up on suggest@j4.lc via email with your suggestions)
 
 But also:
 
- - Following a donation requirement, I'll be donating one time 100€ to the Debian Foundation when I can (most likely end of October - start of November)
- - Donating to maintainers of hosted projects (most likely at the same date as the Debian Foundation) and continuing in the future (I have yet to decide which I will choose for this first round)
+- Following a donation requirement, I'll be donating one time 100€ to the Debian Foundation when I can (most likely end of October - start of November)
+- Donating to maintainers of hosted projects (most likely at the same date as the Debian Foundation) and continuing in the future (I have yet to decide which I will choose for this first round)
 
 Of course, every receipt of those will be published on a newly created page (I will announce the creation on ActivityPub, Matrix and maybe on this blog).
 

@@ -10,6 +10,6 @@ We strike
 Painting the world in the glow of a spectral supernova  
 Illuminating the sky in gemstones and fireworks  
 Until the we cross beyond the horizon  
-and nothing remains of us...  
-  
-...but a trail of <span class="violet">ultraviolet</span> fading into the mist  
+and nothing remains of us...
+
+...but a trail of <span class="violet">ultraviolet</span> fading into the mist

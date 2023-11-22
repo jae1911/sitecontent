@@ -39,8 +39,6 @@ Other links:
 - [GitHub](https://github.com/jae1911)
 - [SourceHut](/redir/srht)
 
-Matrix will likely get you the fastest response tho I read and respond to every single query (as long as they're not spam). Use email in last resort if you really don't have anything else as it's not the best protocol out there (the email server used by <span class="il">777.tf</span> is hosted using ProtonMail).
-
 ---
 
 ## Latest of the blog

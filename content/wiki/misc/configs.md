@@ -11,7 +11,7 @@ Here are listed the configs of the computers I use daily.
 Hardware:
 
 - AMD Ryzen 9 5950X
-- AMD Radeon RX 6700XT
+- AMD Radeon RX 7900XTX
 - 32GB RAM
 - DISK0: 1TB SSD
 - DISK1: 4TB

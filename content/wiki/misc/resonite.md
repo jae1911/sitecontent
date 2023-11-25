@@ -6,6 +6,10 @@ title: "Resonite"
 
 Random documentation about Resonite.
 
+Table of content:
+
+${toc}
+
 ## Useful Links
 
 - [Resonite website](https://resonite.com)

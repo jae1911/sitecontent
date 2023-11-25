@@ -13,9 +13,19 @@ Random documentation about Resonite.
 - [Resonite issues](https://github.com/Yellow-Dog-Man/Resonite-Issues/)
 - [Resonite Discord Guild](https://discord.gg/resonite)
 
-
 **Did I miss something? Is something wrong? Please do contact me to correct it or open a PR on the sitecontent!**  
 Help is very much welcomed, especially on fields where the description is marked as `??`.
+
+## Reporting bugs
+
+Here is what you can do to diagnose and report bugs:
+
+1. Update your game to the latest version
+2. Disable mods
+3. If you bug concerns the dashboard, try to start the game with `-resetDash`
+4. Create GitHub issue
+
+I can recommend trying to find a way to reproduce the bug before, then doing a clean launch, reproducing the bug immediately and closing the game in order to have clean logs for the report.
 
 ## Resonite Bot commands
 

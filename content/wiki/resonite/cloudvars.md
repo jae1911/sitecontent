@@ -185,3 +185,33 @@ Deleting definitions is really simple via commands:
 
 - `/deleteUserVar <path>`
 - `/deleteGroupVar <path>`
+
+## Other applications
+
+### Headlesses
+
+You can use Cloud Variables to control multiple aspects of a headless session:
+
+- Roles
+- Allowing/Denying entry to the session
+- Provide a custom join denial reason
+
+See [the headless specific configuration page](/wiki/resonite/headless#worlds) to see how to configure those.  
+Keep in mind using group Cloud Variables will give you more control.
+
+#### Roles
+
+To set roles via Cloud Variables, you need to keep a few things in mind:
+
+- The data type must be a string
+- It is recommended to use the definition_owner permission as others could allow users to override their own permission
+- If no value is set, other methods to determine the role will be used
+
+Example:
+
+`G-Awa.headlessValues.roles`
+
+| ownerid | value   |
+| ------- | ------- |
+| U-j4    | Admin   |
+| U-awa   | Builder |

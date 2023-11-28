@@ -143,3 +143,45 @@ And will return:
 - OnDone - Pulses when the value is read successfully
 - OnFail - Pulses when the value has failed reading
 - Value - The value out of the Cloud Variable
+
+### Writing values
+
+#### Users
+
+- `/setUserVarValue <user> <path> <target user> <value>` - Sets an individual's value
+
+#### Groups
+
+- `/setGroupVarValue <group> <path> <target user> <value>`
+
+#### Setting complex values
+
+Complex values can be set in text like the following:
+
+- Use quote marks: "
+- For float3, try: `[1; 0; 1]`
+- For colours try: `[1; 0; 0; 1]`
+
+#### Protoflu(x)
+
+In Protoflu(x), you can find the appropriate write variables in `Variables`->`Cloud` and use either `WriteObjectCloudVariable<T>` or `WriteValueCloudVariable<T>`, the difference being the same as with the reading Flux nodes.
+
+Both will take the same arguments in:
+
+- Impulse - To set the value
+- Path - string
+- VariableOwnerId - string
+- Value
+
+And will return:
+
+- OnRequest - Impulse
+- OnDone - Impulse
+- OnFail - Impulse
+
+### Deleting Definitions
+
+Deleting definitions is really simple via commands:
+
+- `/deleteUserVar <path>`
+- `/deleteGroupVar <path>`

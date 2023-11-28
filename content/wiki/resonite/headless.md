@@ -30,7 +30,7 @@ bash steamcmd.sh \
     +quit
 ```
 
-> Note: if SteamCMD is giving you any trouble like "steamcmd.sh: Not a directory", replace `bash steamcmd.sh` by `./steamcmd.sh`
+> Note: if SteamCMD is giving you any trouble like `steamcmd.sh: Not a directory`, replace `bash steamcmd.sh` by `./steamcmd.sh`
 
 This will install the headless client into the directory specified, you can now go on to the [configuration](#configuration).  
 To run the headless client, you can go within the directory and do `mono Headless/Resonite.exe` and the headless should launch.
@@ -221,7 +221,7 @@ There is a bunch of commands that can be used to manage the headless client with
 | acceptFriendRequest  | Accepts a friend request                                                    | acceptFriendRequest <user>                 |
 | worlds               | List running worlds                                                         | worlds                                     |
 | focus                | Focuses into the specified world (by index)                                 | focus <index>                              |
-| startWorldURL        | Starts a world from a `resrec:///` URL                                      | startWorldURL <resrec:///>                 |
+| startWorldURL        | Starts a world from a `resrec:///` URL                                      | startWorldURL <`resrec:///`>                 |
 | startWorldTemplate   | Starts a world from a template                                              | startWorldTemplate <template>              |
 | status               | Shows the status of the current world                                       | status                                     |
 | sessionURL           | Displays the session URL                                                    | sessionURL                                 |

@@ -28,6 +28,7 @@ ${toc}
 - `/disableLogin2FA` - Disables login 2FA
 - `/changeUsername <old username> <new username>` - Changes your username (can only be used once every 7 days)
 - `/serverinfo` - Displays some information about the server like the current uptime, Linux version and runtime version
+- `/setPrimaryEmail <email>` | `/addAlternateEmail <email>` - Either changes your main account email or adds a new alternative one (useful if your Patreon email doesn't matches your Resonite one)
 
 ### Patreon only
 

@@ -78,11 +78,18 @@ It is possible to do everything in one go using `/createGroupVar <path> <type> <
 | variable_owner               | Only the user who owns the variable value can read/write their own value                     | Userspace/Safe context | Cannot be used for list                                                  |
 | variable_owner_unsafe        | Only the user who owns the variable value can read/write their own value                     | Everywhere             | Cannot be used for list                                                  |
 
-
 ##### User
 
-// TODO
+| Type                                  | Description | Locations              | Limitations             |
+| ------------------------------------- | ----------- | ---------------------- | ----------------------- |
+| definition_owner_only_contacts        | ?           | Userspace/Safe context | Cannot be used for list |
+| definition_owner_only_contacts_unsafe | ?           | Everywhere             | Cannot be used for list |
+| variable_owner_only_contacts          | ?           | Userspace/Safe context | Cannot be used for list |
+| variable_owner_only_contacts          | ?           | Everywhere             | Cannot be used for list |
 
 ##### Group
 
-// TODO
+| Type                    | Description                                               | Locations              | Limitations |
+| ----------------------- | --------------------------------------------------------- | ---------------------- | ----------- |
+| definition_owner        | Only the group who defined the variable can read/write it | Userspace/Safe context | None        |
+| definitioN_owner_unsafe | Only the group who defined the variable can read/write it | Everywhere             | None        |

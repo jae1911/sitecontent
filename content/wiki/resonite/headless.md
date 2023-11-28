@@ -62,6 +62,34 @@ services:
     restart: unless-stopped
 ```
 
+Sveken on Discord made some modifications to the compose file to accomodate for modded Resonite.  
+For that, you will need to download [Resonite Mod Loader](https://github.com/resonite-modding-group/ResoniteModLoader), create a directory `moddedhead` in the data directory where you want to place the files of your headless and place inside the NML files.  
+Then you can use the following compose file:
+
+```yaml
+version: "3.3"
+
+services:
+  resonite:
+    image: shadowpanther/resonite-headless:latest
+    container_name: modded-headless
+    tty: true
+    stdin_open: true
+    command: mono /home/steam/resonite-headless/Headless/Resonite.exe -LoadAssembly "/home/steam/resonite-headless/Headless/Libraries/ResoniteModLoader.dll" -HeadlessConfig /Config/Config.json -Logs /Logs 
+    environment:
+      STEAMBETA: stuff
+      STEAMBETAPASSWORD: things
+      STEAMLOGIN: "username password"
+    volumes:
+      - "/data/moddedhead/Config:/Config:ro"
+      - "/data/moddedhead/Logs:/Logs"
+      - "/etc/localtime:/etc/localtime:ro"
+      - "/data/moddedhead:/home/steam/resonite-headless"
+    restart: unless-stopped
+```
+
+This version will hijack the start script to instead run the headless with the `-loadAssembly` command, thus making it possible to run the headless with mods.
+
 Now that you have this setup, you can proceed to the [configuration](#configuration) section.  
 Launching the headless is as easy as `docker compose up -d` and `docker compose logs` to see logs (add `-f` to it to follow them in realtime).
 

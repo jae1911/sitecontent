@@ -33,7 +33,7 @@ ${toc}
 ## The rest
 
 - `-Screen360` - Launches the game in desktop mode with 360 projection on
-- `-ctaa` - ??
+- `-ctaa` - Enables Cinematic Temporal Antialiasing, overrides the default FXAA
 - `-ctaaTemporalEdgePower <num>` - ??
 - `-ctaaSharpnessEnabbled <num>` - ??
 - `-ctaaAdaptiveSharpness <num>` - ??

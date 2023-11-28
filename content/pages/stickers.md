@@ -1,6 +1,5 @@
 ---
 title: "Stickers"
-menus: ["main"]
 description: "All of my stickers on my machines."
 ---
 

@@ -35,6 +35,54 @@ To define a Cloud Variable, you will need some information such as:
 
 You can register Cloud Variables on both users and groups. Using a group has the advantage of having higher limits (8192 for a group vs 256 for a user) and additional permissions.
 
+Creating Cloud Variables is actually really easy through commands sent to the Resonite Bot:
+
+#### Users
+
+- `/createUserVar <path>` - Creates a Cloud Variable with the given path
+- `/setUserVarType <path> <type>` - Sets the type of the variable
+- `/setUserVarDefaultValue <path> <value>` - Sets the default value of the variable
+- `/setUserVarPerms <path> <action> <permission>` - Sets the [permissions](#permissions) of the variable
+
+It is possible to do everything in one go using `/createUserVar <path> <type> <default> <read perms> <write perms> <list perms>`.
+
+#### Groups
+
+- `/createGroupVar <path>` - Creates a Cloud Variable with the given path
+- `/setGroupVarType <path> <type>` - Sets the type of the variable
+- `/setGroupVarDefaultValue <path> <value>` - Sets the default value of the variable
+- `/setGroupVarPerms <path> <action> <permission>` - Sets the [permissions](#permissions) of the variable
+
+It is possible to do everything in one go using `/createGroupVar <path> <type> <default> <read perms> <write perms> <list perms>`.
+
 ### Permissions
+
+#### Action
+
+| Action | Description                       |
+| ------ | --------------------------------- |
+| read   | Read values of a cloud variable   |
+| write  | Writes values of a cloud variable |
+| list   | List all the values of a variable |
+| all    | All the permissions above         |
+
+#### Group/Type permissions
+
+##### Common
+
+| Type                         | Description                                                                                  | Locations              | Limitations                                                              |
+| ---------------------------- | -------------------------------------------------------------------------------------------- | ---------------------- | ------------------------------------------------------------------------ |
+| anyone                       | Anyone can read/write the values. Recommended for reading public information but not writing | Everywhere             | Cannot be used with write and list definitions on user owned definitions |
+| definition_owner_only        | Only the user/group who defined the variable can read/write their own value                  | Userspace/Safe context | None                                                                     |
+| definition_owner_only_unsafe | Only the user/group who defined the variable can read/write their own value                  | Everywhere             | None                                                                     |
+| variable_owner               | Only the user who owns the variable value can read/write their own value                     | Userspace/Safe context | Cannot be used for list                                                  |
+| variable_owner_unsafe        | Only the user who owns the variable value can read/write their own value                     | Everywhere             | Cannot be used for list                                                  |
+
+
+##### User
+
+// TODO
+
+##### Group
 
 // TODO

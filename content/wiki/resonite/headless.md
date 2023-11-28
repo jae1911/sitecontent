@@ -144,4 +144,15 @@ The default headless configuration is as follows:
 
 #### Worlds
 
-// TODO
+> Note: you can add as many worlds as you wish, just add a new one in the array.
+
+| Name                  | description                                                                                                                 | type          | Required | Example            |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------- | -------- | ------------------ |
+| sessionName           | The name that will show up in the world browser (defaults to the world name if not present).                                | string        | No       | "awa awa"          |
+| customSessionId       | Sets a custom session ID starting with `S-` and respecting the format `<userid>:<sessionid>`                                | string        | No       | U-Awa:hangout      |
+| description           | Sets the description of the sesion (defaults on world description if not present)                                           | string        | No       | "Awa awa kabawa"   |
+| maxUsers              | Sets the maximum amount of users in the session (defaults to 32)                                                            | integer       | No       | 1337               |
+| accessLevel           | Sets the access level of the session (Private, LAN, Friends, FriendsOfFriends, RegisteredUsers, Anyone; defaults to Anyone) | Any           | No       | RegisteredUsers    |
+| hideFromPublicListing | Hides the session (defaults on false)                                                                                       | boolean       | No       | true               |
+| tags                  | List of tags to assist with discoverability.                                                                                | array[string] | No       | ["awa", "hangout"] |
+| mobileFriendly        | Is the session friendly for mobile/quest users.                                                                             | boolean       | No       | false              |

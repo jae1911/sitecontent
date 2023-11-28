@@ -56,4 +56,4 @@ ${toc}
 
 ### Cloud variables
 
-See [Working with Cloud Variables](/wiki/resonite/cloudvars/#working-with-cloud-variables).
+See [Working with Cloud Variables](/wiki/resonite/cloudvars#working-with-cloud-variables).

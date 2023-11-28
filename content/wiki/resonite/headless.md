@@ -125,6 +125,23 @@ The default headless configuration is as follows:
 
 ### Configuration keys
 
-| Name    | description                                                                     | Required |
-| ------- | ------------------------------------------------------------------------------- | -------- |
-| Comment | A small bit of text describing your configuration. Useful if you have multiple. | No       |
+#### Basics
+
+| Name                        | description                                                                                                    | type          | Required |
+| --------------------------- | -------------------------------------------------------------------------------------------------------------- | ------------- | -------- |
+| comment                     | A small bit of text describing your configuration. Useful if you have multiple.                                | string        | No       |
+| loginCredential             | The username for the headless client account.                                                                  | string        | Yes      |
+| loginPassword               | The password for the headless client account.                                                                  | string        | Yes      |
+| startWorlds                 | All the worlds to run on this headless (see the [worlds section](#worlds))                                     | Special       | Yes      |
+| tickRate                    | How many updates per second should the headless do (default on 60).                                            | integer       | No       |
+| maxConcurrentAssetTransfers | The maximum amount of asset transfers for the headless (default on 4)                                          | integer       | No       |
+| usernameOverride            | Sets a username different from loginCredential that will be displayed in the world list and session users tab. | string        | No       |
+| dataFolder                  | Sets the path to the data store.                                                                               | string        | No       |
+| cacheFolder                 | Sets the path to the cache folder.                                                                             | string        | No       |
+| logsFolder                  | Sets the path to the logs folder.                                                                              | string        | No       |
+| allowedUrlHosts             | Lists of hosts which will be allowed for WebSocket/HTTP operations.                                            | array[string] | No       |
+| universeId                  | Sets which universe the headless is in (no documentation on universes as of yet).                              | string        | No       |
+
+#### Worlds
+
+// TODO

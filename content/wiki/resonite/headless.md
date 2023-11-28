@@ -35,7 +35,33 @@ To run the headless client, you can go within the directory and do `mono Headles
 
 ### Docker
 
-// TODO
+To run a headless within Docker, I can recommend Shadowpanther's [resonite-headless](https://github.com/shadowpanther/resonite-headless).  
+It is fairly easy to use.
+
+As specified in the README, the compose file should look like this:
+
+```yaml
+version: "3.3"
+
+services:
+  resonite:
+    image: shadowpanther/resonite-headless:latest
+    container_name: resonite-headless
+    tty: true
+    stdin_open: true
+    environment:
+      STEAMBETA: headless
+      STEAMBETAPASSWORD: ask-bot-for-code
+      STEAMLOGIN: "your_steam_login your_steam_password"
+    volumes:
+      - "./Config:/Config:ro"
+      - "./Logs:/Logs"
+      - "/etc/localtime:/etc/localtime:ro"
+    restart: unless-stopped
+```
+
+Now that you have this setup, you can proceed to the [configuration](#configuration) section.  
+Launching the headless is as easy as `docker compose up -d` and `docker compose logs` to see logs (add `-f` to it to follow them in realtime).
 
 ## Configuration
 

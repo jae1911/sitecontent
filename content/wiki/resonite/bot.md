@@ -53,3 +53,7 @@ ${toc}
 - `/priorityIssue <issue ID>` - Sets a GitHub issue as a priority
 - `/requestDeleteRecovery <time period> <name search>` - Starts the recovery of a deleted record matching a certain name under a certain time period
 - `/headlessCode` - Displays the headless access code
+
+### Cloud variables
+
+See [Working with Cloud Variables](/wiki/resonite/cloudvars/#working-with-cloud-variables).

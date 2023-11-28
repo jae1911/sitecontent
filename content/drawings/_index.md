@@ -1,6 +1,5 @@
 ---
 title: Drawings
-menus: ["wiki"]
 ---
 
 # Drawings

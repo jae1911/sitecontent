@@ -206,3 +206,57 @@ The default headless configuration is as follows:
 | saveOnExit                               | If set to true, this world will be saved when shutting down the headless.                                                   | boolean       | No       | false                                                              |
 | autoSaveInterval                         | Will save every X time.                                                                                                     | integer       | No       | 50                                                                 |
 | autoSleep                                | Will prevent empty (or filled with away users) world to run full update cycles.                                             | boolean       | No       | true                                                               |
+
+### Commands
+
+There is a bunch of commands that can be used to manage the headless client within its console.
+
+| command              | description                                                                 | usage                                      |
+| -------------------- | --------------------------------------------------------------------------- | ------------------------------------------ |
+| saveConfig           | Saves the current config into the original config file                      | saveConfig <filename>                      |
+| login                | Logs into a Resonite account                                                | login <username> <password>                |
+| logout               | Logs out of the current account                                             | logout                                     |
+| message              | Sends a message to a friended user                                          | message <user> <message>                   |
+| friendRequests       | List all friend requests                                                    | friendRequests                             |
+| acceptFriendRequest  | Accepts a friend request                                                    | acceptFriendRequest <user>                 |
+| worlds               | List running worlds                                                         | worlds                                     |
+| focus                | Focuses into the specified world (by index)                                 | focus <index>                              |
+| startWorldURL        | Starts a world from a `resrec:///` URL                                      | startWorldURL <resrec:///>                 |
+| startWorldTemplate   | Starts a world from a template                                              | startWorldTemplate <template>              |
+| status               | Shows the status of the current world                                       | status                                     |
+| sessionURL           | Displays the session URL                                                    | sessionURL                                 |
+| sessionID            | Displays the session ID                                                     | sessionID                                  |
+| copySessionURL       | Copies the session URL to the clipboard                                     | copySessionURL                             |
+| copySessionID        | Copies the session ID to the clipboard                                      | copySessionID                              |
+| users                | Lists the users in the world                                                | users                                      |
+| close                | Closes the current focused world                                            | close                                      |
+| save                 | Saves the current focused world                                             | save                                       |
+| restart              | Restarts the current focused world                                          | restart                                    |
+| kick                 | Kicks a user from the sessions                                              | kick <user>                                |
+| silence              | Silences a user                                                             | silence <user>                             |
+| unsilence            | Removes the silence on a user                                               | unsilence <user>                           |
+| listBans             | Lists all bans                                                              | listbans                                   |
+| ban                  | Bans a user                                                                 | ban <user>                                 |
+| banByName            | Bans a user using an username                                               | banByName <username>                       |
+| unbanByName          | Unbans a user using an username                                             | unbanByname <username>                     |
+| banByID              | Bans a user using an userid                                                 | banByID <userid>                           |
+| unbanByID            | Unbans a user using an userid                                               | unbanByID <userid>                         |
+| respawn              | Forces an user to respawn                                                   | respawn <user>                             |
+| role                 | Sets a specific role for a user                                             | role <user> <role>                         |
+| name                 | Sets the session name for the current focused world                         | name <name>                                |
+| accessLevel          | Sets the session access level                                               | accessLevel <level>                        |
+| description          | Sets the session description for the current focused world                  | description <description>                  |
+| hideFromListing      | Set the focused world hidden or not                                         | hideFromListing <true/false>               |
+| maxUsers             | Sets the maximum amount of users                                            | maxUsers <number>                          |
+| awayKickInterval     | Sets the amount of time after which inactive users will be kicked           | awayKickInterval <time>                    |
+| import               | Imports an asset in the current focused world                               | import <resrec:/// or file path>           |
+| importMinecraft      | Imports a Minecraft worl into the current focused world                     | importMinecraft <path to level.dat folder> |
+| dynamicImpulse       | Sends a dynamic impulse in the scene root                                   | dynamicImpulse <tag>                       |
+| dynamicImpulseString | Sends a dynamic impulse with string data                                    | dynamicImpulseString <tag> <string>        |
+| dynamicImpulseInt    | Sends a dynamic impulse with int data                                       | dynamicImpulseInt <tag> <int>              |
+| dynamicImpulseFloat  | Sends a dynamic impulse with float data                                     | dynamicImpulseFloat <tag><float>           |
+| spawn                | Spawns an item saved to the inventory in the root of the world              | spawn <resrec:///> <active true/false>     |
+| gc                   | Forces full garbage collection                                              | gc                                         |
+| shutDown             | Shuts down the headless client                                              | shutDown                                   |
+| tickRate             | Modifies the headless tickrate                                              | tickRate <number>                          |
+| log                  | Switches to logging mode, press enter to return to the interractive console | log                                        |

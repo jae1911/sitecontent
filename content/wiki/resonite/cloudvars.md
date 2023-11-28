@@ -215,3 +215,59 @@ Example:
 | ------- | ------- |
 | U-j4    | Admin   |
 | U-awa   | Builder |
+
+#### Access
+
+##### Allowing users
+
+Before setting up the variable, keep those points in mind:
+
+- The variable type must be a boolean
+  - If true, the user will be able to join
+  - If false or no value, the user won't be able to join
+- This is equivalent to sending an invite to the user
+- They can join regardless of user slots available
+- They can join even if the session is private (they will need a link for that)
+
+Example setup:
+
+`G-Awa.headlessvalues.userAccess`
+
+| ownerid | value |
+| ------- | ----- |
+| U-j4    | true  |
+| U-awa   | false |
+
+##### Denying users
+
+It is setup the exact same way as the Allowing users variable, with a few differences:
+
+- True now signifies user cannot join the session
+- **This takes precedence over everything else**
+
+Example:
+
+`G-Awa.headlessValues.userDenied`
+
+| ownerid | value | description    |
+| ------- | ----- | -------------- |
+| U-j4    | false | Access allowed |
+| U-awa   | true  | Access denied  |
+
+##### Join control
+
+Again, setup exactly the same way as the Allowing users variable, this one is checked right before a user joins but doesn't overrides any other checks.
+
+For instance:
+
+`G-Awa.headlessValue.userControl`
+
+| ownerid | value |
+| ------- | ----- |
+| U-j4    | true  |
+| U-awa   | false |
+
+##### Deny messages
+
+When using `requiredUserJoinCloudVariable`, you can use the `requiredUserJoinCloudVariableDenyMessage` configuration key to set a deny message.  
+It can be useful for whitelisted sessions or events.

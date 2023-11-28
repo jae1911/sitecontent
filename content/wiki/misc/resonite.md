@@ -93,7 +93,6 @@ Pictured below, example of Steam command line launch arguments.
 - `-SteamVR` - Launches the game with SteamVR
 - `-RiftTouch` - Launches the game with Oculus rift + touch controllers
 - `-Screen` - Launches the game in desktop mode
-- `-Screen360` - Launches the game in desktop mode with 360 projection on
 - `-SkipIntroTutorial` - Skips the tutorial on first uninitialized game launch
 - `-DoNotAutoLoadHome` - Avoids loading your cloud home
 - `-RepairDatabase` - Repairs the database
@@ -106,6 +105,7 @@ Pictured below, example of Steam command line launch arguments.
 
 ### The rest
 
+- `-Screen360` - Launches the game in desktop mode with 360 projection on
 - `-ctaa` - ??
 - `-ctaaTemporalEdgePower <num>` - ??
 - `-ctaaSharpnessEnabbled <num>` - ??

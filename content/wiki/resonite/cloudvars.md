@@ -93,3 +93,53 @@ It is possible to do everything in one go using `/createGroupVar <path> <type> <
 | ----------------------- | --------------------------------------------------------- | ---------------------- | ----------- |
 | definition_owner        | Only the group who defined the variable can read/write it | Userspace/Safe context | None        |
 | definitioN_owner_unsafe | Only the group who defined the variable can read/write it | Everywhere             | None        |
+
+##### The List permission
+
+Due to the list permission being limited, here is the only type it can accept:
+
+- anyone - Only for group-based definitions
+- definition_owner
+- definition_owner_unsafe
+
+### Reading values
+
+#### Users
+
+- `/getUserVar <path>` - Gets the definition of the variable (type, perms, default value)
+- `/getUserVarValue <owner> <path> <target user>` - Gets a user's variable value
+- `/listUserVars <user>` - Lists variable definitions of a user, requires the list permission
+
+#### Groups
+
+- `/getGroupVar <group> <path>` - Gets the definition of the variable (type, perms, default, value)
+- `/getGroupVarValue <group> <path> <target user>` - Get a user's variable value
+- `/listGroupVars <group>` - Lists variable definitions of a group, requires the list permission
+
+#### Components
+
+On the component side, there is a bunch available in `Cloud`->`Variables` to interact with Cloud Variables.  
+To read values from them, you can use:
+
+- `ActiveUserCloudField<T>` - Will get a Cloud Variable value for the current local user and drive a value from it
+- `ActiveUserCloudValueVariable<T>` - Will get a Cloud Variable value for the current local user and put the value in a readable field instead
+- `CloudValueField<T>` - Gets a value from a Cloud Variable and drive a field from it while being able to specify any user
+- `CloudValueVariable<T>` - Gets a value from a Cloud Variable and display it in a readable field while being able to specify any user
+- `CloudValueVariableDriver<T>` - Gets a value from a Cloud Variable and drives a field from it while giving the option to override the user manually
+
+#### Protoflu(x)
+
+In Protoflu(x), it is pretty simple, you will need to head to `Variables`->`Cloud` and use either a `ReadObjectCloudVariable<T>` or a `ReadValueCloudVariable<T>`, the difference between the two being some types like strings are object and others like booleans are basic values.
+
+Both take the same arguments in:
+
+- Impulse - To trigger the read
+- Path - string
+- VariableOwnerId - string
+
+And will return:
+
+- OnRequest - Pulses when triggering ther read
+- OnDone - Pulses when the value is read successfully
+- OnFail - Pulses when the value has failed reading
+- Value - The value out of the Cloud Variable

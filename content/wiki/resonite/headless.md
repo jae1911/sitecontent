@@ -75,7 +75,7 @@ services:
     container_name: modded-headless
     tty: true
     stdin_open: true
-    command: mono /home/steam/resonite-headless/Headless/Resonite.exe -LoadAssembly "/home/steam/resonite-headless/Headless/Libraries/ResoniteModLoader.dll" -HeadlessConfig /Config/Config.json -Logs /Logs 
+    command: mono /home/steam/resonite-headless/Headless/Resonite.exe -LoadAssembly "/home/steam/resonite-headless/Headless/Libraries/ResoniteModLoader.dll" -HeadlessConfig /Config/Config.json -Logs /Logs
     environment:
       STEAMBETA: stuff
       STEAMBETAPASSWORD: things

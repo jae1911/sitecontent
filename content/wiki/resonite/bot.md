@@ -50,6 +50,7 @@ ${toc}
 - `/createGroup <groupname>` - Create a new group with the specified group name
 - `/getGroupInfo <groupname>` - Gets all the info about a group (requires you to be the admin of said group)
 - `/addMember <groupname> <username> <quota>` - Adds a player to a group
+  - Note: the quota is how many GBs a particular user can access of the full storage of the group. Setting it to `-1` means the member can use as much storage as they want.
 - `/removeMember <groupname> <username>` - Removes a player from a group
 - `/priorityIssue <issue ID>` - Sets a GitHub issue as a priority
 - `/requestDeleteRecovery <time period> <name search>` - Starts the recovery of a deleted record matching a certain name under a certain time period

@@ -34,19 +34,19 @@ ${toc}
 
 - `-Screen360` - Launches the game in desktop mode with 360 projection on
 - `-ctaa` - Enables Cinematic Temporal Antialiasing, overrides the default FXAA
-- `-ctaaTemporalEdgePower <num>` - ??
-- `-ctaaSharpnessEnabbled <num>` - ??
-- `-ctaaAdaptiveSharpness <num>` - ??
+- `-ctaaTemporalEdgePower <num>` - Adjusts the Edge Power when using CTAA (values from 1.0 to 4.0; default is 4.0)
+- `-ctaaSharpnessEnabbled <true/false>` - Adjusts or disables teh CTAA sharpening (defaults to `false`)
+- `-ctaaAdaptiveSharpness <num>` - Adjusts sharpness effect strenght (values from 0.0 to 0.5; default is 0.2)
 - `-enableOwO <IP>` - Sets the IP for the OwO haptics suit
 - `-legacySteamVRInput` - Reverts inputs to the legacy SteamVR method
 - `-etee` - ??
 - `-device <Autodetect|Headless|Screen|Screen360|StaticCamera|StaticCamera360|SteamVR|WindowsMR|Oculus|OculusQuest>` - Sets the output device (defaults to `Autodetect`)
 - `-forceRelay` - Force the use of the LNL relay
 - `-forceSRanipal` - Force the use of SRanipal
-- `-cameraBiggestGroup` - ??
+- `-cameraBiggestGroup` - Adjusts the Biggest Group parameters when using `-device StaticCamera`
 - `-cameraTimelapse` - ??
-- `-cameraStayBehind` - ??
-- `-cameraStayInFront` - ??
+- `-cameraStayBehind` - Forces the camera to stay behind a user when using `-device StaticCamera`
+- `-cameraStayInFront` - Forces the camera to stay in front of a user when using `-device StaticCamera`
 - `-forceReticleAboveHorizon` - ??
 - `-useAppCamera` - ??
 - `-forceIntroTutorial` - Force start the tutorial on startup

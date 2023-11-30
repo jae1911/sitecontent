@@ -221,7 +221,7 @@ There is a bunch of commands that can be used to manage the headless client with
 | acceptFriendRequest  | Accepts a friend request                                                    | acceptFriendRequest <user>                 |
 | worlds               | List running worlds                                                         | worlds                                     |
 | focus                | Focuses into the specified world (by index)                                 | focus <index>                              |
-| startWorldURL        | Starts a world from a `resrec:///` URL                                      | startWorldURL <`resrec:///`>                 |
+| startWorldURL        | Starts a world from a `resrec:///` URL                                      | startWorldURL <`resrec:///`>               |
 | startWorldTemplate   | Starts a world from a template                                              | startWorldTemplate <template>              |
 | status               | Shows the status of the current world                                       | status                                     |
 | sessionURL           | Displays the session URL                                                    | sessionURL                                 |

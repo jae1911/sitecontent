@@ -20,7 +20,7 @@ To run the AccountDump program, you will need some dependencies:
 Downloading your account is pretty simple and there is two ways of launchning the account dumper:
 
 1. Double click the executable `AccoutDump.exe` and a window should pop up
-2. Open a terminal in the `AccoutDump` directory and do this command: `dotnet AccountDump.dll`
+2. Open a terminal in the `AccountDump` directory and do this command: `dotnet AccountDump.dll`
 
 The account dumper will ask you for some information:
 

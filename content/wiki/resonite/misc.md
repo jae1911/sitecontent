@@ -46,6 +46,7 @@ Before opening an issue on the GitHub about a bug, it is good to do a bit of tro
   1. Restart steam fully
   2. Right click on Resonite and go to "Properties", then "Installed Files" and click on "Verify integrity"
 - If your issue concerns the dashboard, you can try launching the game with the `-resetDash` launch argument **WARNING, THIS WILL COMPLETELY RESET YOUR DASHBOARD AND ANY FACETS PUT ON IT**
+- Make sure the time on your computer is synced (can cause some issues interacting with the cloud)
 
 One other thing to keep in mind are the minimal specifications required for Resonite, which you can find [on the Steam page](https://store.steampowered.com/app/2519830/Resonite/).  
 For instance, playing Resonite on a 15 years old entry-level laptop will not work.

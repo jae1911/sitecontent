@@ -1,5 +1,5 @@
 ---
-title: 'Miscellaneous'
+title: "Miscellaneous"
 ---
 
 # Miscellaneous
@@ -38,6 +38,8 @@ There is currently no official tool to upload that account data back into Resoni
 
 Before opening an issue on the GitHub about a bug, it is good to do a bit of troubleshooting.
 
+### General
+
 - Restart your game
 - Disable mods and plugins if you use any (remove `-LoadAssembly` from your launch arguments)
 - Make sure you are on the latest version; if an update just came out and you don't get it, you have two ways of forcing the update:
@@ -47,3 +49,37 @@ Before opening an issue on the GitHub about a bug, it is good to do a bit of tro
 
 One other thing to keep in mind are the minimal specifications required for Resonite, which you can find [on the Steam page](https://store.steampowered.com/app/2519830/Resonite/).  
 For instance, playing Resonite on a 15 years old entry-level laptop will not work.
+
+### Database
+
+Sometimes, while playing, you might get a message saying "Database Corrupted".  
+Here are some steps to fix that issue:
+
+- Make sure you have enough space on your main drive (`C:`) or the one Resonite data and cache are
+  - Try to keep at least 20GB free on that drive to have a good margin
+  - To free space, you can delete your cache folder which is located by default in `C:\Users\<user>\AppData\Local\Temp\Yellow Dog Man Studios\Resonite` ; there, delete the `Cache` folder
+- Try to repair the database by launching the game with the `-repairDatabase` launch argument
+
+Sometimes, doing those steps isn't enough and there is the nuclear option left.  
+**Before proceeding, make sure you:**
+
+- Free space on your drive
+- Tried to repair the database
+- Understand that deleting the database will:
+  - Lead to data loss:
+    - Resetting the local home
+    - Resetting settings
+    - Deleting anything not fully synced with the cloud
+  - Will log you out
+  - Will reset your MachineID
+  - Will require you to redo the tutorial (unless Resonite is launched with the `-SkipIntroTutorial` launch argument)
+
+To completely remove your database, the steps are as follows:
+
+- Go to `%USERPROFILE%\AppData\LocalLow\` in a file manager
+- Find the `Yellow Dog Man Studios` folder
+  - It is recommended to backup that folder before deleting it, _just in case_
+- Delete the `Yellow Dog Man Studios` folder
+- Restart Resonite
+
+Remember that doing that is exceptional and that most issues can be resolved without touching the database at all.

@@ -31,4 +31,4 @@ It takes in a few options:
 - `Destination` - Where to copy the value
 - `WriteBack` - When checked, it means the target can write back its value to the source
 
-Note that it is possible to automatically creating those by grabbing a field, dropping it onto another and selecting the "Drive" option in the context menu that appears.
+Note that it is possible to automatically create those by grabbing a field, dropping it onto another and selecting the "Drive" option in the context menu that appears.

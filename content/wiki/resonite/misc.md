@@ -102,3 +102,34 @@ Your userspace is what contains your dashboard and can only be seen and interact
 After spawning the facet, you can grab it with your laser and put your laser through your dashboard.  
 The small squares on your dashboard should light up green if the facet can be placed there or red if it cannot.  
 Once you are done editing your facets, you can exit UI edit mode by doing the same shortcuts or clicking the button on the bottom of the dashboard to do so.
+
+## Search tools
+
+Finding objects and content in general in Resonite can be hard to do.  
+Luckily, talented members of the community made tools to facilitate that.
+
+### RedX
+
+RedX is a public folder indexer of which two version exists.  
+Note that results might be different from the two versions.
+
+#### AdamSkI2003's RedX+
+
+This version is an improved version of the original one with better search parameters and a different search backend.
+
+You can access it via:
+
+- Your web browser, at https://redx.adamski2003.lol/
+- With an in-game facet `resrec:///U-AdamSkI2003/R-7AC884DF712F5F78E4D089C995C8B7171BC6F21CA975EE37F3D3900CA82F886E`
+
+And you can get the source at: https://github.com/AdamK2003/redx
+
+#### MrVoltz's RedX
+
+The good old original RedX.
+
+You can access it via:
+
+- Your web browser, at https://redx.cloudns.org/
+
+And you can get the source at: https://github.com/MrVoltz/redx

@@ -21,3 +21,7 @@ title: FIDO2
 - [FireFish](https://joinfirefish.org/) - As 2FA + Passwordless Login
 - [BitWarden](https://bitwarden.com/) - As 2FA
 - [Mailcow](https://mailcow.email) - As 2FA + Passwordless Login
+
+## Claims to support
+
+- PayPal - As 2FA, could not test, nonworking implementation; passkeys supported but only with Android or iOS builtin

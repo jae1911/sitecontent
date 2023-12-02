@@ -32,3 +32,16 @@ It takes in a few options:
 - `WriteBack` - When checked, it means the target can write back its value to the source
 
 Note that it is possible to automatically create those by grabbing a field, dropping it onto another and selecting the "Drive" option in the context menu that appears.
+
+## SmoothValue
+
+The component `SmoothValue<T>` can be found in `Transform`->`Drivers` and is used to make a numerical value transition smoothly with a defined speed.
+
+It takes a few options:
+
+- `TargetValue` - The value you want it to transition to
+- `Speed` - The speed you want to transition to be at
+- `WriteBack` - Allows the target of the `SmoothValue<T>` to write its value back into the `TargetValue`
+- `Value` - The target value you need to transition
+
+![Demonstration of the SmoothValue component by setting some values and resetting them.](https://i.j4.lc/ShareX/2023/12/Resonite_Ja1j4OWjjo.gif)

@@ -25,3 +25,4 @@ title: FIDO2
 ## Claims to support
 
 - PayPal - As 2FA, could not test, nonworking implementation; passkeys supported but only with Android or iOS builtin
+- Hetzner - As 2FA, only supports Yubikey TOTP

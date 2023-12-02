@@ -10,7 +10,7 @@ ${toc}
 
 ## ValueUserOverride
 
-The component `ValueUserOverride<T>` can be found in `Transform`->`Driver` and is used to override a value locally for a user.
+The component `ValueUserOverride<T>` can be found in `Transform`->`Drivers` and is used to override a value locally for a user.
 
 It takes a few options in to work:
 
@@ -20,3 +20,15 @@ It takes a few options in to work:
 - `CreateOverrideOnWrite` - Makes it so when someone changes the value, an override will be created automatically for them
 
 Overrides may also be created manually by refencing a userid (`U-<snowflake ID>`) and a value.
+
+## ValueCopy
+
+The component `ValueCopy<T>` can be found in `Transform`->`Drivers` and is used to copy a value from a field to another.
+
+It takes in a few options:
+
+- `Source` - The source from which the value is copied
+- `Destination` - Where to copy the value
+- `WriteBack` - When checked, it means the target can write back its value to the source
+
+Note that it is possible to automatically creating those by grabbing a field, dropping it onto another and selecting the "Drive" option in the context menu that appears.

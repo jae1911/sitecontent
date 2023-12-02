@@ -15,7 +15,7 @@ For this, a tool was created and is located in your Resonite folder, under `Tool
 
 To run the AccountDump program, you will need some dependencies:
 
-- [.NET Runetime 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
+- [.NET Runtime 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 
 Downloading your account is pretty simple and there is two ways of launching the account dumper:
 

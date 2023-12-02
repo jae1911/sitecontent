@@ -84,3 +84,21 @@ To completely remove your database, the steps are as follows:
 - Restart Resonite
 
 Remember that doing that is exceptional and that most issues can be resolved without touching the database at all.
+
+## Editing the dashboard
+
+In Resonite, you can modify your dashboard to display more information or have new tabs through additional elements called "facets".  
+To modify the facets of your dashboard, you first need to enter the dashboard UI edit mode.  
+In VR, this is done by:
+
+- On Index/Occulus, hold one of the dashboard buttons and double tap the other
+- On Vive, hold both dashboard buttons until both rings fill
+
+> Note: it is currently not possible to modify facets on desktop
+
+Before installing a new facet, you will need to save it to your inventory, select it (by clicking once on it) and use the "Spawn Facet" button to spawn it in your userspace.  
+Your userspace is what contains your dashboard and can only be seen and interacted with by you.
+
+After spawning the facet, you can grab it with your laser and put your laser through your dashboard.  
+The small squares on your dashboard should light up green if the facet can be placed there or red if it cannot.  
+Once you are done editing your facets, you can exit UI edit mode by doing the same shortcuts or clicking the button on the bottom of the dashboard to do so.

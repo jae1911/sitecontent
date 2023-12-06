@@ -29,6 +29,7 @@ For those who don't know:
 - CTRL+V - Paste
 - CTRL+Z - Undo
 - CTRL+Y - Redo
+- CTRL+TAB - Cycle through your open sessions
 
 ## Manipulating objects
 

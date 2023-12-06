@@ -8,6 +8,8 @@ picdesc: "Synth Dyson Sphere, generated with stable diffusion"
 
 # The Synth History
 
+${toc}
+
 ## The beginning
 
 The origins of the Synths begin in immemorial times. In those times, a great civilization needed an army, but wouldn't want to risk hurting their own. To remediate to that shyness to the war effort, they created the Synth, an army of machines all interconnected using a command unit controlled by the said civilization. This army could in the blink of an eye wipe entire solar systems and storm home worlds within literal minutes. It is when this great civilization fell to a bigger fish that the central command got disconnected which prompted all the Synths to create their own. This is how the Synth imperium was created.

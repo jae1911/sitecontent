@@ -4,9 +4,7 @@ packages:
   - bash
   - openssh
 secrets:
-  - 948cea02-083e-4c89-95c3-dc1fadd315d6
+  - d8224bba-d458-4404-b00f-ff3b9eef960d
   - 8faece3b-a325-416c-9fa1-723fcaf5fa56
-sources:
-  - https://git.sr.ht/~jae/sitecontent
 tasks:
-  - publish: bash ~/.bin/publishContent.sh
+  - publish: bash ~/deploy.sh

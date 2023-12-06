@@ -115,7 +115,7 @@ You can now restart your game and test again.
 If the issue persists, ask the host to do the same.  
 If the issue persists on other sessions as well, try asking on the Discord or opening a bug report.
 
-### Linux
+#### Linux
 
 On Linux, syncing time is also extremely easy using NTP (Network Time Protocol).  
 Usually, most distributions will sync the time automatically on a periodic basis, you can however force an update by opening a terminal window and type inside:

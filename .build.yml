@@ -1,0 +1,12 @@
+arch: x86_64
+image: archlinux
+packages:
+  - bash
+  - openssh
+secrets:
+  - 032de8eb-8672-4bde-b9ec-6e55235289cc
+  - 8faece3b-a325-416c-9fa1-723fcaf5fa56
+sources:
+  - https://git.sr.ht/~jae/sitecontent
+tasks:
+  - publish: bash ~/.bin/publishContent.sh

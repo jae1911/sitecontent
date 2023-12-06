@@ -12,6 +12,8 @@ Cloud Variables have two parts:
 - Definition - Meta config of the variable; name, type, permissions, default
 - Values - Actual value, stored per-user
 
+[Go back to index.](/wiki/resonite).
+
 ${toc}
 
 ## Default values

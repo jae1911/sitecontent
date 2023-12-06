@@ -9,6 +9,8 @@ To use them, all you have to do is right click on Resonite on Steam, select "pro
 
 ![Steam game property window with at the bottom some launch arguments.](https://i.j4.lc/ShareX/2023/10/steamwebhelper_BR3O5QVVbB.png)
 
+[Go back to index.](/wiki/resonite).
+
 ${toc}
 
 ## Most common

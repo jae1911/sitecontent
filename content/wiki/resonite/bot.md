@@ -6,6 +6,8 @@ title: "Resonite Bot"
 
 The Resonite bot can be found in your contacts list by default and commands can be sent to it to do various things like assign yourself badges or get the headless beta code.
 
+[Go back to index.](/wiki/resonite)
+
 ${toc}
 
 ## Resonite Bot commands

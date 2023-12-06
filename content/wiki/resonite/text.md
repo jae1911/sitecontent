@@ -4,6 +4,8 @@ title: "Text formatting"
 
 # Text formatting
 
+[Go back to index.](/wiki/resonite).
+
 There is a variety of tags available to format text in Resonite.  
 Those tags looks like HTML while not being HTML.  
 It is considered good practice to close tags after using them, for instance `<tag>content</tag>` so the effects of the tag do not overflow.

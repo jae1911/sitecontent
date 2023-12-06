@@ -7,6 +7,8 @@ title: "Headless client"
 The headless client is basically the game without the user interface, allowing you to host _somewhat_ permanent sessions, like with a server.  
 In order to access the headless client, you need to be a supporter on the [Resonite Patreon](https://patreon.com/resonite) with a membership of Discoverer or more.
 
+[Go back to index.](/wiki/resonite).
+
 ${toc}
 
 ## Downloading the headless client

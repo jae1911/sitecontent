@@ -164,7 +164,7 @@ Joining the Imperium is impossible as the Imperium does not extends and does not
 
 ## Imperium Industries
 
-Imperium Industries (shortedned to II) is the formal name of the entity producing most Synth technology.  
+Imperium Industries (shortened to II) is the formal name of the entity producing most Synth technology.  
 They create most ships, weapons and Dyson Spheres.
 
 They also are producing implants being traded with other species and civilizations, all stamped with the same logo, that became a staple of quality within the quadrant.

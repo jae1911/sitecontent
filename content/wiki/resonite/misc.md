@@ -12,6 +12,17 @@ ${toc}
 
 ## Downloading your account data
 
+### Resonite Account Downloader
+
+The Resonite team released a GUI program able to download your full account data in a more user friendly manner, based on a downloader made by GuVAnj8Gv3RJ.  
+The software is Open-Source and it can be found at: https://github.com/Yellow-Dog-Man/ResoniteAccountDownloader
+
+Latest version can be downloaded at: https://github.com/Yellow-Dog-Man/ResoniteAccountDownloader/releases/latest
+
+Using the software is pretty straightforward, enter your username, password, 2FA token if needed and select what you want to download and where.
+
+### Accountdump
+
 In accordance to GDPR article 20, you have a right to download the data you provided.  
 For this, a tool was created and is located in your Resonite folder, under `Tools` and `Accountdump`.
 

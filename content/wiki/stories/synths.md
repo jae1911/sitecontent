@@ -172,7 +172,7 @@ They also are producing implants being traded with other species and civilizatio
 The most popular traded or built items from II include:
 
 - VX-0450 Cargo Ship - An extremely large and robust cargo ship made for deep space mining operations
-- IX-940F Eyes - An implant targetted at organics, allowing them to display data within their field of vision, completely replacing organic eyes
+- IX-940F Eyes - An implant targeted at organics, allowing them to display data within their field of vision, completely replacing organic eyes
 - SX-9048 Camouflage - A technology used by Synths to build bodies taking the appearance of those they want to study to avoid raising suspicion
 - MX-8747 Sandstorm - A simple laser pistol that got extremely popular with mercenaries
 
@@ -183,3 +183,15 @@ Only a few types are known:
 - IX - Implants
 - SX - Classified Synth Technology
 - MX - Military hardware
+
+## The ZX Incident
+
+While travelling to the ZX Edge of the quadrants, Synths encountered a ship which upon first contact, appeared to be filled with small, raptor-like feathered creatures.   
+After a silent standoff, needed to adjust translation software, they presented an aggressive message and then attacked without warning the research fleet.
+
+A skirmish started and the attacker managed to destroy two of the Synth ships before being disabled shortly after.  
+It appears those beings had the technology to create railguns capable of piercing Synth armored cores, making them formidable and dangerous enemies.
+
+The location of  their homeworld is currently unknown and no other incidents were reported with that specie after that.  
+Their appearance and looking at scans of their equipment, it is speculated they are native to a harsh cold environment while having the technology to create advanced alloys and weapons.  
+During scans, large amounts of ammonia were detected within the ship.

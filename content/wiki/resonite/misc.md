@@ -1,5 +1,6 @@
 ---
 title: "Miscellaneous"
+description: "Miscellaneous thigns about Resonite."
 ---
 
 # Miscellaneous

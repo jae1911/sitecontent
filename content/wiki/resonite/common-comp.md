@@ -1,5 +1,6 @@
 ---
 title: "Common components"
+description: "Common Resonite components."
 ---
 
 # Common components

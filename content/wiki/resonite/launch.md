@@ -1,5 +1,6 @@
 ---
 title: "Launch arguments"
+description: "Resonite launch arguments."
 ---
 
 # Launch Arguments

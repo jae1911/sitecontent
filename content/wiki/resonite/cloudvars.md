@@ -1,5 +1,6 @@
 ---
 title: "Cloud variables"
+description: "Using Cloud Variables."
 ---
 
 # Cloud Variables

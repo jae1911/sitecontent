@@ -1,5 +1,6 @@
 ---
 title: "Headless client"
+description: "Headless client usage."
 ---
 
 # Headless client

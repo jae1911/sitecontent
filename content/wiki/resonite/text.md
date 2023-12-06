@@ -1,5 +1,6 @@
 ---
 title: "Text formatting"
+description: "Formatting text in Resonite."
 ---
 
 # Text formatting

@@ -4,7 +4,7 @@ weight: 1
 picurl: "https://sharex.777.tf/ShareX/2022/10/dyson_sphere_in_space__4k_Seed-5658786_Steps-25_Guidance-7.5.png"
 picalt: "Picture of a Dyson Sphere in space"
 picdesc: "Synth Dyson Sphere, generated with stable diffusion"
-description: "The larger Synth History, with a captital H."
+description: "The larger Synth History, with a capital H."
 ---
 
 # The Synth History

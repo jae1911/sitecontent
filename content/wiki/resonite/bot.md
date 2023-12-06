@@ -49,7 +49,7 @@ ${toc}
     - Materials
 - `/clear2DBadge` or `/clear3DBadge` - Removes your set 3D or 2D badge
 - `/requestDeleteRecovery <time period> <name search>` - Starts the recovery of a deleted record matching a certain name under a certain time period
-- `/headlessCode` - Displays the headless access code
+- `/headlessCode` - Displays the headless access code (requires Patreon Discoverer (10€/month) or more)
 
 ### Group Commands
 

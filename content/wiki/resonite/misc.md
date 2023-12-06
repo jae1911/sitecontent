@@ -98,6 +98,37 @@ To completely remove your database, the steps are as follows:
 
 Remember that doing that is exceptional and that most issues can be resolved without touching the database at all.
 
+### Security Violation
+
+Getting the message "Security Violation" when trying to join a session can be scary but the causes are most of the time, extremely trivial to fix.
+
+First off, check if your computer's time is synced properly, you can go on [time.is](https://time.is) and look at the top left of the screen to see if your clock is synchronized.  
+If it isn't, here is how to sync your computer's clock:
+
+#### Windows
+
+On Windows, go in the start menu, then open the settings.  
+There, go to "Time and Language" and then "Date and Time".  
+You should find there a big "Sync Time" button, press it.
+
+You can now restart your game and test again.  
+If the issue persists, ask the host to do the same.  
+If the issue persists on other sessions as well, try asking on the Discord or opening a bug report.
+
+### Linux
+
+On Linux, syncing time is also extremely easy using NTP (Network Time Protocol).  
+Usually, most distributions will sync the time automatically on a periodic basis, you can however force an update by opening a terminal window and type inside:
+
+```
+sudo service ntp stop
+sudo ntpd -gq
+sudo service ntp start
+```
+
+Those commands will stop the NTP service, force a sync manually and start the service again.  
+You can then restart your game and try again, same steps as on Windows.
+
 ## Editing the dashboard
 
 In Resonite, you can modify your dashboard to display more information or have new tabs through additional elements called "facets".  

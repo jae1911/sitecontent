@@ -32,12 +32,12 @@ For those who don't know:
 
 ## Manipulating objects
 
-- DEL | CTRL+SHIFT+D (while holding an object) - Deletes the object
+- DEL or CTRL+SHIFT+D (while holding an object) - Deletes the object
 - CTRL+D (while holding an object) - Duplicates the object
 - CTRL+LBM - Focus on an UIX panel (useful for inspectors)
   - CTRL+LMB on empty space or F5 - Focus out
-- i (while having a dev tooltip equipped) - Opens an inspector
-- CTRL+f - Focus on the selected object (you will need to select one beforehand)
+- I (while having a dev tooltip equipped) - Opens an inspector
+- CTRL+F - Focus on the selected object (you will need to select one beforehand)
   - ALT+RMB - Rotates around the focused object
 
 ## Other controls

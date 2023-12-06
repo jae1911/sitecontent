@@ -186,7 +186,7 @@ Only a few types are known:
 
 ## The ZX Incident
 
-While travelling to the ZX Edge of the quadrants, Synths encountered a ship which upon first contact, appeared to be filled with small, raptor-like feathered creatures.   
+While traveling to the ZX Edge of the quadrants, Synths encountered a ship which upon first contact, appeared to be filled with small, raptor-like feathered creatures.   
 After a silent standoff, needed to adjust translation software, they presented an aggressive message and then attacked without warning the research fleet.
 
 A skirmish started and the attacker managed to destroy two of the Synth ships before being disabled shortly after.  

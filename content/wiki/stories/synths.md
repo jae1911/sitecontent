@@ -193,5 +193,5 @@ A skirmish started and the attacker managed to destroy two of the Synth ships be
 It appears those beings had the technology to create railguns capable of piercing Synth armored cores, making them formidable and dangerous enemies.
 
 The location of  their homeworld is currently unknown and no other incidents were reported with that specie after that.  
-Their appearance and looking at scans of their equipment, it is speculated they are native to a harsh cold environment while having the technology to create advanced alloys and weapons.  
+By their appearance and looking at scans of their equipment, it is speculated they are native to a harsh cold environment while having the technology to create advanced alloys and weapons.  
 During scans, large amounts of ammonia were detected within the ship.

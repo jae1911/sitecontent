@@ -4,7 +4,7 @@ packages:
   - bash
   - openssh
 secrets:
-  - 032de8eb-8672-4bde-b9ec-6e55235289cc
+  - ddd49bad-a199-4d6a-910e-5704b4eb747d
   - 8faece3b-a325-416c-9fa1-723fcaf5fa56
 sources:
   - https://git.sr.ht/~jae/sitecontent

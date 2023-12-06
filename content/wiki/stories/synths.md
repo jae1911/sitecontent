@@ -4,6 +4,7 @@ weight: 1
 picurl: "https://sharex.777.tf/ShareX/2022/10/dyson_sphere_in_space__4k_Seed-5658786_Steps-25_Guidance-7.5.png"
 picalt: "Picture of a Dyson Sphere in space"
 picdesc: "Synth Dyson Sphere, generated with stable diffusion"
+description: "The larger Synth History, with a captital H."
 ---
 
 # The Synth History
@@ -160,3 +161,25 @@ This means that millions of homeworlds, and sometimes, other groups or federatio
 All non-Synths members have the right to know and influence the direction the Imperium is going by using, previously mentioned terminals when needed or direct link if asked.  
 To avoid friction, if a civilization or federation votes their own departure from the Imperium, the Imperium shall not interfere with this decision and shall withdraw all space belonging to said civilization/federation.  
 Joining the Imperium is impossible as the Imperium does not extends and does not wishes to do so but some defensive alliances may be formed over time.
+
+## Imperium Industries
+
+Imperium Industries (shortedned to II) is the formal name of the entity producing most Synth technology.  
+They create most ships, weapons and Dyson Spheres.
+
+They also are producing implants being traded with other species and civilizations, all stamped with the same logo, that became a staple of quality within the quadrant.
+
+The most popular traded or built items from II include:
+
+- VX-0450 Cargo Ship - An extremely large and robust cargo ship made for deep space mining operations
+- IX-940F Eyes - An implant targetted at organics, allowing them to display data within their field of vision, completely replacing organic eyes
+- SX-9048 Camouflage - A technology used by Synths to build bodies taking the appearance of those they want to study to avoid raising suspicion
+- MX-8747 Sandstorm - A simple laser pistol that got extremely popular with mercenaries
+
+Every product from II follows a strict naming scheme being the type of item followed by an ID.  
+Only a few types are known:
+
+- VX - Vehicles
+- IX - Implants
+- SX - Classified Synth Technology
+- MX - Military hardware

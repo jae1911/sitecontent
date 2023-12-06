@@ -6,7 +6,7 @@ title: "Common components"
 
 This page describes how to use very common components.
 
-[Go back to index.](/wiki/resonite).
+[Go back to index.](/wiki/resonite/).
 
 ${toc}
 

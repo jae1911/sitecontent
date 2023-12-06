@@ -4,7 +4,7 @@ title: "Text formatting"
 
 # Text formatting
 
-[Go back to index.](/wiki/resonite).
+[Go back to index.](/wiki/resonite/).
 
 There is a variety of tags available to format text in Resonite.  
 Those tags looks like HTML while not being HTML.  

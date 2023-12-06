@@ -6,7 +6,7 @@ title: "Miscellaneous"
 
 Random stuff too small to be in its own category.
 
-[Go back to index.](/wiki/resonite).
+[Go back to index.](/wiki/resonite/).
 
 ${toc}
 

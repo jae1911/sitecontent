@@ -195,3 +195,10 @@ It appears those beings had the technology to create railguns capable of piercin
 The location of  their homeworld is currently unknown and no other incidents were reported with that specie after that.  
 By their appearance and looking at scans of their equipment, it is speculated they are native to a harsh cold environment while having the technology to create advanced alloys and weapons.  
 During scans, large amounts of ammonia were detected within the ship.
+
+## Imperium Travels
+
+Just like II, Imperium Travels (shortened to IT) is the entity of the Imperium charged of creating and maintaining the layers network.  
+Unlike its industrial counterpart, IT never works for outsiders and remains within the Imperium as sharing the inner workings of the layer technology is considered too dangerous for the health of the Imperium.
+
+You can learn more about the layer systems in [Layers, subspace and traveling within the Imperium](/wiki/stories/layers).

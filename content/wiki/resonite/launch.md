@@ -27,9 +27,9 @@ ${toc}
 - `-DoNotAutoLoadHome` - Avoids loading your cloud home
 - `-RepairDatabase` - Repairs the database
 - `-forceNoVoice` - Disables voice
-- `-data <path>` | `-dataPath <path>` - Sets the data storage path
-- `-logs <path>` | `-logsPath <path>` - Sets the logs path
-- `-cache <path>` | `-cachePath <path>` - Sets the cache path
+- `-data <path>` or `-dataPath <path>` - Sets the data storage path
+- `-logs <path>` or `-logsPath <path>` - Sets the logs path
+- `-cache <path>` or `-cachePath <path>` - Sets the cache path
 - `-deleteUnsyncedCloudRecords` - Deletes records that couldn't be synced at the last closure /!\ Might lead to data loss /!\
 - `-forceSyncConflictingCloudRecords` - Forces syncing of conflicting records /!\ Might lead to data loss /!\
 
@@ -55,7 +55,7 @@ ${toc}
 - `-forceIntroTutorial` - Force start the tutorial on startup
 - `-OnlyHost <user>` - ??
 - `-join <Auto | <Session>>` - Auto joins a session from URI
-- `-open <uri>` | `-OpenUnsafe <uri>` - Auto starts a world from URI (??)
+- `-open <uri>` or `-OpenUnsafe <uri>` - Auto starts a world from URI (??)
 - `-noUI` - Disables UI display
 - `-kiosk` - Starts the game in Kiosk mode
 - `-bench <uri>` - ??
@@ -75,7 +75,7 @@ ${toc}
 - `-screen` - Starts the game in desktop mode
 - `-Verbose` - Enables verbose logging
 - `-cloudProfile <Production|Staging|Local>` - Sets server (??)
-- `-engineConfig <config.json>` | `-engienConfigFile <config.json>` - Sets the config location
+- `-engineConfig <config.json>` or `-engienConfigFile <config.json>` - Sets the config location
 - `-priorityWorkers <num>` - Sets the number of priority workers
 - `-GeneratePreCache` - ??
 - `-BackgroundWorkers` - ??

@@ -16,7 +16,7 @@ It is considered good practice to close tags after using them, for instance `<ta
   - Right
   - Center
   - Justified
-- `<allcaps>` | `<smallcaps>` - Renders lowercase characters as small uppercase characters.
+- `<allcaps>` or `<smallcaps>` - Renders lowercase characters as small uppercase characters.
 - `<alpha=number>` - Sets the Alpha of the text; number must be between 0 and FF (255).
 - `<b>` - Renders the text bold.
 - `<br>` - Inserts a line break.
@@ -24,7 +24,7 @@ It is considered good practice to close tags after using them, for instance `<ta
 - `<closeallblock>` - Creates a block for the `closeall` tag to operate.
 - `<color=color>` - Sets the text a specific colour (hex, text like "black", "blue", "red"), platform-specific colours ("hero.red", "hero.blue"; see the component `Utility`->`PlatformColorPalette`).
 - `<font="font name">` - Renders the text with the specified font; requires the use of the component `Rendering`->`Text`->`FontCollection`; note: font can also be a number to reference by index.
-- `<glyph="glyph">` | `<sprite="glyph">` - Inserts a glyph within the text, requires the use of the components `Rendering`->`Text`->`FontChain` and `Assets`->`Procedural Fonts`->`DynamicSpriteFont`.
+- `<glyph="glyph">` or `<sprite="glyph">` - Inserts a glyph within the text, requires the use of the components `Rendering`->`Text`->`FontChain` and `Assets`->`Procedural Fonts`->`DynamicSpriteFont`.
 - `<gradient=color1,color2>` - Creates a gradient between the same colours (inputs are the same as the `color` tag); note: [the gradient tag is broken at the moment](https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/426).
 - `<i>` - Renders the text italic.
 - `<line-height=number>` - Sets the line height.

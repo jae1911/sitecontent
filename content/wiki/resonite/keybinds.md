@@ -31,6 +31,7 @@ For those who don't know:
 - CTRL+Z - Undo
 - CTRL+Y - Redo
 - CTRL+TAB - Cycle through your open sessions
+- Z - Toggle slow movement
 
 ## Manipulating objects
 

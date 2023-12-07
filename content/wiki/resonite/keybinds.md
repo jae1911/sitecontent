@@ -15,6 +15,7 @@ For those who don't know:
 
 - LMB - Left Mouse Button (left click)
 - RMB - Right Mouse Button (right click)
+- SCRW - Scroll Wheel
 
 ## Basic controls
 
@@ -40,6 +41,7 @@ For those who don't know:
 - I (while having a dev tooltip equipped) - Opens an inspector
 - CTRL+F - Focus on the selected object (you will need to select one beforehand)
   - ALT+RMB - Rotates around the focused object
+  - ALT+RMB+SCRW - Modify the zoom level on the focused object
 
 ## Other controls
 

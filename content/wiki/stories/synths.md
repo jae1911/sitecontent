@@ -186,13 +186,13 @@ Only a few types are known:
 
 ## The ZX Incident
 
-While traveling to the ZX Edge of the quadrants, Synths encountered a ship which upon first contact, appeared to be filled with small, raptor-like feathered creatures.   
+While traveling to the ZX Edge of the quadrants, Synths encountered a ship which upon first contact, appeared to be filled with small, raptor-like feathered creatures.  
 After a silent standoff, needed to adjust translation software, they presented an aggressive message and then attacked without warning the research fleet.
 
 A skirmish started and the attacker managed to destroy two of the Synth ships before being disabled shortly after.  
 It appears those beings had the technology to create railguns capable of piercing Synth armored cores, making them formidable and dangerous enemies.
 
-The location of  their homeworld is currently unknown and no other incidents were reported with that specie after that.  
+The location of their homeworld is currently unknown and no other incidents were reported with that specie after that.  
 By their appearance and looking at scans of their equipment, it is speculated they are native to a harsh cold environment while having the technology to create advanced alloys and weapons.  
 During scans, large amounts of ammonia were detected within the ship.
 

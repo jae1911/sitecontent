@@ -9,7 +9,7 @@ menus: ["main"]
 
 3D models I'm currently selling.
 
-- [Glass and aluminium water bottle](https://dsrcreations.gumroad.com/l/glass-alum-bottle) 
+- [Glass and aluminium water bottle](https://dsrcreations.gumroad.com/l/glass-alum-bottle)
 
 ## Art
 

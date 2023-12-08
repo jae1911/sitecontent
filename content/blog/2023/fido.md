@@ -31,7 +31,7 @@ Regular OTP is also prone to attacks, be it [the incompetence of OTP app provide
 
 The main caveat of hardware keys is, of course, if your key ever gets stolen or lost.  
 That's why it's important to have backups (usually a second key), but doesn't solves the issue in case of passwordless logins (which is honestly pretty bad and will need more work put into).  
-While stealing a security key is harder than phishing a password, it still can be a possibility if you are being personally targetted by _really persistent_ malicious actors (don't become too paranoid about this though, this doesn't concerns 99.9% of users).
+While stealing a security key is harder than phishing a password, it still can be a possibility if you are being personally targetted by _really persistent_ malicious actors (don't become too paranoid about this though, this doesn't concerns 99.9% of users, "lost key" scenario is way more probable for you than anything else).
 
 ### Where can you use it
 

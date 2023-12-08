@@ -29,6 +29,10 @@ Same for passwordless logins, I find them more convenient than using a password 
 
 Regular OTP is also prone to attacks, be it [the incompetence of OTP app providers providing a sync](https://nitter.net/mysk_co/status/1651021165727477763), your password manager getting compromised or just SIM swap attacks (being a bit more exotic though increasing, according to [a TWSJ citing FBI numbers](https://archive.is/og8go)).
 
+The main caveat of hardware keys is, of course, if your key ever gets stolen or lost.  
+That's why it's important to have backups (usually a second key), but doesn't solves the issue in case of passwordless logins (which is honestly pretty bad and will need more work put into).  
+While stealing a security key is harder than phishing a password, it still can be a possibility if you are being personally targetted by _really persistent_ malicious actors.
+
 ### Where can you use it
 
 In recent years, tons of websites added support for security keys.  
@@ -54,8 +58,8 @@ Back in July 2021, I backed the the Solokeys V2 IndieGoGo campaign, that were or
 Sadly, Solokeys had delays due to supply chain and construction issues, pushing the release and shipment of the pledged keys to September of that same year. It's around that same time that surveys, asking what USB type you wanted for the keys and setting your delivery address were sent, giving the hope for a rapid delivery.
 
 Fast forward to September, more delays, pushing delivery even further to October; but after waiting all of that time, what is one month more? (little did I know)  
-All the way through end of 2021 and 2022, more and more delays were announced, always pushing further and further the delivery date.    
-It's around that time I decided to purchase another brand of security key while waiting, a Yubikey 5 NFC (yes, a single one, I know having no backups is bad).  
+All the way through end of 2021 and 2022, more and more delays were announced, always pushing further and further the delivery date.  
+It's around that time I decided to purchase another brand of security key while waiting, a Yubikey 5 NFC (yes, a single one, I know having no backups is bad).
 
 Finally, in August 2023, after two years of waiting, I received my two Solokeys V2, one USB-A and one USB-C.
 

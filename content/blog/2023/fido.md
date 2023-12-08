@@ -1,7 +1,7 @@
 ---
 title: "Using FIDO keys"
 description: "Security keys, FIDO, and more! How do I use those and why."
-draft: true
+draft: false
 date: 2023-12-08
 ---
 

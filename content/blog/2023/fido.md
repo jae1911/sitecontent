@@ -46,7 +46,8 @@ Others can be cited like:
 - DNSimple
 - Bitwarden
 
-The list could be way longer, those are just a tiny fraction of those who support it.
+The list could be way longer, those are just a tiny fraction of those who support it.  
+You can see a good list of supported websites and apps on [passkeys.directory](https://passkeys.directory).
 
 ## Personal journey & use
 
@@ -84,7 +85,8 @@ Right off the bat, looking at the USB-C one, the connector feels very fragile, l
 Once plugging those for the first time, the experience was _not great_, being either not detected at all or just very jittery (NFC was completely nonworking).  
 Luckily, a firmware update patched that and the keys started working as expected, though I must say that the NFC function doesn't works as well as the Yubikey on my phone (an iPhone).  
 I am also having an odd issue where if the USB-A Solokeys isn't plugged facing the "right direction", it will not work and I will have to turn it around for it to work.  
-It wouldn't be surprising with a normal USB-A plug, until you realize the Solokeys V2 has reversible USB.
+It wouldn't be surprising with a normal USB-A plug, until you realize the Solokeys V2 has reversible USB.  
+Another thing to have in mind is that if the first generation of Solokeys was FIDO certified, the V2 isn't _yet_.
 
 Other than that, they work as expected everywhere that has support.
 
@@ -104,6 +106,8 @@ If you don't want to get hardware and trust your phone provider enough, both And
 I can also recommend the password manager [Bitwarden](https://bitwarden.com) which can store passkeys, allows login 2FA with FIDO, is Open-Source and can be self-hosted.
 
 Hopefully in the future, we can have even more FIDO support, not only as a 2FA but also as a passwordless way to login.
+
+Also massive thanks to Dezponia, in the Furry Tech Matrix room for the extensive feedback and additional information they provided about and for this blog post..
 
 ---
 

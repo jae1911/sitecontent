@@ -35,7 +35,7 @@ While stealing a security key is harder than phishing a password, it still can b
 In case of a stolen or lost key, FIDO2 mandates that the user needs to authenticate before being used, be it phone/computer authentication, biometrics or a PIN (most common for security keys).
 
 Technically, this still doesn't accounts for attacks like bruteforcing, where someone could just try and test all PIN combination possible.  
-Some keys like the Yubikey have a protection against this, after three failed attempts, the attacker will have to unplug and plug again the device, and after seven (in a row mind you), the key will wipe its FUDI2 store.
+Some keys like the Yubikey have a protection against this, after three failed attempts, the attacker will have to unplug and plug again the device, and after seven (in a row mind you), the key will wipe its FIDO2 store.
 
 That kind of protection also means someone can easily sabotage your keys and render them unusable.  
 Best protections would be:
@@ -46,7 +46,7 @@ Best protections would be:
 
 Another caveat of physical security keys is the number of passkeys a single device can support.  
 FIDO2 stores an unique FIDO2 key on the device itself for each service, this means different keys have different amounts of slots available to store those.  
-For instance, the Yubikey 5 can store 2 passkeys, the Solokeys V2 50 while the new Google Titan Keys can store up to 250.  
+For instance, the Yubikey 5 can store 25 passkeys, the Solokeys V2 50 while the new Google Titan Keys can store up to 250.  
 This is an issue to be aware of for in the future, when passkeys will be more common.
 
 ### Where can you use it

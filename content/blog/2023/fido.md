@@ -29,6 +29,8 @@ Same for passwordless logins, I find them more convenient than using a password 
 
 Regular OTP is also prone to attacks, be it [the incompetence of OTP app providers providing a sync](https://nitter.net/mysk_co/status/1651021165727477763), your password manager getting compromised or just SIM swap attacks (being a bit more exotic though increasing, according to [a TWSJ citing FBI numbers](https://archive.is/og8go)).
 
+### Caveats
+
 The main caveat of hardware keys is, of course, if your key ever gets stolen or lost.  
 That's why it's important to have backups (usually a second key).  
 While stealing a security key is harder than phishing a password, it still can be a possibility if you are being personally targetted by _really persistent_ malicious actors (don't become too paranoid about this though, this doesn't concerns 99.9% of users, the "lost key" scenario is way more probable for you than anything else).  

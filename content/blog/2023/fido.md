@@ -12,7 +12,22 @@ ${toc}
 
 ## FIDO and security keys?
 
+### What's FIDO
 
+FIDO (standing for Fast IDentity Online) is a set of open standards created by the very originally named FIDO Alliance, designed to address the limitations of traditional password-based authentication.  
+This set of open standards include:
+
+- U2F (Universal 2nd Factor) - Is made to strengthen and simplify 2FA using USB or NFC hardware; nowadays it is succeeded by FIDO2 and CTAP2
+- CTAP2 (Client to Authenticator Protocol) - Enables interoperability between an authenticator (phone, security key) and a client (a computer)
+- FIDO2 - The one on everybody's lips, consists of WebAuthn (published by W3C) and CTAP2 and specifies a standard authentication protocol
+
+### Why use it
+
+The main thing that sold security keys to me is the hardware component brought into authentication.  
+It may not be as practical as just pulling an OTP code from a password manager but adds a pretty strong layer of security to logins as you need to have the physical hardware and touch it to allow a login to go through.  
+Same for passwordless logins, I find them more convenient than using a password and automatically thwarts any phishing attempts (which is extremely good for end users that might not be that tech-savvy).
+
+Regular OTP is also prone to attacks, be it [the incompetence of OTP app providers providing a sync](https://nitter.net/mysk_co/status/1651021165727477763), your password manager getting compromised or just SIM swap attacks (being a bit more exotic though increasing, according to [a TWSJ citing FBI numbers](https://archive.is/og8go)).
 
 ## Personal journey & use
 
@@ -40,24 +55,33 @@ Otherwise, good hardware, works correctly.
 
 ### Solokeys V2
 
-*Now, here comes the review I originally planned to release months ago.*  
+_Now, here comes the review I originally planned to release months ago._  
 Putting aside all the delays and the two years of waiting, I was excited to receive my Solokeys since they are completely Open-Source and the firmware can be upgraded, unlike with Yubikeys.
 
-So, I received two Solokeys, one USB-A and one USB-C as well as the pledge goal reward being small colorful silicone protective covers for the keys.  
+So, I received two Solokeys, one USB-A and one USB-C as well as the pledge goal reward being small colourful silicone protective covers for the keys.  
 Right off the bat, looking at the USB-C one, the connect feels very fragile, like it would easily break if plugged too hard somewhere. The USB-A model looked fine and has no apparently hardware issues.  
-Once plugging those for the first time, the experience was *not great*, being either not detected at all or just very jittery (NFC was completely nonworking).  
+Once plugging those for the first time, the experience was _not great_, being either not detected at all or just very jittery (NFC was completely nonworking).  
 Luckily, a firmware update patched that and the keys started working as expected, though I must say that the NFC function doesn't works as well as the Yubikey on my phone (an iPhone).  
 I am also having an odd issue where if the USB-A Solokeys isn't plugged facing the "right direction", it will not work and I will have to turn it around for it to work.  
 It wouldn't be surprising with a normal USB-A plug, until you realize the Solokeys V2 have reversible USB.
 
 Other than that, they work as expected everywhere that has support.
 
+Given the current state of the project (as of 2023/12/08, no blog posts or communication since June 2023 and no commits in Solokeys V2 repos since January 2023), I sadly cannot recommend that solution and instead redirect people to Yubikey has been pretty solid for years.
+
 ### My use
 
 I basically use security keys everywhere I can, be it on external websites like Gandi or my internal stuff, either through native support like with FireFish or through a SSO solution like KeyCloak.  
 I do also use my keys as passkeys when available as they are extremely convenient.
 
-I'm extremely happy to see more and more websites and software supporting that kind of hardware, for instance, Discord recently added support for security keys as 2FA, Google and Microsoft allow passwordless passkey singups.
+## Final words
+
+I'm extremely happy to see more and more websites and software supporting that kind of hardware, for instance, Discord recently added support for security keys as 2FA, Google and Microsoft allow passwordless passkey sign-ups.  
+Some other platforms that I use daily like Resonite have support of this in their roadmap.
+
+I can recommend anyone getting security keys and adding them everywhere you can.  
+If you don't want to get hardware and trust your phone provider enough, both Android (through Google) and [iOS/macOS](https://support.apple.com/en-gb/guide/iphone/iphf538ea8d0/ios) support passkeys.  
+I can also recommend the password manager [Bitwarden](https://bitwarden.com) which can store passkeys, allows login 2FA with FIDO, is Open-Source and can be self-hosted.
 
 ---
 

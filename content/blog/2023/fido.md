@@ -66,7 +66,7 @@ Nothing else much can be said except that it works well and is pretty much a plu
 I only have two complains about Yubikey:
 
 1. The firmware is completely locked, closed-source and impossible to update, which can make it pretty bad if the firmware the key was shipped with has security holes in it (as a matter of fact, [that already happened back in 2017](https://support.yubico.com/hc/en-us/articles/360021803580))
-2. Given their early grip on the market, lots of websites and solutions will often only support Yubico OTP instead of the FIDO standard which makes it unable to use other brands of security keys (Hetzner is guilty of this for instance)
+2. Given their early grip on the market, lots of websites and solutions will often only support Yubico OTP instead of the FIDO standard which makes it unable to use other brands of security keys ([Hetzner is guilty of this for instance](https://docs.hetzner.com/accounts-panel/accounts/two-factor-authentication/))
 
 Otherwise, good hardware, works correctly.
 

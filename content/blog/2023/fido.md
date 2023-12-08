@@ -114,6 +114,8 @@ Given the current state of the project (as of 2023/12/08, no blog posts or commu
 I basically use security keys everywhere I can, be it on external websites like Gandi or my internal stuff, either through native support like with FireFish or through a SSO solution like KeyCloak.  
 I do also use my keys as passkeys when available as they are extremely convenient.
 
+Small update: I'm also using my key for SSH now.
+
 ## Final words
 
 I'm extremely happy to see more and more websites and software supporting that kind of hardware, for instance, Discord recently added support for security keys as 2FA, Google and Microsoft allow passwordless passkey sign-ups, and some other platforms that I use daily like Resonite plan to implement FIDO2 support in the future.

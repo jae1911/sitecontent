@@ -107,6 +107,10 @@ So this post was longer than usual.
 Reason is that writing posts takes way longer than I expected and finding good subject for those is equally hard, so instead of prioritizing quantity, I'm going for quality and length.  
 I'm trying to find more subject to write about in a more lengthy form factor, so stay tuned!
 
+You also probably noticed that the font of this website changed completely and this has been done for a good reason: the old pixel font was extremely hard to read for longer texts, not very practical when you host a blog and a wiki with lore and other stuff people might want to read.  
+Give a warm welcome to [Atkinson Hyperlegible by the Braille Institute](https://brailleinstitute.org/freefont), that will probably stay around for some time (unless I find a pixel font as easy to read as this one).  
+Why this exact font? The software FireFish (that I use to post on ActivityPub) has an option for it and I liked it.
+
 That's all for today.  
 I'll see you next time!
 

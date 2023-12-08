@@ -44,8 +44,6 @@ Others can be cited like:
 
 The list could be way longer, those are just a tiny fraction of those who support it.
 
-And many others.
-
 ## Personal journey & use
 
 Let's see my personal uses of security keys and which ones I have.

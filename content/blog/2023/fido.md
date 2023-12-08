@@ -125,13 +125,13 @@ Turns out that if your key is already registered for MFA, you will need to remov
 
 ## Final words
 
-I'm extremely happy to see more and more websites and software supporting that kind of hardware, for instance, Discord recently added support for security keys as 2FA, Google and Microsoft allow passwordless passkey sign-ups, and some other platforms that I use daily like Resonite plan to implement FIDO2 support in the future.
+I'm extremely happy to see more and more websites and software supporting that kind of hardware, for instance, Discord recently added support for security keys as MFA, Google and Microsoft allow passwordless passkey sign-ups, and some other platforms that I use daily like Resonite plan to implement FIDO2 support in the future.
 
 I can recommend anyone getting security keys and adding them everywhere you can.  
 If you don't want to get hardware and trust your phone provider enough, both Android (through Google) and [iOS/macOS](https://support.apple.com/en-gb/guide/iphone/iphf538ea8d0/ios) support passkeys.  
-I can also recommend the password manager [Bitwarden](https://bitwarden.com) which can store passkeys, allows login 2FA with FIDO2, is Open-Source and can be self-hosted.
+I can also recommend the password manager [Bitwarden](https://bitwarden.com) which can store passkeys, allows login MFA with FIDO2, is Open-Source and can be self-hosted.
 
-Hopefully in the future, we can have even more FIDO2 support, not only as a 2FA but also as a passwordless way to login.
+Hopefully in the future, we can have even more FIDO2 support, not only as a MFA but also as a passwordless way to login.
 
 Also massive thanks to Dezponia, in the Furry Tech Matrix room, for the extensive feedback and additional information about how FIDO2 works and security practices they provided for this blog post.
 

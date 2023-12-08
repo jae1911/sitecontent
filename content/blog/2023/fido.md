@@ -52,14 +52,16 @@ Let's see my personal uses of security keys and which ones I have.
 
 Back in July 2021, I backed the the Solokeys V2 IndieGoGo campaign, that were originally supposed to be released in June 2021.  
 Sadly, Solokeys had delays due to supply chain and construction issues, pushing the release and shipment of the pledged keys to September of that same year. It's around that same time that surveys, asking what USB type you wanted for the keys and setting your delivery address were sent, giving the hope for a rapid delivery.
-Fast forward to September, more delays, pushing delivery even further to October; but after waiting all of that time, what is one month more? (little did I know)
-All the way through end of 2021 and 2022, more and more delays were announced, always pushing further and further the delivery date.  
-It's around that time I decided to purchase another brand of security key while waiting, a Yubikey 5 NFC (yes, a single one, I know having no backups is bad).
+
+Fast forward to September, more delays, pushing delivery even further to October; but after waiting all of that time, what is one month more? (little did I know)  
+All the way through end of 2021 and 2022, more and more delays were announced, always pushing further and further the delivery date.    
+It's around that time I decided to purchase another brand of security key while waiting, a Yubikey 5 NFC (yes, a single one, I know having no backups is bad).  
+
 Finally, in August 2023, after two years of waiting, I received my two Solokeys V2, one USB-A and one USB-C.
 
 ### Yubikey
 
-The Yubikey is the first ever security I got.  
+The Yubikey is the first ever security key I got.  
 Nothing else much can be said except that it works well and is pretty much a plug-and-play solution.  
 I only have two complains about Yubikey:
 
@@ -74,15 +76,15 @@ _Now, here comes the review I originally planned to release months ago._
 Putting aside all the delays and the two years of waiting, I was excited to receive my Solokeys since they are completely Open-Source and the firmware can be upgraded, unlike with Yubikeys.
 
 So, I received two Solokeys, one USB-A and one USB-C as well as the pledge goal reward being small colourful silicone protective covers for the keys.  
-Right off the bat, looking at the USB-C one, the connect feels very fragile, like it would easily break if plugged too hard somewhere. The USB-A model looked fine and has no apparently hardware issues.  
+Right off the bat, looking at the USB-C one, the connector feels very fragile, like it would easily break if plugged too hard somewhere. The USB-A model looked fine and has no apparently hardware issues.  
 Once plugging those for the first time, the experience was _not great_, being either not detected at all or just very jittery (NFC was completely nonworking).  
 Luckily, a firmware update patched that and the keys started working as expected, though I must say that the NFC function doesn't works as well as the Yubikey on my phone (an iPhone).  
 I am also having an odd issue where if the USB-A Solokeys isn't plugged facing the "right direction", it will not work and I will have to turn it around for it to work.  
-It wouldn't be surprising with a normal USB-A plug, until you realize the Solokeys V2 have reversible USB.
+It wouldn't be surprising with a normal USB-A plug, until you realize the Solokeys V2 has reversible USB.
 
 Other than that, they work as expected everywhere that has support.
 
-Given the current state of the project (as of 2023/12/08, no blog posts or communication since June 2023 and no commits in Solokeys V2 repos since January 2023), I sadly cannot recommend that solution and instead redirect people to Yubikey has been pretty solid for years.
+Given the current state of the project (as of 2023/12/08, no blog posts or communication since June 2023 and no commits in Solokeys V2 repos since January 2023), I sadly cannot recommend that solution and instead redirect people to Yubikey, that has been pretty solid for years.
 
 ### My use
 
@@ -102,7 +104,7 @@ Hopefully in the future, we can have even more FIDO support, not only as a 2FA b
 ---
 
 So this post was longer than usual.  
-Reason is that writing posts takes way longer than I expected and finding good subject for those is equally hard, so instead of prioritizing quantity, I'm going for quality and length.  
+Reason is that writing posts takes way longer than I expected and finding good subjects for those is equally hard, so instead of prioritizing quantity, I'm going for quality and length.  
 I'm trying to find more subjects to write about in a more lengthy form factor, so stay tuned!
 
 You also probably noticed that the font of this website changed completely and this has been done for a good reason: the old pixel font was extremely hard to read for longer texts, not very practical when you host a blog and a wiki with lore and other stuff people might want to read.  

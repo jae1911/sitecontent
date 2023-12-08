@@ -18,6 +18,7 @@ You can check out:
 - [My maps](/pages/maps)
 - [My YouTube channel](https://www.youtube.com/@j4l/)
 - [My renders & art](/pages/renders)
+- [My GumRoad Store](https://dsrcreations.gumroad.com/)
 
 I also happen to write a bunch of software.
 

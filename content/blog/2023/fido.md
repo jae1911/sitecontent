@@ -29,6 +29,23 @@ Same for passwordless logins, I find them more convenient than using a password 
 
 Regular OTP is also prone to attacks, be it [the incompetence of OTP app providers providing a sync](https://nitter.net/mysk_co/status/1651021165727477763), your password manager getting compromised or just SIM swap attacks (being a bit more exotic though increasing, according to [a TWSJ citing FBI numbers](https://archive.is/og8go)).
 
+### Where can you use it
+
+In recent years, tons of websites added support for security keys.  
+Biggest ones being Google, Microsoft and Apple, the two first ones allowing passwordless logins through passkeys.
+
+Others can be cited like:
+
+- GitHub
+- Gandi
+- ProtonMail
+- DNSimple
+- Bitwarden
+
+The list could be way longer, those are just a tiny fraction of those who support it.
+
+And many others.
+
 ## Personal journey & use
 
 Let's see my personal uses of security keys and which ones I have.
@@ -76,17 +93,18 @@ I do also use my keys as passkeys when available as they are extremely convenien
 
 ## Final words
 
-I'm extremely happy to see more and more websites and software supporting that kind of hardware, for instance, Discord recently added support for security keys as 2FA, Google and Microsoft allow passwordless passkey sign-ups.  
-Some other platforms that I use daily like Resonite have support of this in their roadmap.
+I'm extremely happy to see more and more websites and software supporting that kind of hardware, for instance, Discord recently added support for security keys as 2FA, Google and Microsoft allow passwordless passkey sign-ups, and some other platforms that I use daily like Resonite plan to implement FIDO support in the future.
 
 I can recommend anyone getting security keys and adding them everywhere you can.  
 If you don't want to get hardware and trust your phone provider enough, both Android (through Google) and [iOS/macOS](https://support.apple.com/en-gb/guide/iphone/iphf538ea8d0/ios) support passkeys.  
 I can also recommend the password manager [Bitwarden](https://bitwarden.com) which can store passkeys, allows login 2FA with FIDO, is Open-Source and can be self-hosted.
 
+Hopefully in the future, we can have even more FIDO support, not only as a 2FA but also as a passwordless way to login.
+
 ---
 
 So this post was longer than usual.  
-Reason is that writing posts takes way longer than I expected and finding good subject for those is equally hard.  
+Reason is that writing posts takes way longer than I expected and finding good subject for those is equally hard, so instead of prioritizing quantity, I'm going for quality and length.  
 I'm trying to find more subject to write about in a more lengthy form factor, so stay tuned!
 
 That's all for today.  

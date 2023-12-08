@@ -109,7 +109,9 @@ Another thing to have in mind is that if the first generation of Solokeys was FI
 
 Other than that, they work as expected everywhere that has support.
 
-Given the current state of the project (as of 2023/12/08, no blog posts or communication since June 2023 and no commits in Solokeys V2 repos since January 2023), I sadly cannot recommend that solution and instead redirect people to Yubikey, that has been pretty solid for years.
+Given the current state of the project (as of 2023/12/08, no blog posts or communication since June 2023 and no commits in Solokeys V2 repos since January 2023), I sadly cannot recommend that solution and instead redirect people to Yubikey, that has been pretty solid for years.  
+I also sent an email to the official contact point of Solokeys on December 2 2023 asking about the state of the project and still haven't got any response yet.  
+This post will be updated when I receive an answer.
 
 ### My use
 

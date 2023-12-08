@@ -30,8 +30,24 @@ Same for passwordless logins, I find them more convenient than using a password 
 Regular OTP is also prone to attacks, be it [the incompetence of OTP app providers providing a sync](https://nitter.net/mysk_co/status/1651021165727477763), your password manager getting compromised or just SIM swap attacks (being a bit more exotic though increasing, according to [a TWSJ citing FBI numbers](https://archive.is/og8go)).
 
 The main caveat of hardware keys is, of course, if your key ever gets stolen or lost.  
-That's why it's important to have backups (usually a second key), but doesn't solves the issue in case of passwordless logins (which is honestly pretty bad and will need more work put into).  
-While stealing a security key is harder than phishing a password, it still can be a possibility if you are being personally targetted by _really persistent_ malicious actors (don't become too paranoid about this though, this doesn't concerns 99.9% of users, the "lost key" scenario is way more probable for you than anything else).
+That's why it's important to have backups (usually a second key).  
+While stealing a security key is harder than phishing a password, it still can be a possibility if you are being personally targetted by _really persistent_ malicious actors (don't become too paranoid about this though, this doesn't concerns 99.9% of users, the "lost key" scenario is way more probable for you than anything else).  
+In case of a stolen or lost key, FIDO2 mandates that the user needs to authenticate before being used, be it phone/computer authentication, biometrics or a PIN (most common for security keys).
+
+Technically, this still doesn't accounts for attacks like bruteforcing, where someone could just try and test all PIN combination possible.  
+Some keys like the Yubikey have a protection against this, after three failed attempts, the attacker will have to unplug and plug again the device, and after seven (in a row mind you), the key will wipe its FUDI2 store.
+
+That kind of protection also means someone can easily sabotage your keys and render them unusable.  
+Best protections would be:
+
+- Keep the main security key on you at all times
+- Occasionally test your backup key(s)
+- Make sure services have ways of recovering accounts and that those are up-to-date
+
+Another caveat of physical security keys is the number of passkeys a single device can support.  
+FIDO2 stores an unique FIDO2 key on the device itself for each service, this means different keys have different amounts of slots available to store those.  
+For instance, the Yubikey 5 can store 2 passkeys, the Solokeys V2 50 while the new Google Titan Keys can store up to 250.  
+This is an issue to be aware of for in the future, when passkeys will be more common.
 
 ### Where can you use it
 
@@ -85,7 +101,7 @@ Right off the bat, looking at the USB-C one, the connector feels very fragile, l
 Once plugging those for the first time, the experience was _not great_, being either not detected at all or just very jittery (NFC was completely nonworking).  
 Luckily, a firmware update patched that and the keys started working as expected, though I must say that the NFC function doesn't works as well as the Yubikey on my phone (an iPhone).  
 I am also having an odd issue where if the USB-A Solokeys isn't plugged facing the "right direction", it will not work and I will have to turn it around for it to work.  
-It wouldn't be surprising with a normal USB-A plug, until you realize the Solokeys V2 has reversible USB.  
+It wouldn't be surprising with a normal USB-A plug, until you realize the Solokeys V2 has reversible USB.
 
 Another thing to have in mind is that if the first generation of Solokeys was FIDO certified, the V2 isn't _yet_.
 
@@ -108,7 +124,7 @@ I can also recommend the password manager [Bitwarden](https://bitwarden.com) whi
 
 Hopefully in the future, we can have even more FIDO2 support, not only as a 2FA but also as a passwordless way to login.
 
-Also massive thanks to Dezponia, in the Furry Tech Matrix room for the extensive feedback and additional information they provided about and for this blog post..
+Also massive thanks to Dezponia, in the Furry Tech Matrix room, for the extensive feedback and additional information about how FIDO2 works and security practices they provided for this blog post.
 
 ---
 

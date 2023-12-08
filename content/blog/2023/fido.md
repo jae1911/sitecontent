@@ -118,6 +118,9 @@ I do also use my keys as passkeys when available as they are extremely convenien
 
 Small update: I'm also using my key for SSH now.
 
+As a side note, when trying to register my Solokeys as a GitHub passkey, I was getting generic errors "Something went wrong" without any much more.  
+Turns out that if your key is already registered for MFA, you will need to remove it before re-adding it as a passkey.
+
 ## Final words
 
 I'm extremely happy to see more and more websites and software supporting that kind of hardware, for instance, Discord recently added support for security keys as 2FA, Google and Microsoft allow passwordless passkey sign-ups, and some other platforms that I use daily like Resonite plan to implement FIDO2 support in the future.

@@ -71,7 +71,7 @@ Nothing else much can be said except that it works well and is pretty much a plu
 I only have two complains about Yubikey:
 
 1. The firmware is completely locked, closed-source and impossible to update, which can make it pretty bad if the firmware the key was shipped with has security holes in it (as a matter of fact, [that already happened back in 2017](https://support.yubico.com/hc/en-us/articles/360021803580))
-2. Given their early grip on the market, lots of websites and solutions will often only support Yubico OTP instead of the FIDO standard which makes it unable to use other brands of security keys ([Hetzner is guilty of this for instance](https://docs.hetzner.com/accounts-panel/accounts/two-factor-authentication/))
+2. Given their early grip on the market, lots of websites and solutions will often only support Yubico OTP instead of the FIDO2 standard which makes it unable to use other brands of security keys ([Hetzner is guilty of this for instance](https://docs.hetzner.com/accounts-panel/accounts/two-factor-authentication/))
 
 Otherwise, good hardware, works correctly.
 
@@ -86,6 +86,7 @@ Once plugging those for the first time, the experience was _not great_, being ei
 Luckily, a firmware update patched that and the keys started working as expected, though I must say that the NFC function doesn't works as well as the Yubikey on my phone (an iPhone).  
 I am also having an odd issue where if the USB-A Solokeys isn't plugged facing the "right direction", it will not work and I will have to turn it around for it to work.  
 It wouldn't be surprising with a normal USB-A plug, until you realize the Solokeys V2 has reversible USB.  
+
 Another thing to have in mind is that if the first generation of Solokeys was FIDO certified, the V2 isn't _yet_.
 
 Other than that, they work as expected everywhere that has support.
@@ -99,13 +100,13 @@ I do also use my keys as passkeys when available as they are extremely convenien
 
 ## Final words
 
-I'm extremely happy to see more and more websites and software supporting that kind of hardware, for instance, Discord recently added support for security keys as 2FA, Google and Microsoft allow passwordless passkey sign-ups, and some other platforms that I use daily like Resonite plan to implement FIDO support in the future.
+I'm extremely happy to see more and more websites and software supporting that kind of hardware, for instance, Discord recently added support for security keys as 2FA, Google and Microsoft allow passwordless passkey sign-ups, and some other platforms that I use daily like Resonite plan to implement FIDO2 support in the future.
 
 I can recommend anyone getting security keys and adding them everywhere you can.  
 If you don't want to get hardware and trust your phone provider enough, both Android (through Google) and [iOS/macOS](https://support.apple.com/en-gb/guide/iphone/iphf538ea8d0/ios) support passkeys.  
-I can also recommend the password manager [Bitwarden](https://bitwarden.com) which can store passkeys, allows login 2FA with FIDO, is Open-Source and can be self-hosted.
+I can also recommend the password manager [Bitwarden](https://bitwarden.com) which can store passkeys, allows login 2FA with FIDO2, is Open-Source and can be self-hosted.
 
-Hopefully in the future, we can have even more FIDO support, not only as a 2FA but also as a passwordless way to login.
+Hopefully in the future, we can have even more FIDO2 support, not only as a 2FA but also as a passwordless way to login.
 
 Also massive thanks to Dezponia, in the Furry Tech Matrix room for the extensive feedback and additional information they provided about and for this blog post..
 

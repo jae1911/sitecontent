@@ -4,6 +4,8 @@ title: FIDO2
 
 # FIDO2
 
+${toc}
+
 ## Websites supporting security keys
 
 - [GitHub](https://github.com) - As 2FA
@@ -26,3 +28,15 @@ title: FIDO2
 
 - PayPal - As 2FA, could not test, nonworking implementation; passkeys supported but only with Android or iOS builtin
 - Hetzner - As 2FA, only supports Yubikey TOTP
+
+## Setting up SSH with a FIDO key
+
+### Windows 11
+
+Windows 11 ships with outdated software which means before all, you will need to install [the latest version of Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH/releases/latest) which supports FIDO2 flows.
+
+The rest is pretty easy:
+
+- Generating the key: `ssh-keygen -t ed25519-sk -O resident` and should output your new public key to `~/.ssh/id_ed25519_sk.pub`
+
+Now trying to SSH into something should bring up a window asking you to touch your key to confirm the action.

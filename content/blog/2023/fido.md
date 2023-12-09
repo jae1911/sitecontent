@@ -113,6 +113,13 @@ Given the current state of the project (as of 2023/12/08, no blog posts or commu
 I also sent an email to the official contact point of Solokeys on December 2 2023 asking about the state of the project and still haven't got any response yet.  
 This post will be updated when I receive an answer.
 
+2023/12/09 update:
+
+My Solokeys V2 USB-A apparently reset itself for no reason.  
+I will never recommend Solokeys going forward.
+
+![Screenshot of Windows showing that the security key isn't recognized.](https://i.j4.lc/ShareX/2023/12/CredentialUIBroker_RJAfLraUvz.png)
+
 ### My use
 
 I basically use security keys everywhere I can, be it on external websites like Gandi or my internal stuff, either through native support like with FireFish or through a SSO solution like KeyCloak.  

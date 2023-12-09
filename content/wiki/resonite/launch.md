@@ -54,7 +54,7 @@ ${toc}
 - `-useAppCamera` - ??
 - `-forceIntroTutorial` - Force start the tutorial on startup
 - `-join <Auto | <Session>>` - Auto joins a session from URI
-- `-OnlyHost <user>` - For use in conjunction with `-join`, only joins session if hosted by given user 
+- `-OnlyHost <user>` - For use in conjunction with `-join`, only joins session if hosted by given user
 - `-open <uri>` - Auto starts a world from URI (??)
 - `-OpenUnsafe <uri>` Auto starts a world from URI in unsafe mode (??)
 - `-noUI` - Disables UI display

@@ -18,7 +18,7 @@ ${toc}
 
 - `-Invisible` - Starts your game with the "invisible" status by default
 - `-ForceSRAnipal` - Forces SRanipal to be launched (face tracking)
-- `-LoadAssembly <path>` - Loads additional plugins
+- `-LoadAssembly <path>` - Loads additional plug-ins
 - `-ResetDash` - Resets your dashboard /!\ Will remove all your facets /!\
 - `-SteamVR` - Launches the game with SteamVR
 - `-RiftTouch` - Launches the game with Oculus rift + touch controllers
@@ -38,8 +38,8 @@ ${toc}
 - `-Screen360` - Launches the game in desktop mode with 360 projection on
 - `-ctaa` - Enables Cinematic Temporal Antialiasing, overrides the default FXAA
 - `-ctaaTemporalEdgePower <num>` - Adjusts the Edge Power when using CTAA (values from 1.0 to 4.0; default is 4.0)
-- `-ctaaSharpnessEnabbled <true/false>` - Adjusts or disables teh CTAA sharpening (defaults to `false`)
-- `-ctaaAdaptiveSharpness <num>` - Adjusts sharpness effect strenght (values from 0.0 to 0.5; default is 0.2)
+- `-ctaaSharpnessEnabbled <true/false>` - Adjusts or disables the CTAA sharpening (defaults to `false`)
+- `-ctaaAdaptiveSharpness <num>` - Adjusts sharpness effect strength (values from 0.0 to 0.5; default is 0.2)
 - `-enableOwO <IP>` - Sets the IP for the OwO haptics suit
 - `-legacySteamVRInput` - Reverts inputs to the legacy SteamVR method
 - `-etee` - Enables Etee controller support (??)
@@ -76,7 +76,7 @@ ${toc}
 - `-screen` - Starts the game in desktop mode
 - `-Verbose` - Enables verbose logging
 - `-cloudProfile <Production|Staging|Local>` - Sets server (??)
-- `-engineConfig <config.json>` or `-engienConfigFile <config.json>` - Sets the config location
+- `-engineConfig <config.json>` or `-engineConfigFile <config.json>` - Sets the location of the configuration file
 - `-GeneratePreCache` - ??
 - `-priorityWorkers <num>` - Sets the number of priority workers
 - `-BackgroundWorkers` - Sets the number of background workers

@@ -50,8 +50,34 @@ Docker is extremely easy to use and contains a few basic commands:
   - `-i` - Starts the container in interactive mode, which will keep STDIN open even when not attached
   - `-t` - Allocates a pseudo-TTY, basically attaches a console inside the container
   - `-e envvar=value` - Sets an environment variable inside the container
+  - `-d` - Detach from the container, making it run in the background`
 - `docker container ls -a` - Lists all containers
 - `docker container stop <container id>` - Will stop the container
 - `docker container rm <container id>` - Will remove the container
 - `docker container start <container id>` - Will start the container
 - `docker system prune -a` - Will clean: **all** unused images, **all** unused containers and **all** unused networks
+- `docker attach <container id>` - Allows you to attach a TTY inside of the specified container
+
+## Docker Compose
+
+Docker Compose is a tool that allows defining and running multiple containers from a configuration file written in YAML.  
+Docker Compose makes setting up services painless by automating much of the process.
+
+For instance, let's create a simple `docker-compose.yml` file for starters:
+
+```yaml
+version: "3.9"
+
+services:
+  hello:
+    image: hello-world
+```
+
+Now, if you issue `docker compose up`, you should see that the image is automatically pulled and run, showing the "Hello from Docker" message.  
+The `docker compose` command also has some basic parameters:
+
+- `up <service>` - Will bring the specified service up, note that if you don't specify a service, Compose will bring all services in the configuration file up. You will also need to add the `-d` argument to that command to not be attached to the containers when they are started
+- `stop <service>` - Will stop the specified service
+- `down` - Will bring down all the services specified in the Compose configuration file
+- `exec <service> <command>` - Will execute the specified command in the container of the specified service
+- `logs <service>` - Allows you to see the logs of a specified service, if none is specified, it will show the logs of all the services. Adding `-f` to it will follow the log like with the `tail -f` command

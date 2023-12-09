@@ -33,6 +33,7 @@ ${toc}
 - `/serverinfo` - Displays some information about the server like the current uptime, Linux version and runtime version
 - `/setPrimaryEmail <email>` | `/addAlternateEmail <email>` - Either changes your main account email or adds a new alternative one (useful if your Patreon email doesn't matches your Resonite one)
 - `/requestAccountDeletion` - Will **delete** your Resonite account seven days after running this command
+- `/getBenefits` - Will display your current Patreon benefits`
 
 ### Patreon only
 

@@ -48,6 +48,6 @@ For those who don't know:
 
 - M - Mutes you
 - V - Push-to-talk (when muted)
-- SHIFT + Double tap ESC - Emergency world exit
+- SHIFT + Double tap ESC or CTRL+SHIFT+Q - Emergency world exit
 - F2 - Toggle Edit Mode
 - CTRL+I - Opens the legacy inventory

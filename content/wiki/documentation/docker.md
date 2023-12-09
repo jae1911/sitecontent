@@ -1,5 +1,6 @@
 ---
 title: "Docker"
+description: "Documentation about Docker, how to use it, and how to use the Compose tool."
 ---
 
 # Docker

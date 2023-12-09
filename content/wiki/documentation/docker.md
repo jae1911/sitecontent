@@ -11,7 +11,7 @@ It also contains a crash course to basic commands.
 
 ${toc}
 
-## Setting Docker
+## Installing Docker
 
 Everything there needs to be run as room (you can use `sudo` for most commands).  
 Update your system with `apt update` and then install prerequisites `apt install ca-certificates curl gnupg lsb-release`.

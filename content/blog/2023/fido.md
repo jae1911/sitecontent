@@ -153,7 +153,7 @@ Give a warm welcome to [Atkinson Hyperlegible by the Braille Institute](https://
 Why this exact font? The software FireFish (that I use to post on ActivityPub) has an option for it and I liked it.
 
 On another note, I'm looking for a job!  
-If you have anything for me in software development, please contact me at [mailto:jae@777.tf](jae@777.tf) and I'll be happy to discuss any opportunity.
+If you have anything for me in software development, please contact me at [jae@777.tf](mailto:jae@777.tf) and I'll be happy to discuss any opportunity.
 
 That's all for today.  
 I'll see you next time!

@@ -82,3 +82,33 @@ The `docker compose` command also has some basic parameters:
 - `down` - Will bring down all the services specified in the Compose configuration file
 - `exec <service> <command>` - Will execute the specified command in the container of the specified service
 - `logs <service>` - Allows you to see the logs of a specified service, if none is specified, it will show the logs of all the services. Adding `-f` to it will follow the log like with the `tail -f` command
+
+One good thing about a compose file is that it will create a network for you, without having to link containers between them.  
+Let's take for instance, a service with a database.
+
+```yaml
+version: "3.9"
+
+services:
+  database:
+    image: postgres:15
+    volumes:
+      - ./database:/var/lib/postgresql/data
+    environment:
+      POSTGRES_DB: "testdb"
+      POSTGRES_USER: "test"
+      POSTGRES_PASSWORD: "iamverysecret"
+
+  service:
+    image: mydatabaseservice
+    environment:
+      DB_HOST: "database"
+      DB_USER: "test"
+      DB_PASSWORD: "iamverysecret"
+      DB_DB: "testdb"
+```
+
+> Note: Trying to bring that Compose configuration up will fail as the service `mydatabaseservice` is only an example and doesn't actually exists.
+
+In that example, the service would be able to resolve the database and connect to it without having to link containers as a network would be created for this Compose file.  
+You can also see a demonstration of environment variables, though it is recommended to use a `.env` file and `ENVIRONMENT_VARIABLE: ${VARIABLE_VALUE}` in the Compose configuration file itself.

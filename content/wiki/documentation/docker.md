@@ -1,13 +1,16 @@
 ---
-title: "Setting up Docker on Debian"
+title: "Docker"
 ---
 
-# Setting up on Docker
+# Docker
 
 This page covers the installation of Docker on Debian and a quickstart with compose.  
-We will assume your Debian machine is a blank state configured with the fastest mirrors.
+We will assume your Debian machine is a blank state configured with the fastest mirrors.  
+It also contains a crash course to basic commands.
 
-## Setting up the base Docker
+${toc}
+
+## Setting Docker
 
 Everything there needs to be run as room (you can use `sudo` for most commands).  
 Update your system with `apt update` and then install prerequisites `apt install ca-certificates curl gnupg lsb-release`.
@@ -37,16 +40,18 @@ systemctl enable docker
 systemctl start docker
 ```
 
-## Sample docker-compose
+## Basic Docker commands
 
-Create a file named `docker-compose.yml` and inside:
+Docker is extremely easy to use and contains a few basic commands:
 
-```yaml
-version: "3.9"
-
-services:
-  hello:
-    image: hello-world
-```
-
-Now you can run `docker compose up` and see the hello world.
+- `docker pull <image>` - Will pull an image (if no specified repository, it will pull it from the default `hub.docker.com`)
+- `docker run <image> <options/arguments>` - Will run the specified image (and pull it if not already done). This command accepts a few parameters (for the most popular):
+  - `-p outsideport:insideport` - Allows to map a port from the inside of the container to the outside, for instance `-p 55:80` will make the port 80 of inside the container as available as port 50 externally
+  - `-i` - Starts the container in interactive mode, which will keep STDIN open even when not attached
+  - `-t` - Allocates a pseudo-TTY, basically attaches a console inside the container
+  - `-e envvar=value` - Sets an environment variable inside the container
+- `docker container ls -a` - Lists all containers
+- `docker container stop <container id>` - Will stop the container
+- `docker container rm <container id>` - Will remove the container
+- `docker container start <container id>` - Will start the container
+- `docker system prune -a` - Will clean: **all** unused images, **all** unused containers and **all** unused networks

@@ -22,7 +22,7 @@ It takes a few options in to work:
 - `Default` - Sets the default value for someone that doesn't have an override
 - `CreateOverrideOnWrite` - Makes it so when someone changes the value, an override will be created automatically for them
 
-Overrides may also be created manually by refencing a userid (`U-<snowflake ID>`) and a value.
+Overrides may also be created manually by referencing a userid (`U-<snowflake ID>`) and a value.
 
 ## ValueCopy
 

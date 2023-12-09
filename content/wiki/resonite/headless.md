@@ -16,7 +16,7 @@ ${toc}
 
 > Note: before proceeding, I can recommend creating a dedicated Steam account for the headless. Doing so will make it easy to automate the process with Docker or scripts later.
 
-### Baremetal
+### Bare metal
 
 To obtain the headless, you currently will need [SteamCMD](https://developer.valvesoftware.com/wiki/SteamCMD) and the headless beta code (can be obtained by sending `/headlessCode` to the Resonite bot).
 
@@ -65,7 +65,7 @@ services:
     restart: unless-stopped
 ```
 
-Sveken on Discord made some modifications to the compose file to accomodate for modded Resonite.  
+Sveken on Discord made some modifications to the compose file to accommodate for modded Resonite.  
 For that, you will need to download [Resonite Mod Loader](https://github.com/resonite-modding-group/ResoniteModLoader), create a directory `moddedhead` in the data directory where you want to place the files of your headless and place inside the NML files.  
 Then you can use the following compose file:
 
@@ -94,7 +94,7 @@ services:
 This version will hijack the start script to instead run the headless with the `-loadAssembly` command, thus making it possible to run the headless with mods.
 
 Now that you have this setup, you can proceed to the [configuration](#configuration) section.  
-Launching the headless is as easy as `docker compose up -d` and `docker compose logs` to see logs (add `-f` to it to follow them in realtime).
+Launching the headless is as easy as `docker compose up -d` and `docker compose logs` to see logs (add `-f` to it to follow them in real-time).
 
 ## Configuration
 
@@ -181,7 +181,7 @@ The default headless configuration is as follows:
 | ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------- | -------- | ------------------------------------------------------------------ |
 | sessionName                              | The name that will show up in the world browser (defaults to the world name if not present).                                | string        | No       | "awa awa"                                                          |
 | customSessionId                          | Sets a custom session ID starting with `S-` and respecting the format `<userid>:<sessionid>`                                | string        | No       | "U-Awa:hangout"                                                    |
-| description                              | Sets the description of the sesion (defaults on world description if not present)                                           | string        | No       | "Awa awa kabawa"                                                   |
+| description                              | Sets the description of the session (defaults on world description if not present)                                          | string        | No       | "Awa awa kabawa"                                                   |
 | maxUsers                                 | Sets the maximum amount of users in the session (defaults to 32)                                                            | integer       | No       | 1337                                                               |
 | accessLevel                              | Sets the access level of the session (Private, LAN, Friends, FriendsOfFriends, RegisteredUsers, Anyone; defaults to Anyone) | Any           | No       | RegisteredUsers                                                    |
 | hideFromPublicListing                    | Hides the session (defaults on false)                                                                                       | boolean       | No       | true                                                               |
@@ -196,7 +196,7 @@ The default headless configuration is as follows:
 | roleCloudVariable                        | Name of a cloud variable to determine user roles.                                                                           | string        | No       | "G-mygroup.headless.perms"                                         |
 | allowUserCloudVariable                   | Name of a cloud variable to determine who can join the session.                                                             | string        | No       | "G-furdation.headless.whitelist"                                   |
 | denyUserCloudVariable                    | Name of a cloud variable to determine who cannot join the session.                                                          | string        | No       | "G-furdation.headless.blocklist"                                   |
-| requiredUserJoinCloudVariable            | Name of a cloud variable to determine if a usr can join the session.                                                        | string        | No       | "G-furdation.headless.privateAccess"                               |
+| requiredUserJoinCloudVariable            | Name of a cloud variable to determine if a user can join the session.                                                       | string        | No       | "G-furdation.headless.privateAccess"                               |
 | requiredUserJoinCloudVariableDenyMessage | Message to display to users not on the whitelist.                                                                           | string        | No       | "You need to be verified to join this session"                     |
 | awayKickMinutes                          | How many minutes can people stay AFK in the session without being kicked (-1 disables it)                                   | integer       | No       | 5                                                                  |
 | saveAsOwner                              | Controls who saves this world when saved.                                                                                   | Any           | No       |                                                                    |
@@ -214,52 +214,52 @@ The default headless configuration is as follows:
 
 There is a bunch of commands that can be used to manage the headless client within its console.
 
-| command              | description                                                                 | usage                                          |
-| -------------------- | --------------------------------------------------------------------------- | ---------------------------------------------- |
-| saveConfig           | Saves the current config into the original config file                      | saveConfig &#60;filename>                      |
-| login                | Logs into a Resonite account                                                | login &#60;username> &#60;password>            |
-| logout               | Logs out of the current account                                             | logout                                         |
-| message              | Sends a message to a friended user                                          | message &#60;user> &#60;message>               |
-| friendRequests       | List all friend requests                                                    | friendRequests                                 |
-| acceptFriendRequest  | Accepts a friend request                                                    | acceptFriendRequest &#60;user>                 |
-| worlds               | List running worlds                                                         | worlds                                         |
-| focus                | Focuses into the specified world (by index)                                 | focus &#60;index>                              |
-| startWorldURL        | Starts a world from a `resrec:///` URL                                      | startWorldURL <`resrec:///`>                   |
-| startWorldTemplate   | Starts a world from a template                                              | startWorldTemplate &#60;`template`>            |
-| status               | Shows the status of the current world                                       | status                                         |
-| sessionURL           | Displays the session URL                                                    | sessionURL                                     |
-| sessionID            | Displays the session ID                                                     | sessionID                                      |
-| copySessionURL       | Copies the session URL to the clipboard                                     | copySessionURL                                 |
-| copySessionID        | Copies the session ID to the clipboard                                      | copySessionID                                  |
-| users                | Lists the users in the world                                                | users                                          |
-| close                | Closes the current focused world                                            | close                                          |
-| save                 | Saves the current focused world                                             | save                                           |
-| restart              | Restarts the current focused world                                          | restart                                        |
-| kick                 | Kicks a user from the sessions                                              | kick &#60;user>                                |
-| silence              | Silences a user                                                             | silence &#60;user>                             |
-| unsilence            | Removes the silence on a user                                               | unsilence &#60;user>                           |
-| listBans             | Lists all bans                                                              | listbans                                       |
-| ban                  | Bans a user                                                                 | ban &#60;user>                                 |
-| banByName            | Bans a user using an username                                               | banByName &#60;username>                       |
-| unbanByName          | Unbans a user using an username                                             | unbanByname &#60;username>                     |
-| banByID              | Bans a user using an userid                                                 | banByID &#60;userid>                           |
-| unbanByID            | Unbans a user using an userid                                               | unbanByID &#60;userid>                         |
-| respawn              | Forces an user to respawn                                                   | respawn &#60;user>                             |
-| role                 | Sets a specific role for a user                                             | role &#60;user> &#60;role>                     |
-| name                 | Sets the session name for the current focused world                         | name &#60;name>                                |
-| accessLevel          | Sets the session access level                                               | accessLevel &#60;level>                        |
-| description          | Sets the session description for the current focused world                  | description &#60;description>                  |
-| hideFromListing      | Set the focused world hidden or not                                         | hideFromListing &#60;true/false>               |
-| maxUsers             | Sets the maximum amount of users                                            | maxUsers &#60;number>                          |
-| awayKickInterval     | Sets the amount of time after which inactive users will be kicked           | awayKickInterval &#60;time>                    |
-| import               | Imports an asset in the current focused world                               | import <resrec:/// or file path>               |
-| importMinecraft      | Imports a Minecraft worl into the current focused world                     | importMinecraft &#60;path to level.dat folder> |
-| dynamicImpulse       | Sends a dynamic impulse in the scene root                                   | dynamicImpulse &#60;tag>                       |
-| dynamicImpulseString | Sends a dynamic impulse with string data                                    | dynamicImpulseString &#60;tag> &#60;string>    |
-| dynamicImpulseInt    | Sends a dynamic impulse with int data                                       | dynamicImpulseInt &#60;tag> &#60;int>          |
-| dynamicImpulseFloat  | Sends a dynamic impulse with float data                                     | dynamicImpulseFloat &#60;tag> &#60;float>      |
-| spawn                | Spawns an item saved to the inventory in the root of the world              | spawn &#60;resrec:///> &#60;active true/false> |
-| gc                   | Forces full garbage collection                                              | gc                                             |
-| shutDown             | Shuts down the headless client                                              | shutDown                                       |
-| tickRate             | Modifies the headless tickrate                                              | tickRate &#60;number>                          |
-| log                  | Switches to logging mode, press enter to return to the interractive console | log                                            |
+| command              | description                                                                | usage                                          |
+| -------------------- | -------------------------------------------------------------------------- | ---------------------------------------------- |
+| saveConfig           | Saves the current configuration into the original configuration file       | saveConfig &#60;filename>                      |
+| login                | Logs into a Resonite account                                               | login &#60;username> &#60;password>            |
+| logout               | Logs out of the current account                                            | logout                                         |
+| message              | Sends a message to a friended user                                         | message &#60;user> &#60;message>               |
+| friendRequests       | List all friend requests                                                   | friendRequests                                 |
+| acceptFriendRequest  | Accepts a friend request                                                   | acceptFriendRequest &#60;user>                 |
+| worlds               | List running worlds                                                        | worlds                                         |
+| focus                | Focuses into the specified world (by index)                                | focus &#60;index>                              |
+| startWorldURL        | Starts a world from a `resrec:///` URL                                     | startWorldURL <`resrec:///`>                   |
+| startWorldTemplate   | Starts a world from a template                                             | startWorldTemplate &#60;`template`>            |
+| status               | Shows the status of the current world                                      | status                                         |
+| sessionURL           | Displays the session URL                                                   | sessionURL                                     |
+| sessionID            | Displays the session ID                                                    | sessionID                                      |
+| copySessionURL       | Copies the session URL to the clipboard                                    | copySessionURL                                 |
+| copySessionID        | Copies the session ID to the clipboard                                     | copySessionID                                  |
+| users                | Lists the users in the world                                               | users                                          |
+| close                | Closes the current focused world                                           | close                                          |
+| save                 | Saves the current focused world                                            | save                                           |
+| restart              | Restarts the current focused world                                         | restart                                        |
+| kick                 | Kicks a user from the sessions                                             | kick &#60;user>                                |
+| silence              | Silences a user                                                            | silence &#60;user>                             |
+| unsilence            | Removes the silence on a user                                              | unsilence &#60;user>                           |
+| listBans             | Lists all bans                                                             | listbans                                       |
+| ban                  | Bans a user                                                                | ban &#60;user>                                 |
+| banByName            | Bans a user using an username                                              | banByName &#60;username>                       |
+| unbanByName          | Unbans a user using an username                                            | unbanByname &#60;username>                     |
+| banByID              | Bans a user using an userid                                                | banByID &#60;userid>                           |
+| unbanByID            | Unbans a user using an userid                                              | unbanByID &#60;userid>                         |
+| respawn              | Forces an user to respawn                                                  | respawn &#60;user>                             |
+| role                 | Sets a specific role for a user                                            | role &#60;user> &#60;role>                     |
+| name                 | Sets the session name for the current focused world                        | name &#60;name>                                |
+| accessLevel          | Sets the session access level                                              | accessLevel &#60;level>                        |
+| description          | Sets the session description for the current focused world                 | description &#60;description>                  |
+| hideFromListing      | Set the focused world hidden or not                                        | hideFromListing &#60;true/false>               |
+| maxUsers             | Sets the maximum amount of users                                           | maxUsers &#60;number>                          |
+| awayKickInterval     | Sets the amount of time after which inactive users will be kicked          | awayKickInterval &#60;time>                    |
+| import               | Imports an asset in the current focused world                              | import <resrec:/// or file path>               |
+| importMinecraft      | Imports a Minecraft worl into the current focused world                    | importMinecraft &#60;path to level.dat folder> |
+| dynamicImpulse       | Sends a dynamic impulse in the scene root                                  | dynamicImpulse &#60;tag>                       |
+| dynamicImpulseString | Sends a dynamic impulse with string data                                   | dynamicImpulseString &#60;tag> &#60;string>    |
+| dynamicImpulseInt    | Sends a dynamic impulse with int data                                      | dynamicImpulseInt &#60;tag> &#60;int>          |
+| dynamicImpulseFloat  | Sends a dynamic impulse with float data                                    | dynamicImpulseFloat &#60;tag> &#60;float>      |
+| spawn                | Spawns an item saved to the inventory in the root of the world             | spawn &#60;resrec:///> &#60;active true/false> |
+| gc                   | Forces full garbage collection                                             | gc                                             |
+| shutDown             | Shuts down the headless client                                             | shutDown                                       |
+| tickRate             | Modifies the headless tickrate                                             | tickRate &#60;number>                          |
+| log                  | Switches to logging mode, press enter to return to the interactive console | log                                            |

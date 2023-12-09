@@ -55,7 +55,7 @@ Before opening an issue on the GitHub about a bug, it is good to do a bit of tro
 ### General
 
 - Restart your game
-- Disable mods and plugins if you use any (remove `-LoadAssembly` from your launch arguments)
+- Disable mods and plug-ins if you use any (remove `-LoadAssembly` from your launch arguments)
 - Make sure you are on the latest version; if an update just came out and you don't get it, you have two ways of forcing the update:
   1. Restart steam fully
   2. Right click on Resonite and go to "Properties", then "Installed Files" and click on "Verify integrity"
@@ -160,7 +160,7 @@ Note that results might be different from the two versions.
 
 #### AdamSkI2003's RedX+
 
-This version is an improved version of the original one with better search parameters and a different search backend.
+This version is an improved version of the original one with better search parameters and a different search back-end.
 
 You can access it via:
 

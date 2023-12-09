@@ -17,8 +17,8 @@ ${toc}
 
 - `/addHearingImpaired` - Adds the hearing impairment badge
 - `/removeHearingImpaired` - Removes the hearing impairment badge
-- `/addColorBlind` - Adds the colorblind badge
-- `/removeColorBlind` - Removes the colorblind badge
+- `/addColorBlind` - Adds the colour-blind badge
+- `/removeColorBlind` - Removes the colour-blind badge
 - `/addVisuallyImpaired` - adds the visual impairment badge
 - `/removeVisuallyImpaired` - Removes the visual impairment badge
 - `/addMute` - Adds the mute badge
@@ -39,7 +39,7 @@ ${toc}
 - `/addExitMessage <message>` - Submits an exit message
 - `/listExitMessages` - Lists your submitted exit messages
 - `/shareStorageWithGroup <group> <amount>` or `/shareStorageWithUser <user> <amount>` - Shares the specified amount of storage with a user or group (requires Patreon tier Builder (73€/month) or more)
-- `/set2DBadge <resdb:/// URL>` or `/set3DBadge <record URL>` - Sets your 3D or 2D badge (3D badge limitations are 128 tris, 256 verts); custom badges have some limitations:
+- `/set2DBadge <resdb:/// URL>` or `/set3DBadge <record URL>` - Sets your 3D or 2D badge (3D badge limitations are 128 triangles, 256 verts); custom badges have some limitations:
   - 3D badges must be one mesh renderer, one static mesh (up to 128 triangles **or** 256 vertices) and a single texture (auto resized to 128px)
   - Only the following components are allowed on the badge:
     - `StaticTexture2D`

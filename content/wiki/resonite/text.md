@@ -32,7 +32,7 @@ It is considered good practice to close tags after using them, for instance `<ta
 - `<mark=color>` - Highlights text with the selected colour.
 - `<nobr>` - Ignores automatic line breaks.
 - `<noparse>` - No tags will be parsed within this tag.
-- `<s>` - Renders text strikethrough.
+- `<s>` - Renders text strike-through.
 - `<size=number>` - Sets the size of the text.
 - `<sub>` - Renders the text subscript.
 - `<sup>` - Renders the text superscript.

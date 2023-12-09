@@ -10,7 +10,7 @@ They rely on paths and user/group ownership.
 
 Cloud Variables have two parts:
 
-- Definition - Meta config of the variable; name, type, permissions, default
+- Definition - Meta configuration of the variable; name, type, permissions, default
 - Values - Actual value, stored per-user
 
 [Go back to index.](/wiki/resonite/).
@@ -142,7 +142,7 @@ Both take the same arguments in:
 
 And will return:
 
-- OnRequest - Pulses when triggering ther read
+- OnRequest - Pulses when triggering the read
 - OnDone - Pulses when the value is read successfully
 - OnFail - Pulses when the value has failed reading
 - Value - The value out of the Cloud Variable

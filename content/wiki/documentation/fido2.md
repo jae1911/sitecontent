@@ -1,5 +1,6 @@
 ---
 title: FIDO2
+description: "Random FIDO2 documentation, list of key and supported websites."
 ---
 
 # FIDO2

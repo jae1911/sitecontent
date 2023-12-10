@@ -60,12 +60,12 @@ ${toc}
 Groups allow you to share an inventory space with a multitude of users, which can be useful to cooperate on projects.  
 Creating a group is available starting at the Trailblazer Patreon tier (20€/month). Some other pledges can allow you to create more groups, for instance, Builder (73€/month) will allow you to create two groups and Crafter (145€/month) three groups.
 
-All groups start with a baseline storage of 10GB, which can be extended via the `/shareStorageWithGroup` command (requires Patreon tier Builder or more).
+Groups created on Resonite start without any storage and you will need to use `/shareStorageWithGroup` to allocate some to it.`
 
 - `/createGroup <groupname>` - Create a new group with the specified group name
 - `/getGroupInfo <groupname>` - Gets all the info about a group (requires you to be the admin of said group)
 - `/addMember <groupname> <username> <quota>` - Adds a player to a group
-  - Note: the quota is how many GBs a particular user can access of the full storage of the group. Setting it to `-1` means the member can use as much storage as they want. Groups are limited to 10G by default.
+  - Note: the quota is how many GBs a particular user can access of the full storage of the group. Setting it to `-1` means the member can use as much storage as they want. Groups come with no storage by default, you will need to allocate some with `/shareStorageWithGroup``.
 - `/removeMember <groupname> <username>` - Removes a player from a group
 
 ### Cloud variables

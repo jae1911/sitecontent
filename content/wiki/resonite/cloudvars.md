@@ -95,7 +95,7 @@ It is possible to do everything in one go using `/createGroupVar <path> <type> <
 | Type                    | Description                                               | Locations              | Limitations |
 | ----------------------- | --------------------------------------------------------- | ---------------------- | ----------- |
 | definition_owner        | Only the group who defined the variable can read/write it | Userspace/Safe context | None        |
-| definitioN_owner_unsafe | Only the group who defined the variable can read/write it | Everywhere             | None        |
+| definition_owner_unsafe | Only the group who defined the variable can read/write it | Everywhere             | None        |
 
 ##### The List permission
 

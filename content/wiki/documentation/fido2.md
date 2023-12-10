@@ -6,6 +6,22 @@ title: FIDO2
 
 ${toc}
 
+## Security Keys Providers
+
+- [Yubico](https://www.yubico.com/)
+- [Nitrokey](https://www.nitrokey.com/)
+- [Solokeys](https://solokeys.com/) - Note: cannot recommend at the moment due to state of the project
+- [Thetis](https://thetis.io/)
+- [Onlykey](https://onlykey.io/)
+- [Google Titan](https://en.wikipedia.org/wiki/Titan_Security_Key) - Note: unavailable in most of the world
+- [Feitian](https://www.ftsafe.com/)
+- [ExcelSecu](https://www.excelsecu.com/)
+- [Token2](https://www.token2.com/)
+- [Hypersecu](https://www.hypersecu.com/)
+- [Identiv](https://www.identiv.com/)
+- [Kensington](https://www.kensington.com/)
+- [GoTrust](https://gotrustid.com/)
+
 ## Websites supporting security keys
 
 - [GitHub](https://github.com) - As 2FA

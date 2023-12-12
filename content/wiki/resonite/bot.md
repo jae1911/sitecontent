@@ -67,6 +67,8 @@ Groups created on Resonite start without any storage and you will need to use `/
 - `/addMember <groupname> <username> <quota>` - Adds a player to a group
   - Note: the quota is how many GBs a particular user can access of the full storage of the group. Setting it to `-1` means the member can use as much storage as they want. Groups come with no storage by default, you will need to allocate some with `/shareStorageWithGroup``.
 - `/removeMember <groupname> <username>` - Removes a player from a group
+- `/setMemberQuota <group> <user> <quota>` - Sets a user's quota
+- `/getGroupSpace <group>` - Get how much storage is a group using
 
 ### Cloud variables
 

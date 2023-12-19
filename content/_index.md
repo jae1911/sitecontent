@@ -22,6 +22,8 @@ You can check out:
 
 I also happen to write a bunch of software.
 
+#### I'm also making a VR game! [Check out the devlog!](/pages/vrdevlog)
+
 <img src="https://bm.777.tf/web/wave.webp" alt="Jae waving at the viewer" class="rightgif">
 
 All the content in this website is under the CC BY-SA 4.0 Jae Lo Presti license (unless stated otherwise).

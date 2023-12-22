@@ -36,3 +36,15 @@ I also finished making basic touch tips to later make buttons and other interrac
 
 ![Cube with written on it "I'm bad at making game" with a yellow hand with a blue lines everywhere showing colliders.](https://i.j4.lc/ShareX/2023/12/Godot_v4.2.1-stable_mono_win64_QDMgN03jZB.png)
 
+
+## 2023-12-21
+
+More improvements today, added support for Discord RPC.
+
+![Discord screenshot showing the game status and logo.](https://i.j4.lc/ShareX/2023/12/Discord_NfjHxKQ1VX.png)
+
+Also now exit buttons are functional and exit the game gracefully.
+
+![White square with cyan text saying "EXIT"](https://i.j4.lc/ShareX/2023/12/Godot_v4.2.1-stable_mono_win64_vGY5VcjHYi.png)
+
+Other improvements are to come, currently working on the initial game area.

@@ -9,6 +9,8 @@ menus: ["main"]
 I recently started making a VR game.  
 You will find here most updates.
 
+${toc}
+
 ## 2023-12-17 - The Basics
 
 I spent most of this day playing with tools and setting up the base of the game.  

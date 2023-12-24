@@ -11,14 +11,14 @@ You will find here most updates.
 
 ${toc}
 
-## 2023-12-17 - The Basics
+## 2023-12-17
 
 I spent most of this day playing with tools and setting up the base of the game.  
 I the end, I have a flat world with a few objects including a grabbable one!
 
 <iframe title="2023-12-17 21-02-14 - Basic Movement + Grab test" width="560" height="315" src="https://v.j4.lc/videos/embed/a02eed15-44db-443a-9ba4-36ff6bdf27e1" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
 
-## 2023-12-18 - Basic shaders
+## 2023-12-18
 
 Today, I spent some time experimenting with basic shaders.
 
@@ -28,7 +28,7 @@ I also added a small debug screen on the back of the right hand:
 
 ![Yellow hand with a panel on its back displaying information.](https://i.j4.lc/ShareX/2023/12/Godot_v4.2.1-stable_mono_win64_t7B0O05Q5L.png)
 
-## 2023-12-19 - Logs! and touch!
+## 2023-12-19
 
 Today, I added a custom logging framework that basically will dump some data at the start of the game and allows for... logging.
 

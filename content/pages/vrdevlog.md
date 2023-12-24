@@ -54,3 +54,10 @@ Other improvements are to come, currently working on the initial game area.
 Not much today, just some stuff outside of the game itself:
 
 - Setting up the [Itch page for the game](https://j4lc.itch.io/udwxr)
+
+## 2023-12-24
+
+Today, big addition, the first game area was added as well as some fog.  
+It's far from finished but a big step nonetheless.
+
+<iframe title="2023-12-24 12-53-11" width="560" height="315" src="https://v.j4.lc/videos/embed/0bdd9af9-60f4-4b5c-856f-73d216c112de" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>

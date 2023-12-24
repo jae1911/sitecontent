@@ -48,3 +48,9 @@ Also now exit buttons are functional and exit the game gracefully.
 ![White square with cyan text saying "EXIT"](https://i.j4.lc/ShareX/2023/12/Godot_v4.2.1-stable_mono_win64_vGY5VcjHYi.png)
 
 Other improvements are to come, currently working on the initial game area.
+
+## 2023-12-23
+
+Not much today, just some stuff outside of the game itself:
+
+- Setting up the [Itch page for the game](https://j4lc.itch.io/udwxr)

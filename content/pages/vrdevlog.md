@@ -9,6 +9,9 @@ menus: ["main"]
 I recently started making a VR game.  
 You will find here most updates.
 
+Links:
+- Itch.io - https://j4lc.itch.io/udwxr
+
 ${toc}
 
 ## 2023-12-17
@@ -63,3 +66,39 @@ Today, big addition, the first game area was added as well as some fog.
 It's far from finished but a big step nonetheless.
 
 <iframe title="2023-12-24 12-53-11" width="560" height="315" src="https://v.j4.lc/videos/embed/0bdd9af9-60f4-4b5c-856f-73d216c112de" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+
+## 2023-12-25
+
+Today, small beta release, the 0.4.  
+Here is the changelog:
+
+Added:
+- Base of hand menu
+- Holographic shader
+- Popup generation utility
+- DebugInfo library  
+-- Shows game and computer performance RT if game is launched in debug mode  
+- Complete logging framework  
+-- Completely custom for now  
+-- Dumps the computers stats on start  
+-- Support log levelling  
+- Basic metal shader
+- Touch buttons
+- Basic test spawnbox
+- Working graceful exit button
+- Discord RPC  
+-- Discord RPC is done via an external library for now  
+-- In the future, it will be switched to the official Discord game SDK
+- Basic home scene
+- Automatic publishing to Itch.io
+
+Patched:
+- Grip strenght for grab  
+-- It is now easier to grab objects
+- Pin SDK version to avoid build issues
+- Bump Godot version to avoid build issues
+- Use built-in methods instead of relying on external package for stats
+- Make sure the C# language version is set on latest
+
+Changed:
+- Replaced placeholders to the studio assets

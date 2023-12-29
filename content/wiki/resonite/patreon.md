@@ -12,9 +12,9 @@ All prices are in Euros (EUR) per month and without VAT; final prices may vary d
 | ----------- | ----- | ------------- | -------- | ------------- | -------- | -------- | ------ | ----------------- |
 | Wanderer    | 1€    | 5GB           | No       | 0             | No       | No       | 0      | No                |
 | Explorer    | 5€    | 25GB          | No       | 0             | No       | No       | 0      | No                |
-| Discoverer  | 10€   | 50GB          | Yes      | 0             | No       | No       | 0      | No                |
-| Pathfinder  | 14.5€ | 75GB          | Yes      | 0             | Yes      | No       | 0      | No                |
-| Trailblazer | 19.5€ | 100GB         | Yes      | 0             | Yes      | Yes      | 0      | No                |
+| Discoverer  | 10€   | 50GB          | Yes      | 0             | Yes      | No       | 0      | No                |
+| Pathfinder  | 14.5€ | 75GB          | Yes      | 1             | Yes      | No       | 0      | No                |
+| Trailblazer | 19.5€ | 100GB         | Yes      | 1             | Yes      | Yes      | 1      | No                |
 | Pioneer     | 39€   | 200GB         | Yes      | 1             | Yes      | Yes      | 1      | No                |
 | Builder     | 75.5€ | 500GB         | Yes      | 2             | Yes      | Yes      | 2      | Yes               |
 | Crafter     | 145€  | 1TB           | Yes      | 2             | Yes      | Yes      | 3      | Yes               |

@@ -30,10 +30,12 @@ ${toc}
 - `/enableLogin2FA` - Enables 2FA on login
 - `/disableLogin2FA` - Disables login 2FA
 - `/changeUsername <old username> <new username>` - Changes your username (can only be used once every 7 days)
+  - If your username contains spaces, use "quotes around it", for instance `/changeusername "old username" "new username"`
 - `/serverinfo` - Displays some information about the server like the current uptime, Linux version and runtime version
 - `/setPrimaryEmail <email>` | `/addAlternateEmail <email>` - Either changes your main account email or adds a new alternative one (useful if your Patreon email doesn't matches your Resonite one)
 - `/requestAccountDeletion` - Will **delete** your Resonite account seven days after running this command
-- `/getBenefits` - Will display your current Patreon benefits`
+- `/getBenefits` - Will display your current Patreon benefits
+- `/echo <message>` - Will make the Resonite Bot reply with your message
 
 ### Patreon only
 

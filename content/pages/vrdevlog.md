@@ -40,7 +40,6 @@ I also finished making basic touch tips to later make buttons and other interrac
 
 ![Cube with written on it "I'm bad at making game" with a yellow hand with a blue lines everywhere showing colliders.](https://i.j4.lc/ShareX/2023/12/Godot_v4.2.1-stable_mono_win64_QDMgN03jZB.png)
 
-
 ## 2023-12-21
 
 More improvements today, added support for Discord RPC.
@@ -72,32 +71,35 @@ Today, small beta release, the 0.4.
 Here is the changelog:
 
 Added:
+
 - Base of hand menu
 - Holographic shader
 - Popup generation utility
 - DebugInfo library  
--- Shows game and computer performance RT if game is launched in debug mode  
+  -- Shows game and computer performance RT if game is launched in debug mode
 - Complete logging framework  
--- Completely custom for now  
--- Dumps the computers stats on start  
--- Support log levelling  
+  -- Completely custom for now  
+  -- Dumps the computers stats on start  
+  -- Support log levelling
 - Basic metal shader
 - Touch buttons
 - Basic test spawnbox
 - Working graceful exit button
 - Discord RPC  
--- Discord RPC is done via an external library for now  
--- In the future, it will be switched to the official Discord game SDK
+  -- Discord RPC is done via an external library for now  
+  -- In the future, it will be switched to the official Discord game SDK
 - Basic home scene
 - Automatic publishing to Itch.io
 
 Patched:
+
 - Grip strenght for grab  
--- It is now easier to grab objects
+  -- It is now easier to grab objects
 - Pin SDK version to avoid build issues
 - Bump Godot version to avoid build issues
 - Use built-in methods instead of relying on external package for stats
 - Make sure the C# language version is set on latest
 
 Changed:
+
 - Replaced placeholders to the studio assets

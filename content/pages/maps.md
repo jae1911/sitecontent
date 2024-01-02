@@ -7,6 +7,8 @@ menus: ["main"]
 
 Here is the list of various game maps I've made, participated to, finished and in progress.
 
+${toc}
+
 ## Median
 
 Median is a map originally created for the game [Resonite](https://resonite.com); based on the PC demo of the same name by Ümlaüt Design.  
@@ -85,3 +87,17 @@ _You can click images to make them bigger._
 
 [![Jae on a rocking chair with a black hole in the background.](https://i.j4.lc/ShareX/2023/11/2023-11-01-02.00.30.avif)](https://i.j4.lc/ShareX/2023/11/2023-11-01-02.00.30.avif)
 [![A small platform with a guardrail floating in space, lit by street lights and having some furniture with a black hole in the background.](https://i.j4.lc/ShareX/2023/11/2023-11-01-02.02.40.avif)](https://i.j4.lc/ShareX/2023/11/2023-11-01-02.02.40.avif)
+
+## Club Crystalline
+
+Club Crystalline is a Resonite map released on Jan 1st 2024 in pair with the Crystalline Shard community.  
+With its near-future contemporary style, Club Crystalline is a place to meet, present and party.
+
+Credits:
+- Base map model: PsyEx
+- Furniture: PsyEx, FireFly, j4 (Jae)
+- Map setup: Feyyore, ScarsTRF, Sharkmare, j4 (Jae)
+
+### Trailer
+
+<iframe title="Club Crystalline - Trailer (2024)" width="560" height="315" src="https://v.j4.lc/videos/embed/f7788482-90ee-42f3-b23e-a63507afbc96" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>

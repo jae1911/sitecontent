@@ -10,9 +10,8 @@ description: "The website of Jae Lo Presti."
 
 Hey there, I'm Jae Lo Presti (AKA J4), I was born in the mountains of Savoy but I'm currently living in Helsinki (Finland).
 
-I mainly do code, sysadmin and networking (used to operate AS211696).
-
 On my free time, I create content on Resonite as a mentor, including maps, systems, objects and tutorials. I also happen to make 3D art.  
+I usually endorse the role of a technical artist, integrating works into virtual world and game engines.
 You can check out:
 
 - [My maps](/pages/maps)

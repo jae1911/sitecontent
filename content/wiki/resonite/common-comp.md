@@ -5,6 +5,9 @@ description: "Common Resonite components."
 
 # Common components
 
+## Hey! The [official Resonite wiki is out](https://wiki.resonite.com). It means this is now unmaintained.
+
+
 This page describes how to use very common components.
 
 [Go back to index.](/wiki/resonite/).

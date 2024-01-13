@@ -5,6 +5,9 @@ description: "Headless client usage."
 
 # Headless client
 
+## Hey! The [official Resonite wiki is out](https://wiki.resonite.com). It means this is now unmaintained.
+
+
 The headless client is basically the game without the user interface, allowing you to host _somewhat_ permanent sessions, like with a server.  
 In order to access the headless client, you need to be a supporter on the [Resonite Patreon](https://patreon.com/resonite) with a membership of Discoverer or more.
 

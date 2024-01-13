@@ -5,6 +5,9 @@ description: "Resonite launch arguments."
 
 # Launch Arguments
 
+## Hey! The [official Resonite wiki is out](https://wiki.resonite.com). It means this is now unmaintained.
+
+
 Resonite can be launched with a number of arguments.  
 To use them, all you have to do is right click on Resonite on Steam, select "properties" and add your launch arguments to the text box.
 

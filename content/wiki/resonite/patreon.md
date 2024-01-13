@@ -5,6 +5,9 @@ description: "Patreon Tiers and rewards."
 
 # Patreon tiers
 
+## Hey! The [official Resonite wiki is out](https://wiki.resonite.com). It means this is now unmaintained.
+
+
 This page describes all the Patreon tiers and rewards available on the [Resonite Patreon](https://patreon.com/Resonite), and is meant to be a quick comparison matrix.  
 All prices are in Euros (EUR) per month and without VAT; final prices may vary depending on local currency.
 

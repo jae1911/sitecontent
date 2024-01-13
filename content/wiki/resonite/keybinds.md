@@ -5,6 +5,9 @@ description: "Resonite keybinds."
 
 # Keybinds
 
+## Hey! The [official Resonite wiki is out](https://wiki.resonite.com). It means this is now unmaintained.
+
+
 Resonite has a bunch of keybinds available in desktop mode, here is most of them.
 
 [Go back to index.](/wiki/resonite/).

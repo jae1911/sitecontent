@@ -4,6 +4,8 @@ description: "Miscellaneous thigns about Resonite."
 ---
 
 # Miscellaneous
+## Hey! The [official Resonite wiki is out](https://wiki.resonite.com). It means this is now unmaintained.
+
 
 Random stuff too small to be in its own category.
 

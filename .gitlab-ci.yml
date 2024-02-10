@@ -1,3 +1,21 @@
+jobs:
+  - test
+  - publish-content
+
+cache:
+  paths:
+    - node_modules/
+    - .yarn
+
+test:
+  stage: test
+  image: current-alpine
+  before_script:
+    - yarn config set cache-folder .yarn
+    - yarn install --frozen-lockfile
+  script:
+    - yarn prettier
+
 publish-content:
   stage: deploy
   image: alpine:latest

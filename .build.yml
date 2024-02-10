@@ -1,7 +1,0 @@
-arch: x86_64
-image: archlinux
-secrets:
-  - d8224bba-d458-4404-b00f-ff3b9eef960d
-  - 8faece3b-a325-416c-9fa1-723fcaf5fa56
-tasks:
-  - publish: bash ~/deploy.sh

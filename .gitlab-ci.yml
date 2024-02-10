@@ -9,7 +9,7 @@ cache:
 
 test:
   stage: test
-  image: current-alpine
+  image: node:current-alpine
   before_script:
     - yarn config set cache-folder .yarn
     - yarn install --frozen-lockfile

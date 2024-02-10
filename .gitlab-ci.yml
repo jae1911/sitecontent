@@ -1,4 +1,4 @@
-jobs:
+stages:
   - test
   - publish-content
 

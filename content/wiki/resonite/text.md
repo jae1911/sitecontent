@@ -7,7 +7,6 @@ description: "Formatting text in Resonite."
 
 ## Hey! The [official Resonite wiki is out](https://wiki.resonite.com). It means this is now unmaintained.
 
-
 [Go back to index.](/wiki/resonite/).
 
 There is a variety of tags available to format text in Resonite.  

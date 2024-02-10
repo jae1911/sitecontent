@@ -7,7 +7,6 @@ description: "Using Cloud Variables."
 
 ## Hey! The [official Resonite wiki is out](https://wiki.resonite.com). It means this is now unmaintained.
 
-
 Cloud Variables are variables that persist across worlds.  
 They rely on paths and user/group ownership.
 

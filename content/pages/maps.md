@@ -94,6 +94,7 @@ Club Crystalline is a Resonite map released on Jan 1st 2024 in pair with the Cry
 With its near-future contemporary style, Club Crystalline is a place to meet, present and party.
 
 Credits:
+
 - Base map model: PsyEx
 - Furniture: PsyEx, FireFly, j4 (Jae)
 - Map setup: Feyyore, ScarsTRF, Sharkmare, j4 (Jae)

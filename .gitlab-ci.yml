@@ -31,3 +31,4 @@ publish-content:
     - ssh $SSHUSER@$DEPLOYSERVER "cd content && git pull"
   only:
     - beep
+  needs: ["test"]

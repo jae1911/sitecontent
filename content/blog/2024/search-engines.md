@@ -15,6 +15,7 @@ In this, all search engines are affected (unless it has some aspects vetted manu
 ## Ads, ads everywhere
 
 When submitting a query on Google, you'll first be presented with either:
+
 - A banner of sponsored products (mostly for shopping, for instance `best laptop`)
 - A bunch of links looking like legitimate search results but that are in fact sponsored (for instance `antivirus`)
 
@@ -36,7 +37,7 @@ SEO overall is just an arms race to be the first in keyword searches that only m
 
 ### AI
 
-*Oh boy, here we go again.*
+_Oh boy, here we go again._
 
 With the advent of LLMs, we now have software capable of hallucinating large amounts of text.  
 Can you guess who would want large amounts of text to be generated? That's right, SEO spammers!
@@ -73,14 +74,14 @@ I've used it for about a year and half total with another try end of last year a
 While ads aren't present as promised and that the result filtering is good, results themselves suck as much as on any other search engine.  
 Don't take my word for it, you can in fact test Kagi with 100 searches for free per month.
 
-Overall, I don't see any good enough reasons to pay for it as even the filtering can be achieved on any other search engine (it was just made into a neat little interface there).  
+Overall, I don't see any good enough reasons to pay for it as even the filtering can be achieved on any other search engine (it was just made into a neat little interface there).
 
 There are other paid search engines, but not notable enough yet to warrant their own tests for now (future blog posts will be posted once they do).
 
 ## What can we do?
 
 Being honest, not much, as search engines are essential for basically everyday life.  
-As we can't really swap to another one to magically make the problem disappear, I have some tips to make existing one *more livable*.
+As we can't really swap to another one to magically make the problem disappear, I have some tips to make existing one _more livable_.
 
 One first method is using operators to refine your search as much as possible (Google for sure will support those as well as some others):
 

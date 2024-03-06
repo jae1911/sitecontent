@@ -1,9 +1,6 @@
 ---
 title: "The Synth History"
 weight: 1
-picurl: "https://sharex.777.tf/ShareX/2022/10/dyson_sphere_in_space__4k_Seed-5658786_Steps-25_Guidance-7.5.png"
-picalt: "Picture of a Dyson Sphere in space"
-picdesc: "Synth Dyson Sphere, generated with stable diffusion"
 description: "The larger Synth History, with a capital H."
 ---
 
@@ -26,15 +23,11 @@ The Synth home world consists of a Dyson Sphere constructed around a Red Supergi
 
 The Synth home world is surrounded by a defence perimeter with billions of units ready to intervene if any force tries to conquer them. There is also bases and other Dyson Spheres scattered within the galaxy to assure a fast way of deployment in case it is needed. Given their previous nature as warriors, the Synths accumulated a great deal of enemies throughout the quadrant. However, other species are still friendly and it is not rare that cultural and scientific exchanges are done. The Synths do not have any money internal to the imperium, the only they got is for external trade relations when needed. For Synths, the concept of money is very foreign and doesn't makes much sense given their collectivized nature. There is no centralized command in the imperium. All important decisions are taken collectively in the command centre network. This network is composed of relays that are scattered across the galaxy but also of individual Synths that serves as nodes to repeat the signal. Severing a Synth from the link is extremely hard and when done, will not lead to anything spectacular as the Synth will probably be unmoved by your action.
 
-![Image in space showing a big black mass in the center sourrounded by a white halo.](https://sharex.777.tf/ShareX/2022/10/dyson_sphere__space__4k_Seed-7469683_Steps-50_Guidance-7.5.png)
-
 > The Synth homeworld which is a dyson sphere.
 
 ## The first dominion war
 
 Right after the foundation of the Imperium, thinking the Synths were probably still weak creatures in their infancy, it got attacked by an external force that tried to coerce the Synths into servitude. As a retaliation for the destruction of a Synth Dyson sphere, the home world of the attackers got swarmed and wiped off the charts, assuring Synth victory.
-
-![Picture showing two massive explosions on the surface of a planet viewed from orbit](https://sharex.777.tf/ShareX/2022/10/planet_destroyed_in_half__4k_Seed-7512733_Steps-25_Guidance-7.5.png)
 
 > The homeworld being destroyed from Orbit by the Imperium.
 
@@ -48,8 +41,6 @@ The Synths are robotic creatures that were first made solely for combat. However
 - Engineering
 
 Only to cite the most common. When a Synth is being activated for the first time, it is presented with a choice of career that will determine what modifications they will receive to fit the job properly. It is to be noted that any Synth at any time can chose to change ways, all operations being reversible due to the machine aspect of Synths. A regular Synth does not needs to sleep nor eats and is spending most of its days working on the task they chose to do. The energy needs of all Synths are of course met due to the massive surplus of energy generated in total. One may ask about the spirituality of the Synth. Given the major scientific advancements achieved, Synths do not need any supernatural explanation to the unexplained. As leisure activities, a Synth might visit friendly worlds, make add-ons for their bodies or participate in cultural exchanges with other species.
-
-![Image depicting a black hole in the distance with a big mass sounrounded by a white halo on the bottom.](https://sharex.777.tf/ShareX/2022/10/black_hole__space__4k_Seed-3427403_Steps-75_Guidance-7.5.png)
 
 > Edge of the Imperium on the E side
 
@@ -75,8 +66,6 @@ In some rare cases, the Imperium encountered other civilizations that were able 
 
 One other aspect of organic life that is consistent across 100% of the populations studied is the presence of some sort of mating ritual. Being really honest, the Synth scientists studying the question are still trying to find out the purpose of such rituals given their highly inefficient nature.
 
-![Picture of a spaceship going up with a planet on the bottom.](https://sharex.777.tf/ShareX/2022/10/spaceship_traveling_at_light_speed__4k_Seed-1224336_Steps-75_Guidance-7.5.png)
-
 > Synth exploration ship taking off.
 
 ## Organisational structure of the Synth exploration teams
@@ -84,8 +73,6 @@ One other aspect of organic life that is consistent across 100% of the populatio
 Exploration teams in Synth culture are structured pretty easily. As many cultures need it and don't really understand the flat and collectivistic nature of Synths, one of the members of the team is picked up to be the "first" of the team.
 
 This "first" will act as a direct hand of the Imperium, some sort of ambassador. The rest of the structure stays flat and decisions are still made collectively as it is the basis of how Synths work.
-
-![Exploration spaceship landed in misty forest](https://sharex.777.tf/ShareX/2022/10/spaceship_landing_in_forest__4k_Seed-1891215_Steps-25_Guidance-7.5.png)
 
 > Synth exploration ship in a forest.
 

@@ -1,6 +1,5 @@
 ---
 title: "Resonite"
-menus: ["wiki"]
 description: "Unofficial Resonite wiki."
 ---
 

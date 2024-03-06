@@ -1,6 +1,7 @@
 ---
 title: Infrastructure
 description: Infrastructure of 777.tf
+menus: ["main"]
 ---
 
 # Infrastructure

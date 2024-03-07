@@ -21,4 +21,13 @@ git submodule update --init
 yarn
 yarn dev
 ```
+
 This should launch a development server on `http://localhost:8080` ready to be used.
+
+### Docker
+
+To build a local Docker image, use:
+
+```
+docker build -t overengine:latest .
+```

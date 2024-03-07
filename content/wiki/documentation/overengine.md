@@ -55,7 +55,7 @@ NODE_ENV=production
 ```
 
 Congrats, you have now a running version of Overengine.  
-Proceed to the [configuration](#Configuration) section of this page for more information.
+Proceed to the [configuration](#configuration) section of this page for more information.
 
 It is also recommended to use a reverse proxy such as [Caddy](https://caddyserver.com/) to have HTTPS on the site.
 

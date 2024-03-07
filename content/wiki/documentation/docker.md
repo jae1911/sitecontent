@@ -14,24 +14,21 @@ ${toc}
 ## Installing Docker
 
 Everything there needs to be run as room (you can use `sudo` for most commands).  
-Update your system with `apt update` and then install prerequisites `apt install ca-certificates curl gnupg lsb-release`.
+Update your system with `apt update` and then install prerequisites `apt install ca-certificates curl`.
 
-Add the Docker PGP key:
-
-```bash
-mkdir -p /etc/apt/keyrings
-curl -fsSL https://download.docker.com/linux/debian/gpg | gpg --dearmor -o /etc/apt/keyrings/docker.gpg
-```
-
-And then add the repo:
+You can now begin:
 
 ```bash
+sudo install -m 0755 -d /etc/apt/keyrings
+sudo curl -fsSL https://download.docker.com/linux/debian/gpg -o /etc/apt/keyrings/docker.asc
+sudo chmod a+r /etc/apt/keyrings/docker.asc
 echo \
-  "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/debian \
-  $(lsb_release -cs) stable" | tee /etc/apt/sources.list.d/docker.list > /dev/null
+  "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://download.docker.com/linux/debian \
+  $(. /etc/os-release && echo "$VERSION_CODENAME") stable" | \
+  sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
 ```
 
-Now, update and install Docker itself `apt update; apt install docker-ce docker-ce-cli containerd.io docker-compose-plugin`  
+Now, update and install Docker itself `apt update; apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin`  
 This will install the base of Docker but also the `docker-compose` plugin that we will use later.
 
 Now enable and start Docker and you're all set:

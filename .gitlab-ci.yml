@@ -2,6 +2,9 @@ stages:
   - test
   - deploy
 
+include:
+  - template: Jobs/Secret-Detection.gitlab-ci.yml
+
 cache:
   paths:
     - node_modules/

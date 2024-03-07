@@ -2,9 +2,6 @@
 title: "Announcing Overengine"
 date: 2022-10-21T12:00:00+03:00
 draft: false
-picurl: "https://bm.jae.fi/web/blog/grid-0010.webp"
-picalt: "Picture of a street looking medieval with wooden houses around"
-picdesc: "Generated with Stable Diffusion using the prompt: steampunk city photorealistic; upscaled using chaiNNer"
 tags: ["tech", "software", "meta"]
 ---
 

@@ -27,6 +27,7 @@ List of service providers I used at some point, noted and with comments.
 | 777.tf            | 100/10 | The best <3                                                                                                                            |
 | NextDNS           | 10/10  | Works as intended; cheap plans                                                                                                         |
 | BunnyCDN          | 10/10  | Works as intended; good service; cheap                                                                                                 |
+| Proton (Mail)     | 8/10   | Works well enough                                                                                                                      |
 
 ## ISPs & Carriers
 
@@ -38,3 +39,15 @@ List of service providers I used at some point, noted and with comments.
 | DNA    | Finland | 10/10 | Full IPv6 support; Gigabit at a reasonable price                                                                         |
 | Moi    | Finland | 10/10 | Excellent prices for phone plans                                                                                         |
 | Elisa  | Finland | 5/10  | No English interface; expensive phone plans                                                                              |
+
+## Software
+
+| Name          | Note   | Comment                                                                   |
+| ------------- | ------ | ------------------------------------------------------------------------- |
+| GitLab        | 10/10  | Does what I want and works.                                               |
+| Sublime Text  | 10/10  | Works                                                                     |
+| GitButler     | 0/10   | Horrible concepts, looks good but nothing usable beyond that              |
+| Leechee       | 3/10   | Used to work, extremely slow since last updates, cannot recommend anymore |
+| Firefox       | 10/10  |                                                                           |
+| uBlock Origin | 100/10 | A must-have.                                                              |
+| iTerm2        | 10/10  |                                                                           |

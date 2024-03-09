@@ -11,7 +11,6 @@ ${toc}
 
 - [Yubico](https://www.yubico.com/)
 - [Nitrokey](https://www.nitrokey.com/)
-- [Solokeys](https://solokeys.com/) - Note: cannot recommend at the moment due to state of the project
 - [Thetis](https://thetis.io/)
 - [Onlykey](https://onlykey.io/)
 - [Google Titan](https://en.wikipedia.org/wiki/Titan_Security_Key) - Note: unavailable in most of the world

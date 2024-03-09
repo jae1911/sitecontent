@@ -14,10 +14,9 @@ On my free time, I create content on Resonite as a mentor, including maps, syste
 I endorse the role of a technical artist, integrating works into virtual worlds and game engines.
 You can check out:
 
-- [My maps](/pages/maps)
+- [My portfolio](https://j4.lc)
 - [My YouTube channel](https://www.youtube.com/@j4l/)
-- [My renders & art](/pages/renders)
-- [My GumRoad Store](https://dsrcreations.gumroad.com/)
+- [My GitLab](https://g.j4.lc)
 
 I also happen to write a bunch of software.
 

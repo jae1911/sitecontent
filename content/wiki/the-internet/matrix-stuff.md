@@ -22,7 +22,6 @@ List of random stuff about Matrix like clients, servers and others.
 ## Public rooms
 
 - [Furry Tech (#furrytech:matrix.org)](https://matrix.to/#/%23furrytech:matrix.org) - Furries... and tech!
-- [DN0 Home (#home:jae.fi)](https://matrix.to/#/%23home:jae.fi) - My own Matrix home
 
 ## Public servers
 

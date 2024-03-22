@@ -54,7 +54,7 @@ This command will only keep the 10 latest backups.
 To restore a backup, it's as easy as creating one:
 
 ```
-restic -p /sec/app -r s3:s3.server.tld/backup/app restore latest --target /path/to/app
+restic -p /sec/pass -r s3:s3.server.tld/backup/app restore latest --target /path/to/app
 ```
 
 ## The script
@@ -68,5 +68,4 @@ export AWS_ACCESS_KEY_ID=myaccesskey
 export AWS_ACCESS_KEY_ID=iamverysecure
 
 restic -p /sec/pass -r s3:s3.server.tld/backups/app forget --keep-last 10 --prune
-restic -p /sec/app -r s3:s3.server.tld/backup/app restore latest --target /path/to/app
 ```
